@@ -34,24 +34,15 @@
         {
           "rank": 3,
           "game": "Green Bay Packers @ Chicago Bears",
-          "pick": "Green Bay Packers",
-          "confidence": 64.4,
+          "pick": "Chicago Bears",
+          "confidence": 50.7,
           "points": 6,
-          "spread": 5.5,
-          "weather": "-1.6°C, 14.6mph",
-          "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Chicago Bears\n\n🌤️ Weather adjustments:\n   • Kulde (-2°C) påvirker boldhåndtering\n\n✅ FINAL: 64% confidence → Pick Green Bay Packers",
-          "base_prob": "36.6%",
-          "final_prob": "35.6%",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-21T03:31:22.500990",
-              "week": 16,
-              "spread_home": 5.5,
-              "moneyline_home": 310,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "spread": -1.5,
+          "weather": "0.2°C, 15.7mph",
+          "reasoning": "📊 Odds baseline: Spread -1.5 → 54% win probability for Chicago Bears\n\n🌤️ Weather adjustments:\n   • Høj vind (16 mph) påvirker passing game negativt (-3%)\n\n✅ FINAL: 51% confidence → Pick Chicago Bears",
+          "base_prob": "53.7%",
+          "final_prob": "50.7%",
+          "odds_history": [],
           "game_time_cph": "21/12 02:20"
         },
         {
@@ -61,13 +52,13 @@
           "confidence": 81.0,
           "points": 100,
           "spread": -14.5,
-          "weather": "20.7°C, 2.9mph",
-          "reasoning": "📊 Odds baseline: Spread -14.5 → 81% win probability for Houston Texans\n\n🌤️ Weather adjustments:\n   • Gode forhold (21°C, 3 mph vind)\n\n✅ FINAL: 81% confidence → Pick Houston Texans",
+          "weather": "22.4°C, 4.6mph",
+          "reasoning": "📊 Odds baseline: Spread -14.5 → 81% win probability for Houston Texans\n\n🌤️ Weather adjustments:\n   • Gode forhold (22°C, 5 mph vind)\n\n✅ FINAL: 81% confidence → Pick Houston Texans",
           "base_prob": "81.0%",
           "final_prob": "81.0%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.737337",
+              "timestamp": "2025-12-21T11:15:22.298269",
               "week": 16,
               "spread_home": -14.5,
               "moneyline_home": -1450,
@@ -84,13 +75,13 @@
           "confidence": 75.1,
           "points": 75,
           "spread": 10.5,
-          "weather": "-4.9°C, 6.5mph",
-          "reasoning": "📊 Odds baseline: Spread +10.5 → 26% win probability for Cleveland Browns\n\n🌤️ Weather adjustments:\n   • Kulde (-5°C) påvirker boldhåndtering\n\n✅ FINAL: 75% confidence → Pick Buffalo Bills",
+          "weather": "-4.4°C, 7.1mph",
+          "reasoning": "📊 Odds baseline: Spread +10.5 → 26% win probability for Cleveland Browns\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 75% confidence → Pick Buffalo Bills",
           "base_prob": "25.9%",
           "final_prob": "24.9%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.501447",
+              "timestamp": "2025-12-21T11:15:22.295233",
               "week": 16,
               "spread_home": 10.5,
               "moneyline_home": 470,
@@ -107,13 +98,13 @@
           "confidence": 65.7,
           "points": 50,
           "spread": -6.5,
-          "weather": "21.5°C, 1.2mph",
-          "reasoning": "📊 Odds baseline: Spread -6.5 → 66% win probability for New Orleans Saints\n\n🌤️ Weather adjustments:\n   • Gode forhold (22°C, 1 mph vind)\n\n✅ FINAL: 66% confidence → Pick New Orleans Saints",
+          "weather": "23.3°C, 7.5mph",
+          "reasoning": "📊 Odds baseline: Spread -6.5 → 66% win probability for New Orleans Saints\n\n🌤️ Weather adjustments:\n   • Gode forhold (23°C, 8 mph vind)\n\n✅ FINAL: 66% confidence → Pick New Orleans Saints",
           "base_prob": "65.7%",
           "final_prob": "65.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.735470",
+              "timestamp": "2025-12-21T11:15:22.296973",
               "week": 16,
               "spread_home": -6.5,
               "moneyline_home": -285,
@@ -130,13 +121,13 @@
           "confidence": 63.4,
           "points": 40,
           "spread": 5.5,
-          "weather": "8.2°C, 9.3mph",
-          "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 9 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers",
+          "weather": "7.5°C, 7.9mph",
+          "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 8 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers",
           "base_prob": "36.6%",
           "final_prob": "36.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.738162",
+              "timestamp": "2025-12-21T11:15:22.298972",
               "week": 16,
               "spread_home": 5.5,
               "moneyline_home": 205,
@@ -153,13 +144,13 @@
           "confidence": 61.1,
           "points": 35,
           "spread": 4.5,
-          "weather": "21.9°C, 6.9mph",
-          "reasoning": "📊 Odds baseline: Spread +4.5 → 39% win probability for Miami Dolphins\n\n🌤️ Weather adjustments:\n   • Gode forhold (22°C, 7 mph vind)\n\n✅ FINAL: 61% confidence → Pick Cincinnati Bengals",
+          "weather": "21.4°C, 6.8mph",
+          "reasoning": "📊 Odds baseline: Spread +4.5 → 39% win probability for Miami Dolphins\n\n🌤️ Weather adjustments:\n   • Gode forhold (21°C, 7 mph vind)\n\n✅ FINAL: 61% confidence → Pick Cincinnati Bengals",
           "base_prob": "38.9%",
           "final_prob": "38.9%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.733891",
+              "timestamp": "2025-12-21T11:15:22.295769",
               "week": 16,
               "spread_home": 4.5,
               "moneyline_home": 185,
@@ -176,13 +167,13 @@
           "confidence": 60.8,
           "points": 30,
           "spread": -7.0,
-          "weather": "-6.4°C, 3.2mph",
-          "reasoning": "📊 Odds baseline: Spread -7.0 → 67% win probability for Detroit Lions\n\n⚕️ Injury adjustments:\n   • Example DE (DE) - Out: stor impact (-5.0%)\n\n🌤️ Weather adjustments:\n   • Kulde (-6°C) påvirker boldhåndtering\n\n✅ FINAL: 61% confidence → Pick Detroit Lions",
+          "weather": "-5.4°C, 3.2mph",
+          "reasoning": "📊 Odds baseline: Spread -7.0 → 67% win probability for Detroit Lions\n\n⚕️ Injury adjustments:\n   • Example DE (DE) - Out: stor impact (-5.0%)\n\n🌤️ Weather adjustments:\n   • Kulde (-5°C) påvirker boldhåndtering\n\n✅ FINAL: 61% confidence → Pick Detroit Lions",
           "base_prob": "66.8%",
           "final_prob": "60.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.736740",
+              "timestamp": "2025-12-21T11:15:22.297861",
               "week": 16,
               "spread_home": -7.0,
               "moneyline_home": -345,
@@ -199,13 +190,13 @@
           "confidence": 58.7,
           "points": 26,
           "spread": -3.5,
-          "weather": "9.5°C, 6.0mph",
-          "reasoning": "📊 Odds baseline: Spread -3.5 → 59% win probability for Denver Broncos\n\n🌤️ Weather adjustments:\n   • Gode forhold (10°C, 6 mph vind)\n\n✅ FINAL: 59% confidence → Pick Denver Broncos",
+          "weather": "8.4°C, 4.2mph",
+          "reasoning": "📊 Odds baseline: Spread -3.5 → 59% win probability for Denver Broncos\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 4 mph vind)\n\n✅ FINAL: 59% confidence → Pick Denver Broncos",
           "base_prob": "58.7%",
           "final_prob": "58.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.736332",
+              "timestamp": "2025-12-21T11:15:22.297569",
               "week": 16,
               "spread_home": -3.5,
               "moneyline_home": -180,
@@ -222,13 +213,13 @@
           "confidence": 57.4,
           "points": 22,
           "spread": 3.0,
-          "weather": "9.0°C, 6.1mph",
-          "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Carolina Panthers\n\n🌤️ Weather adjustments:\n   • Gode forhold (9°C, 6 mph vind)\n\n✅ FINAL: 57% confidence → Pick Tampa Bay Buccaneers",
+          "weather": "10.8°C, 5.4mph",
+          "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Carolina Panthers\n\n🌤️ Weather adjustments:\n   • Gode forhold (11°C, 5 mph vind)\n\n✅ FINAL: 57% confidence → Pick Tampa Bay Buccaneers",
           "base_prob": "42.6%",
           "final_prob": "42.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.501591",
+              "timestamp": "2025-12-21T11:15:22.295635",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 130,
@@ -245,13 +236,13 @@
           "confidence": 57.4,
           "points": 18,
           "spread": 3.0,
-          "weather": "19.1°C, 4.7mph",
-          "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Arizona Cardinals\n\n🌤️ Weather adjustments:\n   • Gode forhold (19°C, 5 mph vind)\n\n✅ FINAL: 57% confidence → Pick Atlanta Falcons",
+          "weather": "18.8°C, 5.9mph",
+          "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Arizona Cardinals\n\n🌤️ Weather adjustments:\n   • Gode forhold (19°C, 6 mph vind)\n\n✅ FINAL: 57% confidence → Pick Atlanta Falcons",
           "base_prob": "42.6%",
           "final_prob": "42.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.735950",
+              "timestamp": "2025-12-21T11:15:22.297301",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 130,
@@ -268,13 +259,13 @@
           "confidence": 57.2,
           "points": 14,
           "spread": 2.5,
-          "weather": "-1.4°C, 12.1mph",
-          "reasoning": "📊 Odds baseline: Spread +2.5 → 44% win probability for New York Giants\n\n🌤️ Weather adjustments:\n   • Kulde (-1°C) påvirker boldhåndtering\n\n✅ FINAL: 57% confidence → Pick Minnesota Vikings",
+          "weather": "-0.2°C, 11.7mph",
+          "reasoning": "📊 Odds baseline: Spread +2.5 → 44% win probability for New York Giants\n\n🌤️ Weather adjustments:\n   • Kulde (-0°C) påvirker boldhåndtering\n\n✅ FINAL: 57% confidence → Pick Minnesota Vikings",
           "base_prob": "43.8%",
           "final_prob": "42.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.735084",
+              "timestamp": "2025-12-21T11:15:22.296626",
               "week": 16,
               "spread_home": 2.5,
               "moneyline_home": 124,
@@ -291,13 +282,13 @@
           "confidence": 56.4,
           "points": 12,
           "spread": 3.0,
-          "weather": "8.3°C, 5.6mph",
-          "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Tennessee Titans\n\n⚕️ Injury adjustments:\n   • Kansas City Chiefs injuries help Tennessee Titans\n   • Example Player (DT) - Questionable: lille impact (-1.0%)\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 6 mph vind)\n\n✅ FINAL: 56% confidence → Pick Kansas City Chiefs",
+          "weather": "8.6°C, 4.5mph",
+          "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Tennessee Titans\n\n⚕️ Injury adjustments:\n   • Kansas City Chiefs injuries help Tennessee Titans\n   • Example Player (DT) - Questionable: lille impact (-1.0%)\n\n🌤️ Weather adjustments:\n   • Gode forhold (9°C, 4 mph vind)\n\n✅ FINAL: 56% confidence → Pick Kansas City Chiefs",
           "base_prob": "42.6%",
           "final_prob": "43.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.734746",
+              "timestamp": "2025-12-21T11:15:22.296383",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 136,
@@ -314,16 +305,16 @@
           "confidence": 56.4,
           "points": 10,
           "spread": -3.0,
-          "weather": "-4.5°C, 4.6mph",
+          "weather": "-4.0°C, 4.3mph",
           "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability for Baltimore Ravens\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 56% confidence → Pick Baltimore Ravens",
           "base_prob": "57.4%",
           "final_prob": "56.4%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.737701",
+              "timestamp": "2025-12-21T11:15:22.298615",
               "week": 16,
               "spread_home": -3.0,
-              "moneyline_home": -170,
+              "moneyline_home": -180,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -337,16 +328,16 @@
           "confidence": 53.7,
           "points": 8,
           "spread": -1.5,
-          "weather": "14.7°C, 6.8mph",
+          "weather": "14.8°C, 7.1mph",
           "reasoning": "📊 Odds baseline: Spread -1.5 → 54% win probability for Dallas Cowboys\n\n🌤️ Weather adjustments:\n   • Gode forhold (15°C, 7 mph vind)\n\n✅ FINAL: 54% confidence → Pick Dallas Cowboys",
           "base_prob": "53.7%",
           "final_prob": "53.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:31:22.734248",
+              "timestamp": "2025-12-21T11:15:22.296093",
               "week": 16,
               "spread_home": -1.5,
-              "moneyline_home": -125,
+              "moneyline_home": -122,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -355,8 +346,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-21T03:31:28.770942",
-      "updated_at": "2025-12-21T03:31:28.770952"
+      "created_at": "2025-12-21T11:15:29.031823",
+      "updated_at": "2025-12-21T11:15:29.031831"
     }
   ]
 }
