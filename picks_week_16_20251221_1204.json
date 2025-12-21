@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "generated_at": "2025-12-21T12:04:21.595775",
+  "generated_at": "2025-12-21T12:04:22.355399",
   "games_analyzed": 13,
   "official_games": 16,
   "picks": [
@@ -282,18 +282,18 @@
       "adjustments": [],
       "injury_adjustments": [],
       "weather": {
-        "temp": 8.1,
-        "wind_speed": 9.2,
-        "precipitation": 0.0,
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
         "conditions": "clear"
       },
       "weather_adjustments": [
-        "   • Gode forhold (8°C, 9 mph vind)"
+        "   • Gode forhold (65°C, 10 mph vind)"
       ],
       "final_prob": 0.3659,
       "pick": "San Francisco 49ers",
       "confidence": 63.4,
-      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 9 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers"
+      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers"
     }
   ]
 }
