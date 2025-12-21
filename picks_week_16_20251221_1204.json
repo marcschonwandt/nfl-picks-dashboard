@@ -1,6 +1,6 @@
 {
   "week": 16,
-  "generated_at": "2025-12-21T12:04:06.618354",
+  "generated_at": "2025-12-21T12:04:21.595775",
   "games_analyzed": 13,
   "official_games": 16,
   "picks": [
@@ -260,18 +260,18 @@
       "adjustments": [],
       "injury_adjustments": [],
       "weather": {
-        "temp": 65,
-        "wind_speed": 10,
-        "precipitation": 0,
+        "temp": -4.0,
+        "wind_speed": 4.3,
+        "precipitation": 0.0,
         "conditions": "clear"
       },
       "weather_adjustments": [
-        "   • Gode forhold (65°C, 10 mph vind)"
+        "   • Kulde (-4°C) påvirker boldhåndtering"
       ],
-      "final_prob": 0.5744,
+      "final_prob": 0.5644,
       "pick": "Baltimore Ravens",
-      "confidence": 57.4,
-      "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability for Baltimore Ravens\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 57% confidence → Pick Baltimore Ravens"
+      "confidence": 56.4,
+      "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability for Baltimore Ravens\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 56% confidence → Pick Baltimore Ravens"
     },
     {
       "home_team": "Indianapolis Colts",
@@ -282,18 +282,18 @@
       "adjustments": [],
       "injury_adjustments": [],
       "weather": {
-        "temp": 65,
-        "wind_speed": 10,
-        "precipitation": 0,
+        "temp": 8.1,
+        "wind_speed": 9.2,
+        "precipitation": 0.0,
         "conditions": "clear"
       },
       "weather_adjustments": [
-        "   • Gode forhold (65°C, 10 mph vind)"
+        "   • Gode forhold (8°C, 9 mph vind)"
       ],
       "final_prob": 0.3659,
       "pick": "San Francisco 49ers",
       "confidence": 63.4,
-      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers"
+      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 9 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers"
     }
   ]
 }

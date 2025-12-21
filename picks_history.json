@@ -58,7 +58,7 @@
           "final_prob": "81.0%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.946014",
+              "timestamp": "2025-12-21T12:04:16.160598",
               "week": 16,
               "spread_home": -14.5,
               "moneyline_home": -1350,
@@ -81,7 +81,7 @@
           "final_prob": "24.9%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.941822",
+              "timestamp": "2025-12-21T12:04:16.156576",
               "week": 16,
               "spread_home": 10.5,
               "moneyline_home": 470,
@@ -104,7 +104,7 @@
           "final_prob": "65.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.944305",
+              "timestamp": "2025-12-21T12:04:16.159045",
               "week": 16,
               "spread_home": -6.5,
               "moneyline_home": -285,
@@ -121,13 +121,13 @@
           "confidence": 63.4,
           "points": 40,
           "spread": 5.5,
-          "weather": "65°C, 10mph",
-          "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers",
+          "weather": "8.1°C, 9.2mph",
+          "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Gode forhold (8°C, 9 mph vind)\n\n✅ FINAL: 63% confidence → Pick San Francisco 49ers",
           "base_prob": "36.6%",
           "final_prob": "36.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.946924",
+              "timestamp": "2025-12-21T12:04:16.161417",
               "week": 16,
               "spread_home": 5.5,
               "moneyline_home": 205,
@@ -150,7 +150,7 @@
           "final_prob": "38.9%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.942484",
+              "timestamp": "2025-12-21T12:04:16.157257",
               "week": 16,
               "spread_home": 4.5,
               "moneyline_home": 185,
@@ -173,7 +173,7 @@
           "final_prob": "60.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.945559",
+              "timestamp": "2025-12-21T12:04:16.160282",
               "week": 16,
               "spread_home": -7.0,
               "moneyline_home": -345,
@@ -196,7 +196,7 @@
           "final_prob": "58.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.944944",
+              "timestamp": "2025-12-21T12:04:16.159830",
               "week": 16,
               "spread_home": -3.5,
               "moneyline_home": -180,
@@ -219,7 +219,7 @@
           "final_prob": "42.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.942323",
+              "timestamp": "2025-12-21T12:04:16.157099",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 130,
@@ -242,7 +242,7 @@
           "final_prob": "42.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.944624",
+              "timestamp": "2025-12-21T12:04:16.159445",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 130,
@@ -254,33 +254,10 @@
         },
         {
           "rank": 13,
-          "game": "New England Patriots @ Baltimore Ravens",
-          "pick": "Baltimore Ravens",
-          "confidence": 57.4,
-          "points": 14,
-          "spread": -3.0,
-          "weather": "65°C, 10mph",
-          "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability for Baltimore Ravens\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 57% confidence → Pick Baltimore Ravens",
-          "base_prob": "57.4%",
-          "final_prob": "57.4%",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-21T12:03:38.946490",
-              "week": 16,
-              "spread_home": -3.0,
-              "moneyline_home": -180,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "22/12 02:20"
-        },
-        {
-          "rank": 14,
           "game": "Minnesota Vikings @ New York Giants",
           "pick": "Minnesota Vikings",
           "confidence": 57.2,
-          "points": 12,
+          "points": 14,
           "spread": 2.5,
           "weather": "-0.3°C, 12.0mph",
           "reasoning": "📊 Odds baseline: Spread +2.5 → 44% win probability for New York Giants\n\n🌤️ Weather adjustments:\n   • Kulde (-0°C) påvirker boldhåndtering\n\n✅ FINAL: 57% confidence → Pick Minnesota Vikings",
@@ -288,7 +265,7 @@
           "final_prob": "42.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.943760",
+              "timestamp": "2025-12-21T12:04:16.158572",
               "week": 16,
               "spread_home": 2.5,
               "moneyline_home": 124,
@@ -299,11 +276,11 @@
           "game_time_cph": "21/12 19:00"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "game": "Kansas City Chiefs @ Tennessee Titans",
           "pick": "Kansas City Chiefs",
           "confidence": 56.4,
-          "points": 10,
+          "points": 12,
           "spread": 3.0,
           "weather": "8.9°C, 5.7mph",
           "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability for Tennessee Titans\n\n⚕️ Injury adjustments:\n   • Kansas City Chiefs injuries help Tennessee Titans\n   • Example Player (DT) - Questionable: lille impact (-1.0%)\n\n🌤️ Weather adjustments:\n   • Gode forhold (9°C, 6 mph vind)\n\n✅ FINAL: 56% confidence → Pick Kansas City Chiefs",
@@ -311,7 +288,7 @@
           "final_prob": "43.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.943226",
+              "timestamp": "2025-12-21T12:04:16.158287",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 136,
@@ -320,6 +297,29 @@
             }
           ],
           "game_time_cph": "21/12 19:00"
+        },
+        {
+          "rank": 15,
+          "game": "New England Patriots @ Baltimore Ravens",
+          "pick": "Baltimore Ravens",
+          "confidence": 56.4,
+          "points": 10,
+          "spread": -3.0,
+          "weather": "-4.0°C, 4.3mph",
+          "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability for Baltimore Ravens\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 56% confidence → Pick Baltimore Ravens",
+          "base_prob": "57.4%",
+          "final_prob": "56.4%",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-21T12:04:16.160888",
+              "week": 16,
+              "spread_home": -3.0,
+              "moneyline_home": -180,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "22/12 02:20"
         },
         {
           "rank": 16,
@@ -334,7 +334,7 @@
           "final_prob": "53.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T12:03:38.942877",
+              "timestamp": "2025-12-21T12:04:16.158016",
               "week": 16,
               "spread_home": -1.5,
               "moneyline_home": -122,
@@ -346,8 +346,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-21T12:04:06.614530",
-      "updated_at": "2025-12-21T12:04:06.614542"
+      "created_at": "2025-12-21T12:04:21.592213",
+      "updated_at": "2025-12-21T12:04:21.592222"
     }
   ]
 }
