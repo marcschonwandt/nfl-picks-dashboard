@@ -1,0 +1,91 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Reasoning,Points
+1,Las Vegas Raiders @ Kansas City Chiefs,Kansas City Chiefs,74.9,-11.5,75.9%,74.9%,"65°F, 10mph",Sunday 19/10 18:00,"📊 Odds baseline: Spread -11.5 → 76% win probability
+
+⚕️ Skadesjusteringer:
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 75% confidence → Pick Kansas City Chiefs",100
+2,New England Patriots @ Tennessee Titans,New England Patriots,66.8,7.0,33.2%,33.2%,"65°F, 10mph",Sunday 19/10 18:00,"📊 Odds baseline: Spread +7.0 → 33% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 33% confidence → Pick New England Patriots",75
+3,New York Giants @ Denver Broncos,Denver Broncos,66.8,-7.0,66.8%,66.8%,"65°F, 10mph",Sunday 19/10 21:05,"📊 Odds baseline: Spread -7.0 → 67% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 67% confidence → Pick Denver Broncos",60
+4,Green Bay Packers @ Arizona Cardinals,Green Bay Packers,66.8,7.0,33.2%,33.2%,"65°F, 10mph",Sunday 19/10 21:25,"📊 Odds baseline: Spread +7.0 → 33% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 33% confidence → Pick Green Bay Packers",50
+5,New Orleans Saints @ Chicago Bears,Chicago Bears,61.1,-4.5,61.1%,61.1%,"65°F, 10mph",Sunday 19/10 18:00,"📊 Odds baseline: Spread -4.5 → 61% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 61% confidence → Pick Chicago Bears",40
+6,Tampa Bay Buccaneers @ Detroit Lions,Detroit Lions,59.6,-6.0,64.6%,59.6%,"65°F, 10mph",Tuesday 21/10 00:00,"📊 Odds baseline: Spread -6.0 → 65% win probability
+
+⚕️ Skadesjusteringer:
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 60% confidence → Pick Detroit Lions",35
+7,Los Angeles Rams @ Jacksonville Jaguars,Los Angeles Rams,57.4,3.0,42.6%,42.6%,"65°F, 10mph",Sunday 19/10 14:30,"📊 Odds baseline: Spread +3.0 → 43% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 43% confidence → Pick Los Angeles Rams",30
+8,Houston Texans @ Seattle Seahawks,Seattle Seahawks,57.4,-3.0,57.4%,57.4%,"65°F, 10mph",Tuesday 21/10 03:00,"📊 Odds baseline: Spread -3.0 → 57% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 57% confidence → Pick Seattle Seahawks",26
+9,Miami Dolphins @ Cleveland Browns,Cleveland Browns,56.2,-2.5,56.2%,56.2%,"65°F, 10mph",Sunday 19/10 18:00,"📊 Odds baseline: Spread -2.5 → 56% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 56% confidence → Pick Cleveland Browns",22
+10,Washington Commanders @ Dallas Cowboys,Washington Commanders,56.2,2.5,43.8%,43.8%,"65°F, 10mph",Sunday 19/10 21:25,"📊 Odds baseline: Spread +2.5 → 44% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 44% confidence → Pick Washington Commanders",18
+11,Philadelphia Eagles @ Minnesota Vikings,Philadelphia Eagles,53.7,1.5,46.3%,46.3%,"65°F, 10mph",Sunday 19/10 18:00,"📊 Odds baseline: Spread +1.5 → 46% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 46% confidence → Pick Philadelphia Eagles",14
+12,Carolina Panthers @ New York Jets,Carolina Panthers,53.7,1.5,46.3%,46.3%,"65°F, 10mph",Sunday 19/10 18:00,"📊 Odds baseline: Spread +1.5 → 46% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 46% confidence → Pick Carolina Panthers",12
+13,Indianapolis Colts @ Los Angeles Chargers,Los Angeles Chargers,53.7,-1.5,53.7%,53.7%,"65°F, 10mph",Sunday 19/10 21:05,"📊 Odds baseline: Spread -1.5 → 54% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 54% confidence → Pick Los Angeles Chargers",10
+14,Atlanta Falcons @ San Francisco 49ers,San Francisco 49ers,53.7,-1.5,53.7%,53.7%,"65°F, 10mph",Monday 20/10 01:20,"📊 Odds baseline: Spread -1.5 → 54% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 54% confidence → Pick San Francisco 49ers",8

@@ -1,0 +1,99 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points,Result_Winner,Result_Score,Result_Correct,Points_Earned
+1,New York Jets @ New England Patriots,New England Patriots,77.7,-12.5,77.7%,77.7%,"0.3°C, 9.1mph",Friday 14/11 02:15,14/11 02:15,"Friday, November 14 at 02:15",1763082900.0,"📊 Odds baseline: Spread -12.5 → 78% win probability for New England Patriots
+
+🌤️ Weather adjustments:
+   • Gode forhold (0°C, 9 mph vind)
+
+✅ FINAL: 78% confidence → Pick New England Patriots",True,100,New England Patriots,14-27,True,100.0
+2,Washington Commanders @ Miami Dolphins,Washington Commanders,58.7,3.5,41.3%,41.3%,"28.4°C, 8.8mph",Sunday 16/11 15:30,16/11 15:30,"Sunday, November 16 at 15:30",1763303400.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Miami Dolphins
+
+🌤️ Weather adjustments:
+   • Gode forhold (28°C, 9 mph vind)
+
+✅ FINAL: 59% confidence → Pick Washington Commanders",True,6,,,,
+3,Green Bay Packers @ New York Giants,Green Bay Packers,67.9,7.5,32.1%,32.1%,"4.9°C, 14.8mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread +7.5 → 32% win probability for New York Giants
+
+🌤️ Weather adjustments:
+   • Gode forhold (5°C, 15 mph vind)
+
+✅ FINAL: 68% confidence → Pick Green Bay Packers",False,75,,,,
+4,Baltimore Ravens @ Cleveland Browns,Baltimore Ravens,65.9,7.5,32.1%,34.1%,"5.3°C, 27.0mph",Sunday 16/11 22:25,16/11 22:25,"Sunday, November 16 at 22:25",1763328300.0,"📊 Odds baseline: Spread +7.5 → 32% win probability for Cleveland Browns
+
+🌤️ Weather adjustments:
+   • Høj vind (27 mph) favoriserer rushing game (+2%)
+
+✅ FINAL: 66% confidence → Pick Baltimore Ravens",False,60,,,,
+5,Houston Texans @ Tennessee Titans,Houston Texans,63.4,5.5,36.6%,36.6%,"14.5°C, 6.1mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread +5.5 → 37% win probability for Tennessee Titans
+
+🌤️ Weather adjustments:
+   • Gode forhold (14°C, 6 mph vind)
+
+✅ FINAL: 63% confidence → Pick Houston Texans",False,50,,,,
+6,Cincinnati Bengals @ Pittsburgh Steelers,Pittsburgh Steelers,63.4,-5.5,63.4%,63.4%,"3.9°C, 11.8mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -5.5 → 63% win probability for Pittsburgh Steelers
+
+🌤️ Weather adjustments:
+   • Gode forhold (4°C, 12 mph vind)
+
+✅ FINAL: 63% confidence → Pick Pittsburgh Steelers",False,40,,,,
+7,Tampa Bay Buccaneers @ Buffalo Bills,Buffalo Bills,61.6,-6.0,64.6%,61.6%,"0.7°C, 15.4mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -6.0 → 65% win probability for Buffalo Bills
+
+🌤️ Weather adjustments:
+   • Høj vind (15 mph) påvirker passing game negativt (-3%)
+
+✅ FINAL: 62% confidence → Pick Buffalo Bills",False,35,,,,
+8,Detroit Lions @ Philadelphia Eagles,Philadelphia Eagles,61.2,-2.5,56.2%,61.2%,"2.9°C, 10.9mph",Monday 17/11 02:20,17/11 02:20,"Monday, November 17 at 02:20",1763342400.0,"📊 Odds baseline: Spread -2.5 → 56% win probability for Philadelphia Eagles
+
+⚕️ Injury adjustments:
+   • Detroit Lions injuries help Philadelphia Eagles
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (3°C, 11 mph vind)
+
+✅ FINAL: 61% confidence → Pick Philadelphia Eagles",False,30,,,,
+9,Carolina Panthers @ Atlanta Falcons,Atlanta Falcons,61.1,-4.5,61.1%,61.1%,"18.2°C, 8.6mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -4.5 → 61% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Gode forhold (18°C, 9 mph vind)
+
+✅ FINAL: 61% confidence → Pick Atlanta Falcons",False,26,,,,
+10,Kansas City Chiefs @ Denver Broncos,Kansas City Chiefs,60.1,4.5,38.9%,39.9%,"11.9°C, 5.2mph",Sunday 16/11 22:25,16/11 22:25,"Sunday, November 16 at 22:25",1763328300.0,"📊 Odds baseline: Spread +4.5 → 39% win probability for Denver Broncos
+
+⚕️ Injury adjustments:
+   • Kansas City Chiefs injuries help Denver Broncos
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (12°C, 5 mph vind)
+
+✅ FINAL: 60% confidence → Pick Kansas City Chiefs",False,22,,,,
+11,San Francisco 49ers @ Arizona Cardinals,San Francisco 49ers,58.7,3.5,41.3%,41.3%,"17.3°C, 5.4mph",Sunday 16/11 22:05,16/11 22:05,"Sunday, November 16 at 22:05",1763327100.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Arizona Cardinals
+
+🌤️ Weather adjustments:
+   • Gode forhold (17°C, 5 mph vind)
+
+✅ FINAL: 59% confidence → Pick San Francisco 49ers",False,18,,,,
+12,Dallas Cowboys @ Las Vegas Raiders,Dallas Cowboys,58.7,3.5,41.3%,41.3%,"11.7°C, 3.3mph",Tuesday 18/11 02:15,18/11 02:15,"Tuesday, November 18 at 02:15",1763428500.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Las Vegas Raiders
+
+🌤️ Weather adjustments:
+   • Gode forhold (12°C, 3 mph vind)
+
+✅ FINAL: 59% confidence → Pick Dallas Cowboys",False,14,,,,
+13,Chicago Bears @ Minnesota Vikings,Minnesota Vikings,57.4,-3.0,57.4%,57.4%,"4.9°C, 4.7mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Minnesota Vikings
+
+🌤️ Weather adjustments:
+   • Gode forhold (5°C, 5 mph vind)
+
+✅ FINAL: 57% confidence → Pick Minnesota Vikings",False,12,,,,
+14,Los Angeles Chargers @ Jacksonville Jaguars,Los Angeles Chargers,57.4,3.0,42.6%,42.6%,"22.1°C, 6.8mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread +3.0 → 43% win probability for Jacksonville Jaguars
+
+🌤️ Weather adjustments:
+   • Gode forhold (22°C, 7 mph vind)
+
+✅ FINAL: 57% confidence → Pick Los Angeles Chargers",False,10,,,,
+15,Seattle Seahawks @ Los Angeles Rams,Los Angeles Rams,57.4,-3.0,57.4%,57.4%,"14.7°C, 3.0mph",Sunday 16/11 22:05,16/11 22:05,"Sunday, November 16 at 22:05",1763327100.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Los Angeles Rams
+
+🌤️ Weather adjustments:
+   • Gode forhold (15°C, 3 mph vind)
+
+✅ FINAL: 57% confidence → Pick Los Angeles Rams",False,8,,,,

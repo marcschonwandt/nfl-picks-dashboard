@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Picks League Standings - Rounds 8-10</title>
+    <script src="https://code.jscharting.com/latest/jscharting.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin: 0 0 10px 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .chart-container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            padding: 20px;
+        }
+
+        .chart-container.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .chart-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin: 0 0 15px 0;
+            color: #333;
+        }
+
+        .chart {
+            width: 100%;
+            height: 400px;
+        }
+
+        .chart.tall {
+            height: 500px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+            margin: 10px 0;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .highlight {
+            color: #f59e0b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏈 NFL Picks League Standings</h1>
+            <p>Rounds 8-10 Performance Analysis</p>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-label">Your Position</div>
+                <div class="stat-value highlight">#2</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Your Total Points</div>
+                <div class="stat-value">1,068</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Gap to 1st</div>
+                <div class="stat-value">-72</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Lead over 3rd</div>
+                <div class="stat-value">+46</div>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-container full-width">
+                <div class="chart-title">📊 Total Points Leaderboard (Rounds 8-10)</div>
+                <div id="chartTotalPoints" class="chart"></div>
+            </div>
+
+            <div class="chart-container">
+                <div class="chart-title">📈 Stacked Points by Round</div>
+                <div id="chartStackedRounds" class="chart"></div>
+            </div>
+
+            <div class="chart-container">
+                <div class="chart-title">🎯 Round-by-Round Performance</div>
+                <div id="chartRoundTrend" class="chart"></div>
+            </div>
+
+            <div class="chart-container full-width">
+                <div class="chart-title">🏆 Performance Comparison Matrix</div>
+                <div id="chartHeatmap" class="chart tall"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Load the data
+        fetch('league_standings_data.json')
+            .then(response => response.json())
+            .then(data => {
+                createCharts(data);
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+                // Fallback data if file can't be loaded
+                const fallbackData = [
+                    {"user_id": 59641, "name": "Christopher Blomsterberg-Thaysen", "round_8": 452, "round_9": 369, "round_10": 319, "total": 1140},
+                    {"user_id": 36286, "name": "Marc Schønwandt", "round_8": 402, "round_9": 325, "round_10": 341, "total": 1068},
+                    {"user_id": 59637, "name": "Anne schønwandt", "round_8": 390, "round_9": 305, "round_10": 327, "total": 1022},
+                    {"user_id": 34641, "name": "Rune Buhl Frederiksen", "round_8": 408, "round_9": 265, "round_10": 346, "total": 1019},
+                    {"user_id": 59643, "name": "Sofie Amalie Blomsterberg", "round_8": 342, "round_9": 314, "round_10": 357, "total": 1013},
+                    {"user_id": 17213, "name": "Per Schønwandt", "round_8": 370, "round_9": 296, "round_10": 338, "total": 1004},
+                    {"user_id": 59640, "name": "Marie Louise Blomsterberg", "round_8": 364, "round_9": 323, "round_10": 308, "total": 995},
+                    {"user_id": 59636, "name": "Vibeke Schønwandt", "round_8": 251, "round_9": 355, "round_10": 372, "total": 978},
+                    {"user_id": 18004, "name": "Jesper Nørmølle", "round_8": 316, "round_9": 336, "round_10": 288, "total": 940},
+                    {"user_id": 59642, "name": "Susanne Blomsterberg", "round_8": 305, "round_9": 305, "round_10": 298, "total": 908}
+                ];
+                createCharts(fallbackData);
+            });
+
+        function createCharts(data) {
+            const marcUserId = 36286;
+
+            // Chart 1: Total Points Horizontal Bar Chart
+            JSC.chart('chartTotalPoints', {
+                type: 'horizontal column',
+                legend_visible: false,
+                xAxis_label_text: 'Player',
+                yAxis: {
+                    label_text: 'Total Points',
+                    formatString: 'n0'
+                },
+                defaultPoint: {
+                    tooltip: '<b>%name</b><br/>Total: %yValue points',
+                    color: function(point) {
+                        return point.options('name') === 'Marc Schønwandt' ? '#f59e0b' : '#667eea';
+                    }
+                },
+                series: [{
+                    name: 'Total Points',
+                    points: data.map(player => ({
+                        name: player.name,
+                        y: player.total
+                    }))
+                }]
+            });
+
+            // Chart 2: Stacked Bar Chart by Round
+            JSC.chart('chartStackedRounds', {
+                type: 'horizontal column stacked',
+                legend_visible: true,
+                xAxis_label_text: 'Player',
+                yAxis: {
+                    label_text: 'Points',
+                    formatString: 'n0'
+                },
+                defaultPoint: {
+                    outline_width: 1,
+                    outline_color: 'white'
+                },
+                defaultSeries: {
+                    shape_padding: 0.3
+                },
+                series: [
+                    {
+                        name: 'Round 8',
+                        color: '#10b981',
+                        points: data.map(player => ({
+                            name: player.name,
+                            y: player.round_8,
+                            attributes: { isMarc: player.user_id === marcUserId }
+                        }))
+                    },
+                    {
+                        name: 'Round 9',
+                        color: '#3b82f6',
+                        points: data.map(player => ({
+                            name: player.name,
+                            y: player.round_9,
+                            attributes: { isMarc: player.user_id === marcUserId }
+                        }))
+                    },
+                    {
+                        name: 'Round 10',
+                        color: '#8b5cf6',
+                        points: data.map(player => ({
+                            name: player.name,
+                            y: player.round_10,
+                            attributes: { isMarc: player.user_id === marcUserId }
+                        }))
+                    }
+                ]
+            });
+
+            // Chart 3: Line Chart - Round by Round Trend
+            JSC.chart('chartRoundTrend', {
+                type: 'line',
+                legend: {
+                    visible: true,
+                    position: 'bottom'
+                },
+                xAxis: {
+                    label_text: 'Round',
+                    scale_type: 'discrete'
+                },
+                yAxis: {
+                    label_text: 'Points',
+                    formatString: 'n0'
+                },
+                defaultSeries: {
+                    line_width: 3,
+                    defaultPoint: {
+                        marker: {
+                            size: 10,
+                            outline: {
+                                width: 2,
+                                color: 'white'
+                            }
+                        }
+                    }
+                },
+                series: data.slice(0, 5).map(player => ({
+                    name: player.name,
+                    color: player.user_id === marcUserId ? '#f59e0b' : undefined,
+                    line_width: player.user_id === marcUserId ? 4 : 3,
+                    points: [
+                        { x: 'Round 8', y: player.round_8 },
+                        { x: 'Round 9', y: player.round_9 },
+                        { x: 'Round 10', y: player.round_10 }
+                    ]
+                }))
+            });
+
+            // Chart 4: Heatmap Matrix
+            const heatmapPoints = [];
+            data.forEach((player, playerIndex) => {
+                heatmapPoints.push(
+                    { x: 'Round 8', y: player.name, z: player.round_8 },
+                    { x: 'Round 9', y: player.name, z: player.round_9 },
+                    { x: 'Round 10', y: player.name, z: player.round_10 }
+                );
+            });
+
+            JSC.chart('chartHeatmap', {
+                type: 'heatmap solid',
+                legend: {
+                    visible: true,
+                    template: '%name',
+                    position: 'bottom'
+                },
+                xAxis_label_text: 'Round',
+                yAxis: {
+                    label_text: 'Player',
+                    scale_invert: true
+                },
+                palette: {
+                    pointValue: '{%zValue}',
+                    ranges: [
+                        { value: 0, color: '#fee2e2' },
+                        { value: 250, color: '#fef3c7' },
+                        { value: 300, color: '#d9f99d' },
+                        { value: 350, color: '#86efac' },
+                        { value: 400, color: '#34d399' },
+                        { value: 450, color: '#10b981' }
+                    ]
+                },
+                defaultPoint: {
+                    tooltip: '<b>%yValue</b><br/>%xValue: <b>%zValue points</b>',
+                    label: {
+                        text: '%zValue',
+                        style: {
+                            fontSize: 12,
+                            fontWeight: 'bold'
+                        }
+                    }
+                },
+                series: [{
+                    name: 'Points',
+                    points: heatmapPoints
+                }]
+            });
+        }
+    </script>
+</body>
+</html>

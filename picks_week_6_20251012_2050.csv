@@ -1,0 +1,84 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Reasoning
+1,Cincinnati Bengals @ Green Bay Packers,Green Bay Packers,81.0,-14.5,81.0%,81.0%,"65°F, 10mph",Sunday 12/10 21:26,"📊 Odds baseline: Spread -14.5 → 81% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 81% confidence → Pick Green Bay Packers"
+2,Seattle Seahawks @ Jacksonville Jaguars,Seattle Seahawks,74.1,10.5,25.9%,25.9%,"65°F, 10mph",Sunday 12/10 18:02,"📊 Odds baseline: Spread +10.5 → 26% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 26% confidence → Pick Seattle Seahawks"
+3,New England Patriots @ New Orleans Saints,New England Patriots,74.1,10.5,25.9%,25.9%,"65°F, 10mph",Sunday 12/10 18:02,"📊 Odds baseline: Spread +10.5 → 26% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 26% confidence → Pick New England Patriots"
+4,Cleveland Browns @ Pittsburgh Steelers,Pittsburgh Steelers,70.1,-8.5,70.1%,70.1%,"65°F, 10mph",Sunday 12/10 18:02,"📊 Odds baseline: Spread -8.5 → 70% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 70% confidence → Pick Pittsburgh Steelers"
+5,Los Angeles Rams @ Baltimore Ravens,Los Angeles Rams,67.9,7.5,32.1%,32.1%,"65°F, 10mph",Sunday 12/10 18:02,"📊 Odds baseline: Spread +7.5 → 32% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 32% confidence → Pick Los Angeles Rams"
+6,Chicago Bears @ Washington Commanders,Washington Commanders,63.4,-5.5,63.4%,63.4%,"65°F, 10mph",Tuesday 14/10 01:16,"📊 Odds baseline: Spread -5.5 → 63% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 63% confidence → Pick Washington Commanders"
+7,Arizona Cardinals @ Indianapolis Colts,Indianapolis Colts,61.1,-4.5,61.1%,61.1%,"65°F, 10mph",Sunday 12/10 18:03,"📊 Odds baseline: Spread -4.5 → 61% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 61% confidence → Pick Indianapolis Colts"
+8,Buffalo Bills @ Atlanta Falcons,Buffalo Bills,61.1,4.5,38.9%,38.9%,"65°F, 10mph",Tuesday 14/10 00:15,"📊 Odds baseline: Spread +4.5 → 39% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 39% confidence → Pick Buffalo Bills"
+9,Detroit Lions @ Kansas City Chiefs,Kansas City Chiefs,60.2,-2.5,56.2%,60.2%,"65°F, 10mph",Monday 13/10 01:20,"📊 Odds baseline: Spread -2.5 → 56% win probability
+
+⚕️ Skadesjusteringer:
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+   • Detroit Lions injuries help Kansas City Chiefs
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 60% confidence → Pick Kansas City Chiefs"
+10,Tennessee Titans @ Las Vegas Raiders,Las Vegas Raiders,58.7,-3.5,58.7%,58.7%,"65°F, 10mph",Sunday 12/10 21:06,"📊 Odds baseline: Spread -3.5 → 59% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 59% confidence → Pick Las Vegas Raiders"
+11,San Francisco 49ers @ Tampa Bay Buccaneers,Tampa Bay Buccaneers,58.7,-3.5,58.7%,58.7%,"65°F, 10mph",Sunday 12/10 21:26,"📊 Odds baseline: Spread -3.5 → 59% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 59% confidence → Pick Tampa Bay Buccaneers"
+12,Dallas Cowboys @ Carolina Panthers,Carolina Panthers,56.2,-2.5,56.2%,56.2%,"65°F, 10mph",Sunday 12/10 18:01,"📊 Odds baseline: Spread -2.5 → 56% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 56% confidence → Pick Carolina Panthers"
+13,Los Angeles Chargers @ Miami Dolphins,Los Angeles Chargers,56.2,2.5,43.8%,43.8%,"65°F, 10mph",Sunday 12/10 18:01,"📊 Odds baseline: Spread +2.5 → 44% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 10 mph vind)
+
+✅ FINAL: 44% confidence → Pick Los Angeles Chargers"

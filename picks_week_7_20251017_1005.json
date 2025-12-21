@@ -1,0 +1,607 @@
+{
+  "week": 7,
+  "generated_at": "2025-10-17T10:05:49.076703",
+  "games_analyzed": 27,
+  "picks": [
+    {
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Los Angeles Rams",
+      "spread": 3.0,
+      "base_prob": 0.4256,
+      "commence_time": "2025-10-19T13:30:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.4256,
+      "pick": "Los Angeles Rams",
+      "confidence": 57.4,
+      "reasoning": "📊 Odds baseline: Spread +3.0 → 43% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 43% confidence → Pick Los Angeles Rams"
+    },
+    {
+      "home_team": "New York Jets",
+      "away_team": "Carolina Panthers",
+      "spread": 1.5,
+      "base_prob": 0.4626,
+      "commence_time": "2025-10-19T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.4626,
+      "pick": "Carolina Panthers",
+      "confidence": 53.7,
+      "reasoning": "📊 Odds baseline: Spread +1.5 → 46% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 46% confidence → Pick Carolina Panthers"
+    },
+    {
+      "home_team": "Chicago Bears",
+      "away_team": "New Orleans Saints",
+      "spread": -4.5,
+      "base_prob": 0.6106,
+      "commence_time": "2025-10-19T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6106,
+      "pick": "Chicago Bears",
+      "confidence": 61.1,
+      "reasoning": "📊 Odds baseline: Spread -4.5 → 61% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 61% confidence → Pick Chicago Bears"
+    },
+    {
+      "home_team": "Cleveland Browns",
+      "away_team": "Miami Dolphins",
+      "spread": -2.5,
+      "base_prob": 0.5622,
+      "commence_time": "2025-10-19T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5622,
+      "pick": "Cleveland Browns",
+      "confidence": 56.2,
+      "reasoning": "📊 Odds baseline: Spread -2.5 → 56% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 56% confidence → Pick Cleveland Browns"
+    },
+    {
+      "home_team": "Kansas City Chiefs",
+      "away_team": "Las Vegas Raiders",
+      "spread": -11.5,
+      "base_prob": 0.7595,
+      "commence_time": "2025-10-19T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [
+        "   • Example Player (DT) - Questionable: lille impact (-1.0%)"
+      ],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.7494999999999999,
+      "pick": "Kansas City Chiefs",
+      "confidence": 74.9,
+      "reasoning": "📊 Odds baseline: Spread -11.5 → 76% win probability\n\n⚕️ Skadesjusteringer:\n   • Example Player (DT) - Questionable: lille impact (-1.0%)\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 75% confidence → Pick Kansas City Chiefs"
+    },
+    {
+      "home_team": "Minnesota Vikings",
+      "away_team": "Philadelphia Eagles",
+      "spread": 1.5,
+      "base_prob": 0.4626,
+      "commence_time": "2025-10-19T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.4626,
+      "pick": "Philadelphia Eagles",
+      "confidence": 53.7,
+      "reasoning": "📊 Odds baseline: Spread +1.5 → 46% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 46% confidence → Pick Philadelphia Eagles"
+    },
+    {
+      "home_team": "Tennessee Titans",
+      "away_team": "New England Patriots",
+      "spread": 7.0,
+      "base_prob": 0.3318,
+      "commence_time": "2025-10-19T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.3318,
+      "pick": "New England Patriots",
+      "confidence": 66.8,
+      "reasoning": "📊 Odds baseline: Spread +7.0 → 33% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 33% confidence → Pick New England Patriots"
+    },
+    {
+      "home_team": "Denver Broncos",
+      "away_team": "New York Giants",
+      "spread": -7.0,
+      "base_prob": 0.6682,
+      "commence_time": "2025-10-19T20:05:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6682,
+      "pick": "Denver Broncos",
+      "confidence": 66.8,
+      "reasoning": "📊 Odds baseline: Spread -7.0 → 67% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 67% confidence → Pick Denver Broncos"
+    },
+    {
+      "home_team": "Los Angeles Chargers",
+      "away_team": "Indianapolis Colts",
+      "spread": -1.5,
+      "base_prob": 0.5374,
+      "commence_time": "2025-10-19T20:05:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5374,
+      "pick": "Los Angeles Chargers",
+      "confidence": 53.7,
+      "reasoning": "📊 Odds baseline: Spread -1.5 → 54% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 54% confidence → Pick Los Angeles Chargers"
+    },
+    {
+      "home_team": "Arizona Cardinals",
+      "away_team": "Green Bay Packers",
+      "spread": 7.0,
+      "base_prob": 0.3318,
+      "commence_time": "2025-10-19T20:25:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.3318,
+      "pick": "Green Bay Packers",
+      "confidence": 66.8,
+      "reasoning": "📊 Odds baseline: Spread +7.0 → 33% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 33% confidence → Pick Green Bay Packers"
+    },
+    {
+      "home_team": "Dallas Cowboys",
+      "away_team": "Washington Commanders",
+      "spread": 2.5,
+      "base_prob": 0.4378,
+      "commence_time": "2025-10-19T20:25:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.4378,
+      "pick": "Washington Commanders",
+      "confidence": 56.2,
+      "reasoning": "📊 Odds baseline: Spread +2.5 → 44% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 44% confidence → Pick Washington Commanders"
+    },
+    {
+      "home_team": "San Francisco 49ers",
+      "away_team": "Atlanta Falcons",
+      "spread": -1.5,
+      "base_prob": 0.5374,
+      "commence_time": "2025-10-20T00:20:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5374,
+      "pick": "San Francisco 49ers",
+      "confidence": 53.7,
+      "reasoning": "📊 Odds baseline: Spread -1.5 → 54% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 54% confidence → Pick San Francisco 49ers"
+    },
+    {
+      "home_team": "Detroit Lions",
+      "away_team": "Tampa Bay Buccaneers",
+      "spread": -6.0,
+      "base_prob": 0.6457,
+      "commence_time": "2025-10-20T23:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [
+        "   • Example DE (DE) - Out: stor impact (-5.0%)"
+      ],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5957,
+      "pick": "Detroit Lions",
+      "confidence": 59.6,
+      "reasoning": "📊 Odds baseline: Spread -6.0 → 65% win probability\n\n⚕️ Skadesjusteringer:\n   • Example DE (DE) - Out: stor impact (-5.0%)\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 60% confidence → Pick Detroit Lions"
+    },
+    {
+      "home_team": "Seattle Seahawks",
+      "away_team": "Houston Texans",
+      "spread": -3.0,
+      "base_prob": 0.5744,
+      "commence_time": "2025-10-21T02:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5744,
+      "pick": "Seattle Seahawks",
+      "confidence": 57.4,
+      "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 57% confidence → Pick Seattle Seahawks"
+    },
+    {
+      "home_team": "Los Angeles Chargers",
+      "away_team": "Minnesota Vikings",
+      "spread": -3.0,
+      "base_prob": 0.5744,
+      "commence_time": "2025-10-24T00:15:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5744,
+      "pick": "Los Angeles Chargers",
+      "confidence": 57.4,
+      "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 57% confidence → Pick Los Angeles Chargers"
+    },
+    {
+      "home_team": "Atlanta Falcons",
+      "away_team": "Miami Dolphins",
+      "spread": -6.0,
+      "base_prob": 0.6457,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6457,
+      "pick": "Atlanta Falcons",
+      "confidence": 64.6,
+      "reasoning": "📊 Odds baseline: Spread -6.0 → 65% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 65% confidence → Pick Atlanta Falcons"
+    },
+    {
+      "home_team": "Baltimore Ravens",
+      "away_team": "Chicago Bears",
+      "spread": -6.5,
+      "base_prob": 0.657,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.657,
+      "pick": "Baltimore Ravens",
+      "confidence": 65.7,
+      "reasoning": "📊 Odds baseline: Spread -6.5 → 66% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 66% confidence → Pick Baltimore Ravens"
+    },
+    {
+      "home_team": "Carolina Panthers",
+      "away_team": "Buffalo Bills",
+      "spread": 7.0,
+      "base_prob": 0.3318,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.3318,
+      "pick": "Buffalo Bills",
+      "confidence": 66.8,
+      "reasoning": "📊 Odds baseline: Spread +7.0 → 33% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 33% confidence → Pick Buffalo Bills"
+    },
+    {
+      "home_team": "Cincinnati Bengals",
+      "away_team": "New York Jets",
+      "spread": -4.5,
+      "base_prob": 0.6106,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6106,
+      "pick": "Cincinnati Bengals",
+      "confidence": 61.1,
+      "reasoning": "📊 Odds baseline: Spread -4.5 → 61% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 61% confidence → Pick Cincinnati Bengals"
+    },
+    {
+      "home_team": "New England Patriots",
+      "away_team": "Cleveland Browns",
+      "spread": -7.0,
+      "base_prob": 0.6682,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6682,
+      "pick": "New England Patriots",
+      "confidence": 66.8,
+      "reasoning": "📊 Odds baseline: Spread -7.0 → 67% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 67% confidence → Pick New England Patriots"
+    },
+    {
+      "home_team": "Houston Texans",
+      "away_team": "San Francisco 49ers",
+      "spread": -1.5,
+      "base_prob": 0.5374,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.5374,
+      "pick": "Houston Texans",
+      "confidence": 53.7,
+      "reasoning": "📊 Odds baseline: Spread -1.5 → 54% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 54% confidence → Pick Houston Texans"
+    },
+    {
+      "home_team": "Philadelphia Eagles",
+      "away_team": "New York Giants",
+      "spread": -7.5,
+      "base_prob": 0.6792,
+      "commence_time": "2025-10-26T17:00:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6792,
+      "pick": "Philadelphia Eagles",
+      "confidence": 67.9,
+      "reasoning": "📊 Odds baseline: Spread -7.5 → 68% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 68% confidence → Pick Philadelphia Eagles"
+    },
+    {
+      "home_team": "New Orleans Saints",
+      "away_team": "Tampa Bay Buccaneers",
+      "spread": 5.5,
+      "base_prob": 0.3659,
+      "commence_time": "2025-10-26T20:05:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.3659,
+      "pick": "Tampa Bay Buccaneers",
+      "confidence": 63.4,
+      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 37% confidence → Pick Tampa Bay Buccaneers"
+    },
+    {
+      "home_team": "Denver Broncos",
+      "away_team": "Dallas Cowboys",
+      "spread": -4.5,
+      "base_prob": 0.6106,
+      "commence_time": "2025-10-26T20:25:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6106,
+      "pick": "Denver Broncos",
+      "confidence": 61.1,
+      "reasoning": "📊 Odds baseline: Spread -4.5 → 61% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 61% confidence → Pick Denver Broncos"
+    },
+    {
+      "home_team": "Indianapolis Colts",
+      "away_team": "Tennessee Titans",
+      "spread": -12.5,
+      "base_prob": 0.7773,
+      "commence_time": "2025-10-26T20:25:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.7773,
+      "pick": "Indianapolis Colts",
+      "confidence": 77.7,
+      "reasoning": "📊 Odds baseline: Spread -12.5 → 78% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 78% confidence → Pick Indianapolis Colts"
+    },
+    {
+      "home_team": "Pittsburgh Steelers",
+      "away_team": "Green Bay Packers",
+      "spread": 3.5,
+      "base_prob": 0.4134,
+      "commence_time": "2025-10-27T00:20:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.4134,
+      "pick": "Green Bay Packers",
+      "confidence": 58.7,
+      "reasoning": "📊 Odds baseline: Spread +3.5 → 41% win probability\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 41% confidence → Pick Green Bay Packers"
+    },
+    {
+      "home_team": "Kansas City Chiefs",
+      "away_team": "Washington Commanders",
+      "spread": -4.5,
+      "base_prob": 0.6106,
+      "commence_time": "2025-10-28T00:15:00Z",
+      "adjustments": [],
+      "injury_adjustments": [
+        "   • Example Player (DT) - Questionable: lille impact (-1.0%)"
+      ],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°F, 10 mph vind)"
+      ],
+      "final_prob": 0.6006,
+      "pick": "Kansas City Chiefs",
+      "confidence": 60.1,
+      "reasoning": "📊 Odds baseline: Spread -4.5 → 61% win probability\n\n⚕️ Skadesjusteringer:\n   • Example Player (DT) - Questionable: lille impact (-1.0%)\n\n🌤️ Vejrjusteringer:\n   • Gode forhold (65°F, 10 mph vind)\n\n✅ FINAL: 60% confidence → Pick Kansas City Chiefs"
+    }
+  ]
+}

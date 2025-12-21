@@ -1,0 +1,76 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Points
+1,Tennessee Titans @ Indianapolis Colts,Indianapolis Colts,81.0,-14.5,81.0%,81.0%,"51.6°F, 7.3mph",Sunday 26/10 21:25,26/10 21:25,"Sunday, October 26 at 21:25",1761510300.0,"📊 Odds baseline: Spread -14.5 → 81% win probability for Indianapolis Colts
+
+🌤️ Weather adjustments:
+   • Gode forhold (52°F, 7 mph vind)
+
+✅ FINAL: 81% confidence → Pick Indianapolis Colts",100
+2,Washington Commanders @ Kansas City Chiefs,Kansas City Chiefs,74.9,-11.5,75.9%,74.9%,"52.9°F, 2.8mph",Tuesday 28/10 01:15,28/10 01:15,"Tuesday, October 28 at 01:15",1761610500.0,"📊 Odds baseline: Spread -11.5 → 76% win probability for Kansas City Chiefs
+
+⚕️ Injury adjustments:
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (53°F, 3 mph vind)
+
+✅ FINAL: 75% confidence → Pick Kansas City Chiefs",75
+3,Miami Dolphins @ Atlanta Falcons,Atlanta Falcons,67.9,-7.5,67.9%,67.9%,"67.3°F, 11.6mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread -7.5 → 68% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Gode forhold (67°F, 12 mph vind)
+
+✅ FINAL: 68% confidence → Pick Atlanta Falcons",60
+4,New York Giants @ Philadelphia Eagles,Philadelphia Eagles,67.9,-7.5,67.9%,67.9%,"58.4°F, 6.7mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread -7.5 → 68% win probability for Philadelphia Eagles
+
+🌤️ Weather adjustments:
+   • Gode forhold (58°F, 7 mph vind)
+
+✅ FINAL: 68% confidence → Pick Philadelphia Eagles",50
+5,Cleveland Browns @ New England Patriots,New England Patriots,66.8,-7.0,66.8%,66.8%,"47.9°F, 5.7mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread -7.0 → 67% win probability for New England Patriots
+
+🌤️ Weather adjustments:
+   • Gode forhold (48°F, 6 mph vind)
+
+✅ FINAL: 67% confidence → Pick New England Patriots",40
+6,Buffalo Bills @ Carolina Panthers,Buffalo Bills,66.8,7.0,33.2%,33.2%,"64.0°F, 7.4mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread +7.0 → 33% win probability for Carolina Panthers
+
+🌤️ Weather adjustments:
+   • Gode forhold (64°F, 7 mph vind)
+
+✅ FINAL: 67% confidence → Pick Buffalo Bills",35
+7,Chicago Bears @ Baltimore Ravens,Baltimore Ravens,66.8,-7.0,66.8%,66.8%,"59.1°F, 4.7mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread -7.0 → 67% win probability for Baltimore Ravens
+
+🌤️ Weather adjustments:
+   • Gode forhold (59°F, 5 mph vind)
+
+✅ FINAL: 67% confidence → Pick Baltimore Ravens",30
+8,New York Jets @ Cincinnati Bengals,Cincinnati Bengals,64.6,-6.0,64.6%,64.6%,"61.8°F, 9.1mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread -6.0 → 65% win probability for Cincinnati Bengals
+
+🌤️ Weather adjustments:
+   • Gode forhold (62°F, 9 mph vind)
+
+✅ FINAL: 65% confidence → Pick Cincinnati Bengals",26
+9,Tampa Bay Buccaneers @ New Orleans Saints,Tampa Bay Buccaneers,61.1,4.5,38.9%,38.9%,"69.4°F, 7.0mph",Sunday 26/10 21:05,26/10 21:05,"Sunday, October 26 at 21:05",1761509100.0,"📊 Odds baseline: Spread +4.5 → 39% win probability for New Orleans Saints
+
+🌤️ Weather adjustments:
+   • Gode forhold (69°F, 7 mph vind)
+
+✅ FINAL: 61% confidence → Pick Tampa Bay Buccaneers",22
+10,Dallas Cowboys @ Denver Broncos,Denver Broncos,58.7,-3.5,58.7%,58.7%,"63.6°F, 6.3mph",Sunday 26/10 21:25,26/10 21:25,"Sunday, October 26 at 21:25",1761510300.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for Denver Broncos
+
+🌤️ Weather adjustments:
+   • Gode forhold (64°F, 6 mph vind)
+
+✅ FINAL: 59% confidence → Pick Denver Broncos",18
+11,Green Bay Packers @ Pittsburgh Steelers,Green Bay Packers,57.4,3.0,42.6%,42.6%,"39.5°F, 0.6mph",Monday 27/10 01:20,27/10 01:20,"Monday, October 27 at 01:20",1761524400.0,"📊 Odds baseline: Spread +3.0 → 43% win probability for Pittsburgh Steelers
+
+🌤️ Weather adjustments:
+   • Gode forhold (40°F, 1 mph vind)
+
+✅ FINAL: 57% confidence → Pick Green Bay Packers",14
+12,San Francisco 49ers @ Houston Texans,Houston Texans,53.7,-1.5,53.7%,53.7%,"76.9°F, 7.3mph",Sunday 26/10 18:00,26/10 18:00,"Sunday, October 26 at 18:00",1761498000.0,"📊 Odds baseline: Spread -1.5 → 54% win probability for Houston Texans
+
+🌤️ Weather adjustments:
+   • Gode forhold (77°F, 7 mph vind)
+
+✅ FINAL: 54% confidence → Pick Houston Texans",12

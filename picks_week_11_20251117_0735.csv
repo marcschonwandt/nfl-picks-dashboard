@@ -1,0 +1,99 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points,Result_Winner,Result_Score,Result_Correct,Points_Earned
+1,New York Jets @ New England Patriots,New England Patriots,77.7,-12.5,77.7%,77.7%,"0.3°C, 9.1mph",Friday 14/11 02:15,14/11 02:15,"Friday, November 14 at 02:15",1763082900.0,"📊 Odds baseline: Spread -12.5 → 78% win probability for New England Patriots
+
+🌤️ Weather adjustments:
+   • Gode forhold (0°C, 9 mph vind)
+
+✅ FINAL: 78% confidence → Pick New England Patriots",True,100,New England Patriots,14-27,True,100.0
+2,Green Bay Packers @ New York Giants,Green Bay Packers,66.8,7.0,33.2%,33.2%,"8.4°C, 14.4mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread +7.0 → 33% win probability for New York Giants
+
+🌤️ Weather adjustments:
+   • Gode forhold (8°C, 14 mph vind)
+
+✅ FINAL: 67% confidence → Pick Green Bay Packers",True,75,Green Bay Packers,27-20,True,75.0
+3,Baltimore Ravens @ Cleveland Browns,Baltimore Ravens,65.9,7.5,32.1%,34.1%,"5.3°C, 23.7mph",Sunday 16/11 22:25,16/11 22:25,"Sunday, November 16 at 22:25",1763328300.0,"📊 Odds baseline: Spread +7.5 → 32% win probability for Cleveland Browns
+
+🌤️ Weather adjustments:
+   • Høj vind (24 mph) favoriserer rushing game (+2%)
+
+✅ FINAL: 66% confidence → Pick Baltimore Ravens",True,60,Baltimore Ravens,23-16,True,60.0
+4,Houston Texans @ Tennessee Titans,Houston Texans,65.7,6.5,34.3%,34.3%,"15.5°C, 6.1mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread +6.5 → 34% win probability for Tennessee Titans
+
+🌤️ Weather adjustments:
+   • Gode forhold (16°C, 6 mph vind)
+
+✅ FINAL: 66% confidence → Pick Houston Texans",True,50,Houston Texans,16-13,True,50.0
+5,Cincinnati Bengals @ Pittsburgh Steelers,Pittsburgh Steelers,63.4,-5.5,63.4%,63.4%,"6.6°C, 11.3mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -5.5 → 63% win probability for Pittsburgh Steelers
+
+🌤️ Weather adjustments:
+   • Gode forhold (7°C, 11 mph vind)
+
+✅ FINAL: 63% confidence → Pick Pittsburgh Steelers",True,40,Pittsburgh Steelers,12-34,True,40.0
+6,Detroit Lions @ Philadelphia Eagles,Philadelphia Eagles,61.2,-2.5,56.2%,61.2%,"6.6°C, 11.2mph",Monday 17/11 02:20,17/11 02:20,"Monday, November 17 at 02:20",1763342400.0,"📊 Odds baseline: Spread -2.5 → 56% win probability for Philadelphia Eagles
+
+⚕️ Injury adjustments:
+   • Detroit Lions injuries help Philadelphia Eagles
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (7°C, 11 mph vind)
+
+✅ FINAL: 61% confidence → Pick Philadelphia Eagles",True,30,Philadelphia Eagles,9-16,True,30.0
+7,Tampa Bay Buccaneers @ Buffalo Bills,Buffalo Bills,60.4,-5.5,63.4%,60.4%,"2.8°C, 17.0mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -5.5 → 63% win probability for Buffalo Bills
+
+🌤️ Weather adjustments:
+   • Høj vind (17 mph) påvirker passing game negativt (-3%)
+
+✅ FINAL: 60% confidence → Pick Buffalo Bills",True,26,Buffalo Bills,32-44,True,26.0
+8,Carolina Panthers @ Atlanta Falcons,Atlanta Falcons,58.7,-3.5,58.7%,58.7%,"20.7°C, 8.4mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Gode forhold (21°C, 8 mph vind)
+
+✅ FINAL: 59% confidence → Pick Atlanta Falcons",True,22,Carolina Panthers,30-27,False,0.0
+9,Kansas City Chiefs @ Denver Broncos,Kansas City Chiefs,57.7,3.5,41.3%,42.3%,"14.5°C, 4.7mph",Sunday 16/11 22:25,16/11 22:25,"Sunday, November 16 at 22:25",1763328300.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Denver Broncos
+
+⚕️ Injury adjustments:
+   • Kansas City Chiefs injuries help Denver Broncos
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (14°C, 5 mph vind)
+
+✅ FINAL: 58% confidence → Pick Kansas City Chiefs",True,18,Denver Broncos,19-22,False,0.0
+10,Chicago Bears @ Minnesota Vikings,Minnesota Vikings,57.4,-3.0,57.4%,57.4%,"4.4°C, 10.3mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Minnesota Vikings
+
+🌤️ Weather adjustments:
+   • Gode forhold (4°C, 10 mph vind)
+
+✅ FINAL: 57% confidence → Pick Minnesota Vikings",True,14,Chicago Bears,19-17,False,0.0
+11,Los Angeles Chargers @ Jacksonville Jaguars,Los Angeles Chargers,57.4,3.0,42.6%,42.6%,"23.5°C, 7.8mph",Sunday 16/11 19:00,16/11 19:00,"Sunday, November 16 at 19:00",1763316000.0,"📊 Odds baseline: Spread +3.0 → 43% win probability for Jacksonville Jaguars
+
+🌤️ Weather adjustments:
+   • Gode forhold (24°C, 8 mph vind)
+
+✅ FINAL: 57% confidence → Pick Los Angeles Chargers",True,12,Jacksonville Jaguars,6-35,False,0.0
+12,Seattle Seahawks @ Los Angeles Rams,Los Angeles Rams,57.4,-3.0,57.4%,57.4%,"17.7°C, 7.6mph",Sunday 16/11 22:05,16/11 22:05,"Sunday, November 16 at 22:05",1763327100.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Los Angeles Rams
+
+🌤️ Weather adjustments:
+   • Gode forhold (18°C, 8 mph vind)
+
+✅ FINAL: 57% confidence → Pick Los Angeles Rams",True,10,Los Angeles Rams,19-21,True,10.0
+13,San Francisco 49ers @ Arizona Cardinals,San Francisco 49ers,57.4,3.0,42.6%,42.6%,"19.9°C, 6.1mph",Sunday 16/11 22:05,16/11 22:05,"Sunday, November 16 at 22:05",1763327100.0,"📊 Odds baseline: Spread +3.0 → 43% win probability for Arizona Cardinals
+
+🌤️ Weather adjustments:
+   • Gode forhold (20°C, 6 mph vind)
+
+✅ FINAL: 57% confidence → Pick San Francisco 49ers",True,8,San Francisco 49ers,41-22,True,8.0
+14,Washington Commanders @ Miami Dolphins,Miami Dolphins,56.2,-2.5,56.2%,56.2%,"26.6°C, 7.0mph",Sunday 16/11 15:30,16/11 15:30,"Sunday, November 16 at 15:30",1763303400.0,"📊 Odds baseline: Spread -2.5 → 56% win probability for Miami Dolphins
+
+🌤️ Weather adjustments:
+   • Gode forhold (27°C, 7 mph vind)
+
+✅ FINAL: 56% confidence → Pick Miami Dolphins",True,6,Miami Dolphins,13-16,True,6.0
+15,Dallas Cowboys @ Las Vegas Raiders,Dallas Cowboys,58.7,3.5,41.3%,41.3%,"12.4°C, 0.9mph",Tuesday 18/11 02:15,18/11 02:15,"Tuesday, November 18 at 02:15",1763428500.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Las Vegas Raiders
+
+🌤️ Weather adjustments:
+   • Gode forhold (12°C, 1 mph vind)
+
+✅ FINAL: 59% confidence → Pick Dallas Cowboys",False,35,,,,

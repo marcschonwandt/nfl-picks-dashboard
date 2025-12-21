@@ -1,0 +1,106 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points,Result_Winner,Result_Score,Result_Correct,Points_Earned
+1,Cincinnati Bengals @ Baltimore Ravens,Baltimore Ravens,66.8,-7.0,66.8%,66.8%,"1.6°C, 12.5mph",Friday 28/11 02:20,28/11 02:20,"Friday, November 28 at 02:20",1764292800.0,"📊 Odds baseline: Spread -7.0 → 67% win probability for Baltimore Ravens
+
+🌤️ Weather adjustments:
+   • Gode forhold (2°C, 12 mph vind)
+
+✅ FINAL: 67% confidence → Pick Baltimore Ravens",True,50,Cincinnati Bengals,32-14,False,0.0
+2,Chicago Bears @ Philadelphia Eagles,Philadelphia Eagles,66.8,-7.0,66.8%,66.8%,"3.1°C, 13.6mph",Friday 28/11 21:00,28/11 21:00,"Friday, November 28 at 21:00",1764360000.0,"📊 Odds baseline: Spread -7.0 → 67% win probability for Philadelphia Eagles
+
+🌤️ Weather adjustments:
+   • Gode forhold (3°C, 14 mph vind)
+
+✅ FINAL: 67% confidence → Pick Philadelphia Eagles",True,40,Chicago Bears,24-15,False,0.0
+3,Kansas City Chiefs @ Dallas Cowboys,Kansas City Chiefs,57.7,3.5,41.3%,42.3%,"13.1°C, 6.9mph",Thursday 27/11 22:30,27/11 22:30,"Thursday, November 27 at 22:30",1764279000.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Dallas Cowboys
+
+⚕️ Injury adjustments:
+   • Kansas City Chiefs injuries help Dallas Cowboys
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (13°C, 7 mph vind)
+
+✅ FINAL: 58% confidence → Pick Kansas City Chiefs",True,10,Dallas Cowboys,28-31,False,0.0
+4,Green Bay Packers @ Detroit Lions,Green Bay Packers,52.8,-2.5,56.2%,47.2%,"-0.5°C, 16.5mph",Thursday 27/11 19:00,27/11 19:00,"Thursday, November 27 at 19:00",1764266400.0,"📊 Odds baseline: Spread -2.5 → 56% win probability for Detroit Lions
+
+⚕️ Injury adjustments:
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Weather adjustments:
+   • Høj vind (16 mph) påvirker passing game negativt (-3%)
+   • Kulde (-0°C) påvirker boldhåndtering
+
+✅ FINAL: 53% confidence → Pick Green Bay Packers",True,6,Green Bay Packers,31-24,True,6.0
+5,Minnesota Vikings @ Seattle Seahawks,Seattle Seahawks,75.9,-11.5,75.9%,75.9%,"4.6°C, 4.0mph",Sunday 30/11 22:05,30/11 22:05,"Sunday, November 30 at 22:05",1764536700.0,"📊 Odds baseline: Spread -11.5 → 76% win probability for Seattle Seahawks
+
+🌤️ Weather adjustments:
+   • Gode forhold (5°C, 4 mph vind)
+
+✅ FINAL: 76% confidence → Pick Seattle Seahawks",False,100,,,,
+6,Los Angeles Rams @ Carolina Panthers,Los Angeles Rams,74.1,10.5,25.9%,25.9%,"9.4°C, 4.8mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread +10.5 → 26% win probability for Carolina Panthers
+
+🌤️ Weather adjustments:
+   • Gode forhold (9°C, 5 mph vind)
+
+✅ FINAL: 74% confidence → Pick Los Angeles Rams",False,75,,,,
+7,Las Vegas Raiders @ Los Angeles Chargers,Los Angeles Chargers,72.1,-9.5,72.1%,72.1%,"13.9°C, 3.0mph",Sunday 30/11 22:25,30/11 22:25,"Sunday, November 30 at 22:25",1764537900.0,"📊 Odds baseline: Spread -9.5 → 72% win probability for Los Angeles Chargers
+
+🌤️ Weather adjustments:
+   • Gode forhold (14°C, 3 mph vind)
+
+✅ FINAL: 72% confidence → Pick Los Angeles Chargers",False,60,,,,
+8,New York Giants @ New England Patriots,New England Patriots,66.9,-7.5,67.9%,66.9%,"-2.5°C, 2.9mph",Tuesday 02/12 02:15,02/12 02:15,"Tuesday, December 02 at 02:15",1764638100.0,"📊 Odds baseline: Spread -7.5 → 68% win probability for New England Patriots
+
+🌤️ Weather adjustments:
+   • Kulde (-2°C) påvirker boldhåndtering
+
+✅ FINAL: 67% confidence → Pick New England Patriots",False,35,,,,
+9,Denver Broncos @ Washington Commanders,Denver Broncos,65.7,6.5,34.3%,34.3%,"0.0°C, 6.0mph",Monday 01/12 02:20,01/12 02:20,"Monday, December 01 at 02:20",1764552000.0,"📊 Odds baseline: Spread +6.5 → 34% win probability for Washington Commanders
+
+🌤️ Weather adjustments:
+   • Gode forhold (0°C, 6 mph vind)
+
+✅ FINAL: 66% confidence → Pick Denver Broncos",False,30,,,,
+10,Jacksonville Jaguars @ Tennessee Titans,Jacksonville Jaguars,64.6,6.0,35.4%,35.4%,"2.0°C, 5.5mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread +6.0 → 35% win probability for Tennessee Titans
+
+🌤️ Weather adjustments:
+   • Gode forhold (2°C, 6 mph vind)
+
+✅ FINAL: 65% confidence → Pick Jacksonville Jaguars",False,26,,,,
+11,New Orleans Saints @ Miami Dolphins,Miami Dolphins,63.4,-5.5,63.4%,63.4%,"23.9°C, 8.7mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread -5.5 → 63% win probability for Miami Dolphins
+
+🌤️ Weather adjustments:
+   • Gode forhold (24°C, 9 mph vind)
+
+✅ FINAL: 63% confidence → Pick Miami Dolphins",False,22,,,,
+12,San Francisco 49ers @ Cleveland Browns,San Francisco 49ers,62.4,5.5,36.6%,37.6%,"-0.5°C, 20.4mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread +5.5 → 37% win probability for Cleveland Browns
+
+🌤️ Weather adjustments:
+   • Høj vind (20 mph) favoriserer rushing game (+2%)
+   • Kulde (-0°C) påvirker boldhåndtering
+
+✅ FINAL: 62% confidence → Pick San Francisco 49ers",False,18,,,,
+13,Arizona Cardinals @ Tampa Bay Buccaneers,Tampa Bay Buccaneers,58.7,-3.5,58.7%,58.7%,"25.0°C, 5.1mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for Tampa Bay Buccaneers
+
+🌤️ Weather adjustments:
+   • Gode forhold (25°C, 5 mph vind)
+
+✅ FINAL: 59% confidence → Pick Tampa Bay Buccaneers",False,14,,,,
+14,Buffalo Bills @ Pittsburgh Steelers,Buffalo Bills,58.4,3.0,42.6%,41.6%,"-0.4°C, 11.2mph",Sunday 30/11 22:25,30/11 22:25,"Sunday, November 30 at 22:25",1764537900.0,"📊 Odds baseline: Spread +3.0 → 43% win probability for Pittsburgh Steelers
+
+🌤️ Weather adjustments:
+   • Kulde (-0°C) påvirker boldhåndtering
+
+✅ FINAL: 58% confidence → Pick Buffalo Bills",False,12,,,,
+15,Houston Texans @ Indianapolis Colts,Indianapolis Colts,57.7,-3.5,58.7%,57.7%,"-2.4°C, 11.0mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for Indianapolis Colts
+
+🌤️ Weather adjustments:
+   • Kulde (-2°C) påvirker boldhåndtering
+
+✅ FINAL: 58% confidence → Pick Indianapolis Colts",False,8,,,,
+16,Atlanta Falcons @ New York Jets,Atlanta Falcons,57.4,3.0,42.6%,42.6%,"4.7°C, 8.7mph",Sunday 30/11 19:00,30/11 19:00,"Sunday, November 30 at 19:00",1764525600.0,"📊 Odds baseline: Spread +3.0 → 43% win probability for New York Jets
+
+🌤️ Weather adjustments:
+   • Gode forhold (5°C, 9 mph vind)
+
+✅ FINAL: 57% confidence → Pick Atlanta Falcons",False,6,,,,

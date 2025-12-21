@@ -1,0 +1,92 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points,Result_Winner,Result_Score,Result_Correct,Points_Earned
+1,Dallas Cowboys @ Detroit Lions,Detroit Lions,51.4,-3.0,57.4%,51.4%,"-7.3°C, 5.0mph",Friday 05/12 02:15,05/12 02:15,"Friday, December 05 at 02:15",1764897300.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Detroit Lions
+
+⚕️ Injury adjustments:
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Weather adjustments:
+   • Kulde (-7°C) påvirker boldhåndtering
+
+✅ FINAL: 51% confidence → Pick Detroit Lions",True,8,Detroit Lions,30-44,True,8.0
+2,Los Angeles Rams @ Arizona Cardinals,Los Angeles Rams,73.1,10.0,26.9%,26.9%,"14.0°C, 6.3mph",Sunday 07/12 22:25,07/12 22:25,"Sunday, December 07 at 22:25",1765142700.0,"📊 Odds baseline: Spread +10.0 → 27% win probability for Arizona Cardinals
+
+🌤️ Weather adjustments:
+   • Gode forhold (14°C, 6 mph vind)
+
+✅ FINAL: 73% confidence → Pick Los Angeles Rams",False,100,,,,
+3,New Orleans Saints @ Tampa Bay Buccaneers,Tampa Bay Buccaneers,70.1,-8.5,70.1%,70.1%,"22.7°C, 10.5mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread -8.5 → 70% win probability for Tampa Bay Buccaneers
+
+🌤️ Weather adjustments:
+   • Gode forhold (23°C, 10 mph vind)
+
+✅ FINAL: 70% confidence → Pick Tampa Bay Buccaneers",False,75,,,,
+4,Denver Broncos @ Las Vegas Raiders,Denver Broncos,67.9,7.5,32.1%,32.1%,"12.3°C, 3.5mph",Sunday 07/12 22:05,07/12 22:05,"Sunday, December 07 at 22:05",1765141500.0,"📊 Odds baseline: Spread +7.5 → 32% win probability for Las Vegas Raiders
+
+🌤️ Weather adjustments:
+   • Gode forhold (12°C, 4 mph vind)
+
+✅ FINAL: 68% confidence → Pick Denver Broncos",False,60,,,,
+5,Seattle Seahawks @ Atlanta Falcons,Seattle Seahawks,65.7,6.5,34.3%,34.3%,"6.1°C, 4.3mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread +6.5 → 34% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Gode forhold (6°C, 4 mph vind)
+
+✅ FINAL: 66% confidence → Pick Seattle Seahawks",False,50,,,,
+6,Chicago Bears @ Green Bay Packers,Green Bay Packers,64.7,-6.5,65.7%,64.7%,"-11.8°C, 3.8mph",Sunday 07/12 22:25,07/12 22:25,"Sunday, December 07 at 22:25",1765142700.0,"📊 Odds baseline: Spread -6.5 → 66% win probability for Green Bay Packers
+
+🌤️ Weather adjustments:
+   • Kulde (-12°C) påvirker boldhåndtering
+
+✅ FINAL: 65% confidence → Pick Green Bay Packers",False,40,,,,
+7,Pittsburgh Steelers @ Baltimore Ravens,Baltimore Ravens,64.6,-6.0,64.6%,64.6%,"2.0°C, 4.3mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread -6.0 → 65% win probability for Baltimore Ravens
+
+🌤️ Weather adjustments:
+   • Gode forhold (2°C, 4 mph vind)
+
+✅ FINAL: 65% confidence → Pick Baltimore Ravens",False,35,,,,
+8,Cincinnati Bengals @ Buffalo Bills,Buffalo Bills,63.6,-6.0,64.6%,63.6%,"-2.3°C, 12.3mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread -6.0 → 65% win probability for Buffalo Bills
+
+🌤️ Weather adjustments:
+   • Kulde (-2°C) påvirker boldhåndtering
+
+✅ FINAL: 64% confidence → Pick Buffalo Bills",False,30,,,,
+9,Tennessee Titans @ Cleveland Browns,Cleveland Browns,62.1,-4.5,61.1%,62.1%,"-0.7°C, 15.9mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread -4.5 → 61% win probability for Cleveland Browns
+
+🌤️ Weather adjustments:
+   • Høj vind (16 mph) favoriserer rushing game (+2%)
+   • Kulde (-1°C) påvirker boldhåndtering
+
+✅ FINAL: 62% confidence → Pick Cleveland Browns",False,26,,,,
+10,Indianapolis Colts @ Jacksonville Jaguars,Indianapolis Colts,57.7,1.5,46.3%,42.3%,"15.4°C, 7.9mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread +1.5 → 46% win probability for Jacksonville Jaguars
+
+🌤️ Weather adjustments:
+   • Nedbør (5.2 inch) påvirker passing negativt (-4%)
+
+✅ FINAL: 58% confidence → Pick Indianapolis Colts",False,22,,,,
+11,Houston Texans @ Kansas City Chiefs,Kansas City Chiefs,56.7,-3.5,58.7%,56.7%,"-2.0°C, 1.4mph",Monday 08/12 02:20,08/12 02:20,"Monday, December 08 at 02:20",1765156800.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for Kansas City Chiefs
+
+⚕️ Injury adjustments:
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Weather adjustments:
+   • Kulde (-2°C) påvirker boldhåndtering
+
+✅ FINAL: 57% confidence → Pick Kansas City Chiefs",False,18,,,,
+12,Miami Dolphins @ New York Jets,Miami Dolphins,56.2,2.5,43.8%,43.8%,"4.1°C, 4.0mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread +2.5 → 44% win probability for New York Jets
+
+🌤️ Weather adjustments:
+   • Gode forhold (4°C, 4 mph vind)
+
+✅ FINAL: 56% confidence → Pick Miami Dolphins",False,14,,,,
+13,Philadelphia Eagles @ Los Angeles Chargers,Philadelphia Eagles,56.2,2.5,43.8%,43.8%,"18.3°C, 5.1mph",Tuesday 09/12 02:15,09/12 02:15,"Tuesday, December 09 at 02:15",1765242900.0,"📊 Odds baseline: Spread +2.5 → 44% win probability for Los Angeles Chargers
+
+🌤️ Weather adjustments:
+   • Gode forhold (18°C, 5 mph vind)
+
+✅ FINAL: 56% confidence → Pick Philadelphia Eagles",False,12,,,,
+14,Washington Commanders @ Minnesota Vikings,Washington Commanders,54.7,1.5,46.3%,45.3%,"-12.2°C, 0.8mph",Sunday 07/12 19:00,07/12 19:00,"Sunday, December 07 at 19:00",1765130400.0,"📊 Odds baseline: Spread +1.5 → 46% win probability for Minnesota Vikings
+
+🌤️ Weather adjustments:
+   • Kulde (-12°C) påvirker boldhåndtering
+
+✅ FINAL: 55% confidence → Pick Washington Commanders",False,10,,,,

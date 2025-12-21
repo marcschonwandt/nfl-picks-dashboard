@@ -1,0 +1,91 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Points
+1,Las Vegas Raiders @ Kansas City Chiefs,Kansas City Chiefs,74.9,-11.5,75.9%,74.9%,"63.6°F, 10.3mph",Sunday 19/10 18:00,19/10 18:00,"Sunday, October 19 at 18:00",1760893200.0,"📊 Odds baseline: Spread -11.5 → 76% win probability
+
+⚕️ Skadesjusteringer:
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (64°F, 10 mph vind)
+
+✅ FINAL: 75% confidence → Pick Kansas City Chiefs",100
+2,New England Patriots @ Tennessee Titans,New England Patriots,66.8,7.0,33.2%,33.2%,"57.3°F, 11.4mph",Sunday 19/10 18:00,19/10 18:00,"Sunday, October 19 at 18:00",1760893200.0,"📊 Odds baseline: Spread +7.0 → 33% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (57°F, 11 mph vind)
+
+✅ FINAL: 33% confidence → Pick New England Patriots",75
+3,New York Giants @ Denver Broncos,Denver Broncos,66.8,-7.0,66.8%,66.8%,"68.3°F, 5.1mph",Sunday 19/10 21:05,19/10 21:05,"Sunday, October 19 at 21:05",1760904300.0,"📊 Odds baseline: Spread -7.0 → 67% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (68°F, 5 mph vind)
+
+✅ FINAL: 67% confidence → Pick Denver Broncos",60
+4,Green Bay Packers @ Arizona Cardinals,Green Bay Packers,66.8,7.0,33.2%,33.2%,"87.4°F, 3.3mph",Sunday 19/10 21:25,19/10 21:25,"Sunday, October 19 at 21:25",1760905500.0,"📊 Odds baseline: Spread +7.0 → 33% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (87°F, 3 mph vind)
+
+✅ FINAL: 33% confidence → Pick Green Bay Packers",50
+5,New Orleans Saints @ Chicago Bears,Chicago Bears,61.1,-4.5,61.1%,61.1%,"53.2°F, 12.0mph",Sunday 19/10 18:00,19/10 18:00,"Sunday, October 19 at 18:00",1760893200.0,"📊 Odds baseline: Spread -4.5 → 61% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (53°F, 12 mph vind)
+
+✅ FINAL: 61% confidence → Pick Chicago Bears",40
+6,Tampa Bay Buccaneers @ Detroit Lions,Detroit Lions,58.4,-5.5,63.4%,58.4%,"58.4°F, 9.4mph",Tuesday 21/10 00:00,21/10 00:00,"Tuesday, October 21 at 00:00",1761001200.0,"📊 Odds baseline: Spread -5.5 → 63% win probability
+
+⚕️ Skadesjusteringer:
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (58°F, 9 mph vind)
+
+✅ FINAL: 58% confidence → Pick Detroit Lions",35
+7,Miami Dolphins @ Cleveland Browns,Cleveland Browns,58.2,-2.5,56.2%,58.2%,"59.0°F, 15.7mph",Sunday 19/10 18:00,19/10 18:00,"Sunday, October 19 at 18:00",1760893200.0,"📊 Odds baseline: Spread -2.5 → 56% win probability
+
+🌤️ Vejrjusteringer:
+   • Høj vind (16 mph) favoriserer rushing game (+2%)
+
+✅ FINAL: 58% confidence → Pick Cleveland Browns",30
+8,Los Angeles Rams @ Jacksonville Jaguars,Los Angeles Rams,57.4,3.0,42.6%,42.6%,"82.4°F, 10.8mph",Sunday 19/10 14:30,19/10 14:30,"Sunday, October 19 at 14:30",1760880600.0,"📊 Odds baseline: Spread +3.0 → 43% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (82°F, 11 mph vind)
+
+✅ FINAL: 43% confidence → Pick Los Angeles Rams",26
+9,Houston Texans @ Seattle Seahawks,Seattle Seahawks,57.4,-3.0,57.4%,57.4%,"50.2°F, 1.4mph",Tuesday 21/10 03:00,21/10 03:00,"Tuesday, October 21 at 03:00",1761012000.0,"📊 Odds baseline: Spread -3.0 → 57% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (50°F, 1 mph vind)
+
+✅ FINAL: 57% confidence → Pick Seattle Seahawks",22
+10,Philadelphia Eagles @ Minnesota Vikings,Philadelphia Eagles,53.7,1.5,46.3%,46.3%,"57.3°F, 13.2mph",Sunday 19/10 18:00,19/10 18:00,"Sunday, October 19 at 18:00",1760893200.0,"📊 Odds baseline: Spread +1.5 → 46% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (57°F, 13 mph vind)
+
+✅ FINAL: 46% confidence → Pick Philadelphia Eagles",18
+11,Carolina Panthers @ New York Jets,Carolina Panthers,53.7,1.5,46.3%,46.3%,"67.6°F, 14.9mph",Sunday 19/10 18:00,19/10 18:00,"Sunday, October 19 at 18:00",1760893200.0,"📊 Odds baseline: Spread +1.5 → 46% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (68°F, 15 mph vind)
+
+✅ FINAL: 46% confidence → Pick Carolina Panthers",14
+12,Indianapolis Colts @ Los Angeles Chargers,Los Angeles Chargers,53.7,-1.5,53.7%,53.7%,"65.1°F, 8.8mph",Sunday 19/10 21:05,19/10 21:05,"Sunday, October 19 at 21:05",1760904300.0,"📊 Odds baseline: Spread -1.5 → 54% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (65°F, 9 mph vind)
+
+✅ FINAL: 54% confidence → Pick Los Angeles Chargers",12
+13,Washington Commanders @ Dallas Cowboys,Dallas Cowboys,53.7,-1.5,53.7%,53.7%,"66.5°F, 2.8mph",Sunday 19/10 21:25,19/10 21:25,"Sunday, October 19 at 21:25",1760905500.0,"📊 Odds baseline: Spread -1.5 → 54% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (66°F, 3 mph vind)
+
+✅ FINAL: 54% confidence → Pick Dallas Cowboys",10
+14,Atlanta Falcons @ San Francisco 49ers,San Francisco 49ers,53.7,-1.5,53.7%,53.7%,"56.0°F, 2.9mph",Monday 20/10 01:20,20/10 01:20,"Monday, October 20 at 01:20",1760919600.0,"📊 Odds baseline: Spread -1.5 → 54% win probability
+
+🌤️ Vejrjusteringer:
+   • Gode forhold (56°F, 3 mph vind)
+
+✅ FINAL: 54% confidence → Pick San Francisco 49ers",8
