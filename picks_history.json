@@ -35,19 +35,19 @@
           "rank": 3,
           "game": "Green Bay Packers @ Chicago Bears",
           "pick": "Green Bay Packers",
-          "confidence": 62.7,
+          "confidence": 60.2,
           "points": 6,
-          "spread": 3.5,
+          "spread": 2.5,
           "weather": "-1.5°C, 15.2mph",
-          "reasoning": "📊 Odds baseline: Spread +3.5 → 41% win probability for Chicago Bears\n\n🌤️ Weather adjustments:\n   • Høj vind (15 mph) påvirker passing game negativt (-3%)\n   • Kulde (-2°C) påvirker boldhåndtering\n\n✅ FINAL: 63% confidence → Pick Green Bay Packers",
-          "base_prob": "41.3%",
-          "final_prob": "37.3%",
+          "reasoning": "📊 Odds baseline: Spread +2.5 → 44% win probability for Chicago Bears\n\n🌤️ Weather adjustments:\n   • Høj vind (15 mph) påvirker passing game negativt (-3%)\n   • Kulde (-2°C) påvirker boldhåndtering\n\n✅ FINAL: 60% confidence → Pick Green Bay Packers",
+          "base_prob": "43.8%",
+          "final_prob": "39.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.081752",
+              "timestamp": "2025-12-21T03:14:25.119054",
               "week": 16,
-              "spread_home": 3.5,
-              "moneyline_home": 160,
+              "spread_home": 2.5,
+              "moneyline_home": 120,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -67,7 +67,7 @@
           "final_prob": "81.0%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.085097",
+              "timestamp": "2025-12-21T03:14:25.122325",
               "week": 16,
               "spread_home": -14.5,
               "moneyline_home": -1450,
@@ -90,7 +90,7 @@
           "final_prob": "24.9%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.082199",
+              "timestamp": "2025-12-21T03:14:25.119525",
               "week": 16,
               "spread_home": 10.5,
               "moneyline_home": 470,
@@ -113,7 +113,7 @@
           "final_prob": "65.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.083840",
+              "timestamp": "2025-12-21T03:14:25.121110",
               "week": 16,
               "spread_home": -6.5,
               "moneyline_home": -285,
@@ -136,7 +136,7 @@
           "final_prob": "36.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.085697",
+              "timestamp": "2025-12-21T03:14:25.122926",
               "week": 16,
               "spread_home": 5.5,
               "moneyline_home": 205,
@@ -159,7 +159,7 @@
           "final_prob": "38.9%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.082679",
+              "timestamp": "2025-12-21T03:14:25.119977",
               "week": 16,
               "spread_home": 4.5,
               "moneyline_home": 185,
@@ -182,7 +182,7 @@
           "final_prob": "60.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.084794",
+              "timestamp": "2025-12-21T03:14:25.121982",
               "week": 16,
               "spread_home": -7.0,
               "moneyline_home": -345,
@@ -205,7 +205,7 @@
           "final_prob": "58.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.084492",
+              "timestamp": "2025-12-21T03:14:25.121668",
               "week": 16,
               "spread_home": -3.5,
               "moneyline_home": -180,
@@ -228,7 +228,7 @@
           "final_prob": "42.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.082360",
+              "timestamp": "2025-12-21T03:14:25.119673",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 130,
@@ -251,7 +251,7 @@
           "final_prob": "42.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.084204",
+              "timestamp": "2025-12-21T03:14:25.121388",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 130,
@@ -274,7 +274,7 @@
           "final_prob": "57.4%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.085393",
+              "timestamp": "2025-12-21T03:14:25.122619",
               "week": 16,
               "spread_home": -3.0,
               "moneyline_home": -170,
@@ -297,7 +297,7 @@
           "final_prob": "42.8%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.083541",
+              "timestamp": "2025-12-21T03:14:25.120820",
               "week": 16,
               "spread_home": 2.5,
               "moneyline_home": 124,
@@ -320,7 +320,7 @@
           "final_prob": "43.6%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.083223",
+              "timestamp": "2025-12-21T03:14:25.120563",
               "week": 16,
               "spread_home": 3.0,
               "moneyline_home": 136,
@@ -343,7 +343,7 @@
           "final_prob": "53.7%",
           "odds_history": [
             {
-              "timestamp": "2025-12-21T03:05:01.082957",
+              "timestamp": "2025-12-21T03:14:25.120293",
               "week": 16,
               "spread_home": -1.5,
               "moneyline_home": -125,
@@ -355,8 +355,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-21T03:05:28.371330",
-      "updated_at": "2025-12-21T03:05:28.371337"
+      "created_at": "2025-12-21T03:14:52.493297",
+      "updated_at": "2025-12-21T03:14:52.493304"
     }
   ]
 }
