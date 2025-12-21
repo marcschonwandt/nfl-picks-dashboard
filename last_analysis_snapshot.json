@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T11:15:29.034664",
+  "timestamp": "2025-12-21T11:15:32.606852",
   "picks": {
     "Philadelphia Eagles @ Washington Commanders": {
       "pick": "Philadelphia Eagles",
@@ -85,24 +85,24 @@
       "rank": 0,
       "points": 18
     },
+    "New England Patriots @ Baltimore Ravens": {
+      "pick": "Baltimore Ravens",
+      "confidence": 57.4,
+      "spread": -3.0,
+      "rank": 0,
+      "points": 14
+    },
     "Minnesota Vikings @ New York Giants": {
       "pick": "Minnesota Vikings",
       "confidence": 57.2,
       "spread": 2.5,
       "rank": 0,
-      "points": 14
+      "points": 12
     },
     "Kansas City Chiefs @ Tennessee Titans": {
       "pick": "Kansas City Chiefs",
       "confidence": 56.4,
       "spread": 3.0,
-      "rank": 0,
-      "points": 12
-    },
-    "New England Patriots @ Baltimore Ravens": {
-      "pick": "Baltimore Ravens",
-      "confidence": 56.4,
-      "spread": -3.0,
       "rank": 0,
       "points": 10
     },
