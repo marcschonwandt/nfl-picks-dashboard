@@ -1,0 +1,76 @@
+{
+  "week": 16,
+  "generated_at": "2025-12-22T00:25:04.072546",
+  "games_analyzed": 3,
+  "official_games": 16,
+  "picks": [
+    {
+      "home_team": "Detroit Lions",
+      "away_team": "Pittsburgh Steelers",
+      "spread": 4.5,
+      "base_prob": 0.3894,
+      "commence_time": "2025-12-21T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [
+        "   • Example DE (DE) - Out: stor impact (-5.0%)"
+      ],
+      "weather": {
+        "temp": -4.5,
+        "wind_speed": 3.1,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Kulde (-4°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.3294,
+      "pick": "Pittsburgh Steelers",
+      "confidence": 67.1,
+      "reasoning": "📊 Odds baseline: Spread +4.5 → 39% win probability for Detroit Lions\n\n⚕️ Injury adjustments:\n   • Example DE (DE) - Out: stor impact (-5.0%)\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 67% confidence → Pick Pittsburgh Steelers"
+    },
+    {
+      "home_team": "Baltimore Ravens",
+      "away_team": "New England Patriots",
+      "spread": -3.5,
+      "base_prob": 0.5866,
+      "commence_time": "2025-12-22T01:20Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": -0.9,
+        "wind_speed": 2.4,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Kulde (-1°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.5766,
+      "pick": "Baltimore Ravens",
+      "confidence": 57.7,
+      "reasoning": "📊 Odds baseline: Spread -3.5 → 59% win probability for Baltimore Ravens\n\n🌤️ Weather adjustments:\n   • Kulde (-1°C) påvirker boldhåndtering\n\n✅ FINAL: 58% confidence → Pick Baltimore Ravens"
+    },
+    {
+      "home_team": "Indianapolis Colts",
+      "away_team": "San Francisco 49ers",
+      "spread": 5.5,
+      "base_prob": 0.3659,
+      "commence_time": "2025-12-23T01:15Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 8.4,
+        "wind_speed": 10.4,
+        "precipitation": 0.7,
+        "conditions": "rain"
+      },
+      "weather_adjustments": [
+        "   • Nedbør (0.7 inch) påvirker passing negativt (-4%)"
+      ],
+      "final_prob": 0.3259,
+      "pick": "San Francisco 49ers",
+      "confidence": 67.4,
+      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts\n\n🌤️ Weather adjustments:\n   • Nedbør (0.7 inch) påvirker passing negativt (-4%)\n\n✅ FINAL: 67% confidence → Pick San Francisco 49ers"
+    }
+  ]
+}
