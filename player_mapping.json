@@ -1,0 +1,54 @@
+{
+  "players": [
+    {
+      "id": 26337,
+      "name": "Anne sch\u00f8nwandt",
+      "file": "picks_history_26337.json"
+    },
+    {
+      "id": 29626,
+      "name": "Christopher Blomsterberg-Thaysen",
+      "file": "picks_history_29626.json"
+    },
+    {
+      "id": 18004,
+      "name": "Jesper N\u00f8rm\u00f8lle",
+      "file": "picks_history_18004.json"
+    },
+    {
+      "id": 36286,
+      "name": "Marc Sch\u00f8nwandt",
+      "file": "picks_history_36286.json"
+    },
+    {
+      "id": 29597,
+      "name": "Marie Louise Blomsterberg",
+      "file": "picks_history_29597.json"
+    },
+    {
+      "id": 17213,
+      "name": "Per Sch\u00f8nwandt",
+      "file": "picks_history_17213.json"
+    },
+    {
+      "id": 34641,
+      "name": "Rune Buhl Frederiksen",
+      "file": "picks_history_34641.json"
+    },
+    {
+      "id": 16981,
+      "name": "Sofie Amalie Blomsterberg",
+      "file": "picks_history_16981.json"
+    },
+    {
+      "id": 29606,
+      "name": "Susanne Blomsterberg",
+      "file": "picks_history_29606.json"
+    },
+    {
+      "id": 29763,
+      "name": "Vibeke Sch\u00f8nwandt",
+      "file": "picks_history_29763.json"
+    }
+  ]
+}
