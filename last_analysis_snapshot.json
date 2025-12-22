@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T00:25:04.072174",
+  "timestamp": "2025-12-22T01:36:32.264083",
   "picks": {
     "Las Vegas Raiders @ Houston Texans": {
       "pick": "Houston Texans",
@@ -37,9 +37,9 @@
       "points": 35
     },
     "Pittsburgh Steelers @ Detroit Lions": {
-      "pick": "Pittsburgh Steelers",
-      "confidence": 67.1,
-      "spread": 4.5,
+      "pick": "Detroit Lions",
+      "confidence": 60.8,
+      "spread": -7.0,
       "rank": 0,
       "points": 30
     },
@@ -78,6 +78,13 @@
       "rank": 0,
       "points": 12
     },
+    "New England Patriots @ Baltimore Ravens": {
+      "pick": "Baltimore Ravens",
+      "confidence": 64.7,
+      "spread": -6.5,
+      "rank": 0,
+      "points": 10
+    },
     "Los Angeles Chargers @ Dallas Cowboys": {
       "pick": "Dallas Cowboys",
       "confidence": 56.2,
@@ -105,28 +112,19 @@
       "spread": 5.5,
       "rank": 0,
       "points": 50
-    },
-    "New England Patriots @ Baltimore Ravens": {
-      "pick": "Baltimore Ravens",
-      "confidence": 57.7,
-      "spread": -3.5,
-      "rank": 0,
-      "points": 10
     }
   },
   "spreads": {
-    "Jacksonville Jaguars@Denver Broncos": 11.5,
-    "Atlanta Falcons@Arizona Cardinals": 6.5,
-    "Las Vegas Raiders@Houston Texans": -2.5,
-    "Pittsburgh Steelers@Detroit Lions": 4.5,
-    "New England Patriots@Baltimore Ravens": -3.5,
+    "New England Patriots@Baltimore Ravens": -6.5,
     "San Francisco 49ers@Indianapolis Colts": 5.5,
     "Dallas Cowboys@Washington Commanders": 5.5,
     "Detroit Lions@Minnesota Vikings": 5.5,
-    "Denver Broncos@Kansas City Chiefs": 10.5,
+    "Denver Broncos@Kansas City Chiefs": 12.5,
     "Houston Texans@Los Angeles Chargers": -1.5,
-    "Arizona Cardinals@Cincinnati Bengals": -6.0,
+    "Baltimore Ravens@Green Bay Packers": 1.5,
+    "Arizona Cardinals@Cincinnati Bengals": -6.5,
     "Seattle Seahawks@Carolina Panthers": 7.5,
+    "Pittsburgh Steelers@Cleveland Browns": 4.5,
     "Jacksonville Jaguars@Indianapolis Colts": 6.5,
     "Tampa Bay Buccaneers@Miami Dolphins": 5.5,
     "New England Patriots@New York Jets": 12.5,
