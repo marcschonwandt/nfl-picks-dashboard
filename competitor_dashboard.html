@@ -45,6 +45,24 @@
             font-size: 16px;
         }
 
+        .nav-link {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 14px;
+            transition: transform 0.2s;
+        }
+
+        .nav-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
         .tabs {
             display: flex;
             gap: 10px;
@@ -312,6 +330,7 @@
         <div class="header">
             <h1>🏈 NFL Picks - Competitor Analysis</h1>
             <p>League Performance & Head-to-Head Comparison</p>
+            <a href="picks_dashboard.html" class="nav-link">📊 View Individual Picks Dashboard</a>
         </div>
 
         <div class="tabs">

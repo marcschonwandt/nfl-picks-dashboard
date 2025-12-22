@@ -16,7 +16,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-22T03:12:21.551661",
+              "timestamp": "2025-12-22T03:18:29.924724",
               "week": 16,
               "spread_home": 5.5,
               "moneyline_home": 220,
@@ -193,10 +193,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-22T03:12:21.551209",
+              "timestamp": "2025-12-22T03:18:29.924370",
               "week": 16,
-              "spread_home": 3.5,
-              "moneyline_home": 200,
+              "spread_home": 2.5,
+              "moneyline_home": 145,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -247,8 +247,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-22T03:12:22.955626",
-      "updated_at": "2025-12-22T03:13:37.132120",
+      "created_at": "2025-12-22T03:18:30.859823",
+      "updated_at": "2025-12-22T03:19:41.893953",
       "accuracy": 0,
       "correct": 0,
       "total": 0,

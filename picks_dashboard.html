@@ -40,6 +40,24 @@
             margin-bottom: 10px;
         }
 
+        .nav-link {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 14px;
+            transition: transform 0.2s;
+        }
+
+        .nav-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+        }
+
         .controls {
             display: flex;
             gap: 20px;
@@ -192,6 +210,7 @@
         <div class="header">
             <h1>🏈 NFL Picks Dashboard</h1>
             <p id="playerName" style="color: #718096; margin-top: 10px;"></p>
+            <a href="competitor_dashboard.html" class="nav-link">🏆 View Competitor Analysis</a>
         </div>
 
         <div class="controls">
