@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T03:18:30.862482",
+  "timestamp": "2025-12-22T04:21:26.087013",
   "picks": {
     "Las Vegas Raiders @ Houston Texans": {
       "pick": "Houston Texans",
@@ -80,8 +80,8 @@
     },
     "New England Patriots @ Baltimore Ravens": {
       "pick": "New England Patriots",
-      "confidence": 57.2,
-      "spread": 2.5,
+      "confidence": 51.0,
+      "spread": 0.0,
       "rank": 0,
       "points": 10
     },
@@ -115,7 +115,7 @@
     }
   },
   "spreads": {
-    "New England Patriots@Baltimore Ravens": 2.5,
+    "New England Patriots@Baltimore Ravens": 0,
     "San Francisco 49ers@Indianapolis Colts": 5.5,
     "Dallas Cowboys@Washington Commanders": 5.5,
     "Detroit Lions@Minnesota Vikings": 5.5,
