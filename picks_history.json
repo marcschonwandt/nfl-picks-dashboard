@@ -16,7 +16,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.460516",
+              "timestamp": "2025-12-24T21:46:21.472172",
               "week": 17,
               "spread_home": 13.5,
               "moneyline_home": 675,
@@ -39,7 +39,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.463014",
+              "timestamp": "2025-12-24T21:46:21.475172",
               "week": 17,
               "spread_home": 13.5,
               "moneyline_home": 675,
@@ -51,8 +51,8 @@
         },
         {
           "rank": 2,
-          "game": "Los Angeles Rams @ Atlanta Falcons",
-          "pick": "Los Angeles Rams",
+          "game": "Jacksonville Jaguars @ Indianapolis Colts",
+          "pick": "Jacksonville Jaguars",
           "confidence": 50.0,
           "points": 60,
           "spread": 0.0,
@@ -62,10 +62,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.464336",
+              "timestamp": "2025-12-24T21:46:21.474262",
               "week": 17,
-              "spread_home": 7.5,
-              "moneyline_home": 340,
+              "spread_home": 6.5,
+              "moneyline_home": 225,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -74,8 +74,8 @@
         },
         {
           "rank": 3,
-          "game": "Dallas Cowboys @ Washington Commanders",
-          "pick": "Dallas Cowboys",
+          "game": "Los Angeles Rams @ Atlanta Falcons",
+          "pick": "Los Angeles Rams",
           "confidence": 50.0,
           "points": 50,
           "spread": 0.0,
@@ -85,10 +85,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.459881",
+              "timestamp": "2025-12-24T21:46:21.477144",
               "week": 17,
-              "spread_home": 7.0,
-              "moneyline_home": 270,
+              "spread_home": 7.5,
+              "moneyline_home": 360,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -97,8 +97,8 @@
         },
         {
           "rank": 4,
-          "game": "Arizona Cardinals @ Cincinnati Bengals",
-          "pick": "Cincinnati Bengals",
+          "game": "Dallas Cowboys @ Washington Commanders",
+          "pick": "Dallas Cowboys",
           "confidence": 50.0,
           "points": 40,
           "spread": 0.0,
@@ -108,10 +108,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.461746",
+              "timestamp": "2025-12-24T21:46:21.471577",
               "week": 17,
-              "spread_home": -7.0,
-              "moneyline_home": -375,
+              "spread_home": 8.5,
+              "moneyline_home": 370,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -131,7 +131,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.462002",
+              "timestamp": "2025-12-24T21:46:21.473588",
               "week": 17,
               "spread_home": 7.0,
               "moneyline_home": 295,
@@ -143,8 +143,8 @@
         },
         {
           "rank": 6,
-          "game": "Jacksonville Jaguars @ Indianapolis Colts",
-          "pick": "Jacksonville Jaguars",
+          "game": "Arizona Cardinals @ Cincinnati Bengals",
+          "pick": "Cincinnati Bengals",
           "confidence": 50.0,
           "points": 30,
           "spread": 0.0,
@@ -154,10 +154,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.462536",
+              "timestamp": "2025-12-24T21:46:21.473228",
               "week": 17,
-              "spread_home": 6.5,
-              "moneyline_home": 230,
+              "spread_home": -7.5,
+              "moneyline_home": -380,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -166,8 +166,8 @@
         },
         {
           "rank": 7,
-          "game": "Detroit Lions @ Minnesota Vikings",
-          "pick": "Detroit Lions",
+          "game": "Tampa Bay Buccaneers @ Miami Dolphins",
+          "pick": "Tampa Bay Buccaneers",
           "confidence": 50.0,
           "points": 26,
           "spread": 0.0,
@@ -177,7 +177,30 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.460344",
+              "timestamp": "2025-12-24T21:46:21.474619",
+              "week": 17,
+              "spread_home": 5.5,
+              "moneyline_home": 235,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 8,
+          "game": "Detroit Lions @ Minnesota Vikings",
+          "pick": "Detroit Lions",
+          "confidence": 50.0,
+          "points": 22,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-24T21:46:21.472008",
               "week": 17,
               "spread_home": 7.5,
               "moneyline_home": 310,
@@ -188,32 +211,9 @@
           "game_time_cph": "N/A"
         },
         {
-          "rank": 8,
-          "game": "Tampa Bay Buccaneers @ Miami Dolphins",
-          "pick": "Tampa Bay Buccaneers",
-          "confidence": 50.0,
-          "points": 22,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-24T03:27:44.462782",
-              "week": 17,
-              "spread_home": 5.5,
-              "moneyline_home": 210,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
           "rank": 9,
-          "game": "New Orleans Saints @ Tennessee Titans",
-          "pick": "New Orleans Saints",
+          "game": "Baltimore Ravens @ Green Bay Packers",
+          "pick": "Green Bay Packers",
           "confidence": 50.0,
           "points": 18,
           "spread": 0.0,
@@ -223,7 +223,53 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.463259",
+              "timestamp": "2025-12-24T21:46:21.472919",
+              "week": 17,
+              "spread_home": -3.0,
+              "moneyline_home": -175,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 10,
+          "game": "Chicago Bears @ San Francisco 49ers",
+          "pick": "San Francisco 49ers",
+          "confidence": 50.0,
+          "points": 14,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-24T21:46:21.476793",
+              "week": 17,
+              "spread_home": -3.0,
+              "moneyline_home": -162,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 11,
+          "game": "New Orleans Saints @ Tennessee Titans",
+          "pick": "New Orleans Saints",
+          "confidence": 50.0,
+          "points": 12,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-24T21:46:21.475564",
               "week": 17,
               "spread_home": 2.5,
               "moneyline_home": 124,
@@ -234,55 +280,9 @@
           "game_time_cph": "N/A"
         },
         {
-          "rank": 10,
-          "game": "Baltimore Ravens @ Green Bay Packers",
-          "pick": "Green Bay Packers",
-          "confidence": 50.0,
-          "points": 14,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-24T03:27:44.461420",
-              "week": 17,
-              "spread_home": -3.0,
-              "moneyline_home": -166,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
-          "rank": 11,
-          "game": "Chicago Bears @ San Francisco 49ers",
-          "pick": "San Francisco 49ers",
-          "confidence": 50.0,
-          "points": 12,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-24T03:27:44.464060",
-              "week": 17,
-              "spread_home": -3.0,
-              "moneyline_home": -166,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
           "rank": 12,
-          "game": "Houston Texans @ Los Angeles Chargers",
-          "pick": "Los Angeles Chargers",
+          "game": "Pittsburgh Steelers @ Cleveland Browns",
+          "pick": "Pittsburgh Steelers",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -292,10 +292,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.461010",
+              "timestamp": "2025-12-24T21:46:21.473966",
               "week": 17,
-              "spread_home": -2.5,
-              "moneyline_home": -130,
+              "spread_home": 3.0,
+              "moneyline_home": 150,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -304,8 +304,8 @@
         },
         {
           "rank": 13,
-          "game": "Pittsburgh Steelers @ Cleveland Browns",
-          "pick": "Pittsburgh Steelers",
+          "game": "Houston Texans @ Los Angeles Chargers",
+          "pick": "Los Angeles Chargers",
           "confidence": 50.0,
           "points": 8,
           "spread": 0.0,
@@ -315,30 +315,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.462262",
-              "week": 17,
-              "spread_home": 3.0,
-              "moneyline_home": 145,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
-          "rank": 14,
-          "game": "New York Giants @ Las Vegas Raiders",
-          "pick": "Las Vegas Raiders",
-          "confidence": 50.0,
-          "points": 6,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-24T03:27:44.463525",
+              "timestamp": "2025-12-24T21:46:21.472582",
               "week": 17,
               "spread_home": -1.5,
               "moneyline_home": -125,
@@ -349,9 +326,32 @@
           "game_time_cph": "N/A"
         },
         {
+          "rank": 14,
+          "game": "New York Giants @ Las Vegas Raiders",
+          "pick": "New York Giants",
+          "confidence": 50.0,
+          "points": 6,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-24T21:46:21.475927",
+              "week": 17,
+              "spread_home": 1.5,
+              "moneyline_home": -108,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
           "rank": 15,
           "game": "Philadelphia Eagles @ Buffalo Bills",
-          "pick": "Buffalo Bills",
+          "pick": "Philadelphia Eagles",
           "confidence": 50.0,
           "points": 5,
           "spread": 0.0,
@@ -361,10 +361,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-24T03:27:44.463796",
+              "timestamp": "2025-12-24T21:46:21.476437",
               "week": 17,
               "spread_home": -1.5,
-              "moneyline_home": -122,
+              "moneyline_home": -112,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -373,8 +373,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-24T03:28:31.876240",
-      "updated_at": "2025-12-24T03:30:03.208211",
+      "created_at": "2025-12-24T21:46:27.853863",
+      "updated_at": "2025-12-24T21:48:00.199915",
       "accuracy": 0,
       "correct": 0,
       "total": 0,
