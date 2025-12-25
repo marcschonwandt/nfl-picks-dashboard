@@ -701,7 +701,7 @@
         <div class="header">
             <h1>🏈 NFL Picks - Competitor Analysis</h1>
             <p>League Performance & Head-to-Head Comparison</p>
-            <p style="font-size: 14px; color: #a0aec0; margin-top: 10px;">📅 Last updated: December 23, 2025 at 17:37</p>
+            <p style="font-size: 14px; color: #a0aec0; margin-top: 10px;">📅 Last updated: December 25, 2025 at 10:50</p>
             <a href="picks_dashboard.html" class="nav-link">📊 View Individual Picks Dashboard</a>
         </div>
 
@@ -1080,8 +1080,8 @@
                 <div class="league-stat-value" id="statGapFirst">+56</div>
             </div>
             <div class="league-stat-card">
-                <div class="league-stat-label">LEAD OVER 3RD</div>
-                <div class="league-stat-value" id="statLeadThird">+0</div>
+                <div class="league-stat-label">LEAD OVER NEXT</div>
+                <div class="league-stat-value" id="statLeadNext">+3</div>
             </div>
         </div>
 
@@ -1150,12 +1150,18 @@
         const playerPosition = standings.findIndex(p => p.user_id === currentPlayerId) + 1;
         const playerTotal = playerData ? playerData.calculated_total : 0;
         const firstTotal = standings[0] ? standings[0].calculated_total : 0;
-        const thirdTotal = standings[2] ? standings[2].calculated_total : 0;
+
+        // Calculate lead over next player (immediately below in standings)
+        let leadOverNext = 0;
+        if (playerPosition > 0 && playerPosition < standings.length) {
+            const nextPlayerTotal = standings[playerPosition] ? standings[playerPosition].calculated_total : 0;
+            leadOverNext = playerTotal - nextPlayerTotal;
+        }
 
         document.getElementById('statPosition').textContent = '#' + playerPosition;
         document.getElementById('statTotalPoints').textContent = playerTotal.toLocaleString();
         document.getElementById('statGapFirst').textContent = (playerTotal - firstTotal >= 0 ? '+' : '') + (playerTotal - firstTotal);
-        document.getElementById('statLeadThird').textContent = (playerTotal - thirdTotal >= 0 ? '+' : '') + (playerTotal - thirdTotal);
+        document.getElementById('statLeadNext').textContent = (leadOverNext >= 0 ? '+' : '') + leadOverNext;
     }
 
     // Generate table
