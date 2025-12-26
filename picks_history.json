@@ -16,10 +16,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.704474",
+              "timestamp": "2025-12-26T21:24:03.198912",
               "week": 17,
               "spread_home": 13.5,
-              "moneyline_home": 650,
+              "moneyline_home": 675,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -28,8 +28,8 @@
         },
         {
           "rank": 1,
-          "game": "Jacksonville Jaguars @ Indianapolis Colts",
-          "pick": "Jacksonville Jaguars",
+          "game": "Los Angeles Rams @ Atlanta Falcons",
+          "pick": "Los Angeles Rams",
           "confidence": 50.0,
           "points": 60,
           "spread": 0.0,
@@ -39,10 +39,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.703911",
+              "timestamp": "2025-12-26T21:24:03.200472",
               "week": 17,
-              "spread_home": 6.0,
-              "moneyline_home": 225,
+              "spread_home": 7.5,
+              "moneyline_home": 360,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -51,8 +51,8 @@
         },
         {
           "rank": 2,
-          "game": "Arizona Cardinals @ Cincinnati Bengals",
-          "pick": "Cincinnati Bengals",
+          "game": "Jacksonville Jaguars @ Indianapolis Colts",
+          "pick": "Jacksonville Jaguars",
           "confidence": 50.0,
           "points": 40,
           "spread": 0.0,
@@ -62,10 +62,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.702872",
+              "timestamp": "2025-12-26T21:24:03.198236",
               "week": 17,
-              "spread_home": -7.5,
-              "moneyline_home": -410,
+              "spread_home": 5.5,
+              "moneyline_home": 205,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -74,8 +74,8 @@
         },
         {
           "rank": 3,
-          "game": "Los Angeles Rams @ Atlanta Falcons",
-          "pick": "Los Angeles Rams",
+          "game": "Arizona Cardinals @ Cincinnati Bengals",
+          "pick": "Cincinnati Bengals",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -85,10 +85,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.706536",
+              "timestamp": "2025-12-26T21:24:03.197308",
               "week": 17,
-              "spread_home": 7.5,
-              "moneyline_home": 360,
+              "spread_home": -7.0,
+              "moneyline_home": -380,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -108,7 +108,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.703226",
+              "timestamp": "2025-12-26T21:24:03.197599",
               "week": 17,
               "spread_home": 7.0,
               "moneyline_home": 295,
@@ -131,7 +131,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.704184",
+              "timestamp": "2025-12-26T21:24:03.198620",
               "week": 17,
               "spread_home": 6.0,
               "moneyline_home": 235,
@@ -154,10 +154,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.702702",
+              "timestamp": "2025-12-26T21:24:03.197131",
               "week": 17,
-              "spread_home": -4.5,
-              "moneyline_home": -218,
+              "spread_home": -3.5,
+              "moneyline_home": -198,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -177,7 +177,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.706178",
+              "timestamp": "2025-12-26T21:24:03.200113",
               "week": 17,
               "spread_home": -3.0,
               "moneyline_home": -162,
@@ -200,7 +200,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.704846",
+              "timestamp": "2025-12-26T21:24:03.199222",
               "week": 17,
               "spread_home": 2.5,
               "moneyline_home": 120,
@@ -223,7 +223,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.702261",
+              "timestamp": "2025-12-26T21:24:03.196704",
               "week": 17,
               "spread_home": -1.5,
               "moneyline_home": -130,
@@ -246,10 +246,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.705204",
+              "timestamp": "2025-12-26T21:24:03.199489",
               "week": 17,
               "spread_home": 1.5,
-              "moneyline_home": -108,
+              "moneyline_home": -102,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -269,7 +269,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.703586",
+              "timestamp": "2025-12-26T21:24:03.197941",
               "week": 17,
               "spread_home": 3.0,
               "moneyline_home": 150,
@@ -292,7 +292,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T15:27:25.705750",
+              "timestamp": "2025-12-26T21:24:03.199800",
               "week": 17,
               "spread_home": -1.5,
               "moneyline_home": -122,
@@ -346,8 +346,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-26T15:27:32.326180",
-      "updated_at": "2025-12-26T15:29:00.750792",
+      "created_at": "2025-12-26T21:24:20.087453",
+      "updated_at": "2025-12-26T21:25:47.361041",
       "accuracy": 0,
       "correct": 0,
       "total": 0,
