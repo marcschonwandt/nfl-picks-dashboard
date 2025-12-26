@@ -233,9 +233,10 @@
     "rank": 1,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 17213,
@@ -507,9 +508,10 @@
     "rank": 0,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 29626,
@@ -781,9 +783,10 @@
     "rank": 1,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 26337,
@@ -1073,9 +1076,10 @@
     "rank": 1,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 16981,
@@ -1329,9 +1333,10 @@
     "rank": 2,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 34641,
@@ -1603,9 +1608,10 @@
     "rank": 0,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 29597,
@@ -1895,9 +1901,10 @@
     "rank": 5,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 18004,
@@ -2151,9 +2158,10 @@
     "rank": 1,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 29606,
@@ -2425,9 +2433,10 @@
     "rank": 3,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 29763,
@@ -2699,9 +2708,10 @@
     "rank": 0,
     "timestamp": 1766711700,
     "game_date": "26/12 02:15",
-    "home_score": 10,
-    "away_score": 6,
-    "is_final": false
+    "home_score": 13,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "DEN"
   },
   {
     "user_id": 36286,

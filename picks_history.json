@@ -16,7 +16,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.779407",
+              "timestamp": "2025-12-26T04:03:15.137038",
               "week": 17,
               "spread_home": 13.5,
               "moneyline_home": 650,
@@ -28,8 +28,8 @@
         },
         {
           "rank": 1,
-          "game": "Jacksonville Jaguars @ Indianapolis Colts",
-          "pick": "Jacksonville Jaguars",
+          "game": "Los Angeles Rams @ Atlanta Falcons",
+          "pick": "Los Angeles Rams",
           "confidence": 50.0,
           "points": 60,
           "spread": 0.0,
@@ -39,7 +39,30 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.778855",
+              "timestamp": "2025-12-26T04:03:15.138679",
+              "week": 17,
+              "spread_home": 7.5,
+              "moneyline_home": 360,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 2,
+          "game": "Jacksonville Jaguars @ Indianapolis Colts",
+          "pick": "Jacksonville Jaguars",
+          "confidence": 50.0,
+          "points": 40,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-26T04:03:15.135507",
               "week": 17,
               "spread_home": 6.5,
               "moneyline_home": 225,
@@ -50,32 +73,9 @@
           "game_time_cph": "N/A"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "game": "Arizona Cardinals @ Cincinnati Bengals",
           "pick": "Cincinnati Bengals",
-          "confidence": 50.0,
-          "points": 40,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-26T02:58:11.778032",
-              "week": 17,
-              "spread_home": -7.5,
-              "moneyline_home": -410,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
-          "rank": 3,
-          "game": "Los Angeles Rams @ Atlanta Falcons",
-          "pick": "Los Angeles Rams",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -85,10 +85,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.780840",
+              "timestamp": "2025-12-26T04:03:14.040823",
               "week": 17,
-              "spread_home": 7.5,
-              "moneyline_home": 360,
+              "spread_home": -7.5,
+              "moneyline_home": -410,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -108,7 +108,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.778330",
+              "timestamp": "2025-12-26T04:03:14.628929",
               "week": 17,
               "spread_home": 7.0,
               "moneyline_home": 295,
@@ -131,7 +131,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.779162",
+              "timestamp": "2025-12-26T04:03:15.136725",
               "week": 17,
               "spread_home": 6.0,
               "moneyline_home": 235,
@@ -154,7 +154,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.777526",
+              "timestamp": "2025-12-26T04:03:13.382842",
               "week": 17,
               "spread_home": -4.5,
               "moneyline_home": -205,
@@ -177,7 +177,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.780405",
+              "timestamp": "2025-12-26T04:03:15.138361",
               "week": 17,
               "spread_home": -3.0,
               "moneyline_home": -162,
@@ -200,7 +200,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.779668",
+              "timestamp": "2025-12-26T04:03:15.137480",
               "week": 17,
               "spread_home": 2.5,
               "moneyline_home": 120,
@@ -223,7 +223,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.778632",
+              "timestamp": "2025-12-26T04:03:15.037202",
               "week": 17,
               "spread_home": 3.0,
               "moneyline_home": 150,
@@ -246,7 +246,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.777383",
+              "timestamp": "2025-12-26T04:03:13.337912",
               "week": 17,
               "spread_home": -1.5,
               "moneyline_home": -130,
@@ -269,7 +269,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.779908",
+              "timestamp": "2025-12-26T04:03:15.137782",
               "week": 17,
               "spread_home": 1.5,
               "moneyline_home": -108,
@@ -292,7 +292,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.780160",
+              "timestamp": "2025-12-26T04:03:15.138069",
               "week": 17,
               "spread_home": -1.5,
               "moneyline_home": -122,
@@ -315,10 +315,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-26T02:58:11.776878",
+              "timestamp": "2025-12-26T04:03:13.337478",
               "week": 17,
-              "spread_home": 4.5,
-              "moneyline_home": 240,
+              "spread_home": 6.5,
+              "moneyline_home": 1800,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -355,8 +355,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-26T02:58:29.611850",
-      "updated_at": "2025-12-26T03:00:21.311579",
+      "created_at": "2025-12-26T04:03:20.079551",
+      "updated_at": "2025-12-26T04:04:43.551977",
       "accuracy": 0,
       "correct": 0,
       "total": 0,
