@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-12-26T00:57:43.134939",
+  "timestamp": "2025-12-26T02:58:29.614955",
   "picks": {
     "Denver Broncos @ Kansas City Chiefs": {
       "pick": "Denver Broncos",
-      "confidence": 80.4,
-      "spread": 13.5,
+      "confidence": 62.1,
+      "spread": 4.5,
       "rank": 0,
       "points": 100
     },
@@ -93,16 +93,15 @@
       "points": 10
     },
     "Philadelphia Eagles @ Buffalo Bills": {
-      "pick": "Buffalo Bills",
-      "confidence": 53.7,
+      "pick": "Philadelphia Eagles",
+      "confidence": 50.3,
       "spread": -1.5,
       "rank": 0,
       "points": 8
     }
   },
   "spreads": {
-    "Detroit Lions@Minnesota Vikings": -12.5,
-    "Denver Broncos@Kansas City Chiefs": 13.5,
+    "Denver Broncos@Kansas City Chiefs": 4.5,
     "Houston Texans@Los Angeles Chargers": -1.5,
     "Baltimore Ravens@Green Bay Packers": -4.5,
     "Arizona Cardinals@Cincinnati Bengals": -7.5,

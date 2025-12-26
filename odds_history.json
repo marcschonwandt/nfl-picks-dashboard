@@ -1,37 +1,27 @@
 {
-  "Detroit Lions@Minnesota Vikings": [
-    {
-      "timestamp": "2025-12-26T00:57:05.965124",
-      "week": 17,
-      "spread_home": -12.5,
-      "moneyline_home": -110,
-      "moneyline_away": 0,
-      "total_over_under": 0
-    }
-  ],
   "Denver Broncos@Kansas City Chiefs": [
     {
-      "timestamp": "2025-12-26T00:57:05.965582",
+      "timestamp": "2025-12-26T02:58:11.776878",
       "week": 17,
-      "spread_home": 13.5,
-      "moneyline_home": 700,
+      "spread_home": 4.5,
+      "moneyline_home": 240,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Houston Texans@Los Angeles Chargers": [
     {
-      "timestamp": "2025-12-26T00:57:05.965747",
+      "timestamp": "2025-12-26T02:58:11.777383",
       "week": 17,
       "spread_home": -1.5,
-      "moneyline_home": -125,
+      "moneyline_home": -130,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Baltimore Ravens@Green Bay Packers": [
     {
-      "timestamp": "2025-12-26T00:57:05.966139",
+      "timestamp": "2025-12-26T02:58:11.777526",
       "week": 17,
       "spread_home": -4.5,
       "moneyline_home": -205,
@@ -41,7 +31,7 @@
   ],
   "Arizona Cardinals@Cincinnati Bengals": [
     {
-      "timestamp": "2025-12-26T00:57:05.966434",
+      "timestamp": "2025-12-26T02:58:11.778032",
       "week": 17,
       "spread_home": -7.5,
       "moneyline_home": -410,
@@ -51,7 +41,7 @@
   ],
   "Seattle Seahawks@Carolina Panthers": [
     {
-      "timestamp": "2025-12-26T00:57:05.966681",
+      "timestamp": "2025-12-26T02:58:11.778330",
       "week": 17,
       "spread_home": 7.0,
       "moneyline_home": 295,
@@ -61,7 +51,7 @@
   ],
   "Pittsburgh Steelers@Cleveland Browns": [
     {
-      "timestamp": "2025-12-26T00:57:05.967000",
+      "timestamp": "2025-12-26T02:58:11.778632",
       "week": 17,
       "spread_home": 3.0,
       "moneyline_home": 150,
@@ -71,7 +61,7 @@
   ],
   "Jacksonville Jaguars@Indianapolis Colts": [
     {
-      "timestamp": "2025-12-26T00:57:05.967419",
+      "timestamp": "2025-12-26T02:58:11.778855",
       "week": 17,
       "spread_home": 6.5,
       "moneyline_home": 225,
@@ -81,7 +71,7 @@
   ],
   "Tampa Bay Buccaneers@Miami Dolphins": [
     {
-      "timestamp": "2025-12-26T00:57:05.967682",
+      "timestamp": "2025-12-26T02:58:11.779162",
       "week": 17,
       "spread_home": 6.0,
       "moneyline_home": 235,
@@ -91,7 +81,7 @@
   ],
   "New England Patriots@New York Jets": [
     {
-      "timestamp": "2025-12-26T00:57:05.968058",
+      "timestamp": "2025-12-26T02:58:11.779407",
       "week": 17,
       "spread_home": 13.5,
       "moneyline_home": 650,
@@ -101,7 +91,7 @@
   ],
   "New Orleans Saints@Tennessee Titans": [
     {
-      "timestamp": "2025-12-26T00:57:05.968361",
+      "timestamp": "2025-12-26T02:58:11.779668",
       "week": 17,
       "spread_home": 2.5,
       "moneyline_home": 120,
@@ -111,7 +101,7 @@
   ],
   "New York Giants@Las Vegas Raiders": [
     {
-      "timestamp": "2025-12-26T00:57:05.968684",
+      "timestamp": "2025-12-26T02:58:11.779908",
       "week": 17,
       "spread_home": 1.5,
       "moneyline_home": -108,
@@ -121,7 +111,7 @@
   ],
   "Philadelphia Eagles@Buffalo Bills": [
     {
-      "timestamp": "2025-12-26T00:57:05.968990",
+      "timestamp": "2025-12-26T02:58:11.780160",
       "week": 17,
       "spread_home": -1.5,
       "moneyline_home": -122,
@@ -131,7 +121,7 @@
   ],
   "Chicago Bears@San Francisco 49ers": [
     {
-      "timestamp": "2025-12-26T00:57:05.969351",
+      "timestamp": "2025-12-26T02:58:11.780405",
       "week": 17,
       "spread_home": -3.0,
       "moneyline_home": -162,
@@ -141,7 +131,7 @@
   ],
   "Los Angeles Rams@Atlanta Falcons": [
     {
-      "timestamp": "2025-12-26T00:57:05.969658",
+      "timestamp": "2025-12-26T02:58:11.780840",
       "week": 17,
       "spread_home": 7.5,
       "moneyline_home": 360,
