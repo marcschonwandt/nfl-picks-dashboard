@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-12-26T09:29:04.090357",
+  "timestamp": "2025-12-26T15:27:32.327912",
   "picks": {
     "New England Patriots @ New York Jets": {
       "pick": "New England Patriots",
-      "confidence": 80.4,
+      "confidence": 79.4,
       "spread": 13.5,
       "rank": 0,
       "points": 100
@@ -64,30 +64,30 @@
       "rank": 0,
       "points": 22
     },
-    "Pittsburgh Steelers @ Cleveland Browns": {
-      "pick": "Pittsburgh Steelers",
-      "confidence": 54.4,
-      "spread": 3.0,
-      "rank": 0,
-      "points": 18
-    },
     "Houston Texans @ Los Angeles Chargers": {
       "pick": "Los Angeles Chargers",
       "confidence": 53.7,
       "spread": -1.5,
       "rank": 0,
-      "points": 14
+      "points": 18
     },
     "New York Giants @ Las Vegas Raiders": {
       "pick": "New York Giants",
       "confidence": 53.7,
       "spread": 1.5,
       "rank": 0,
+      "points": 14
+    },
+    "Pittsburgh Steelers @ Cleveland Browns": {
+      "pick": "Pittsburgh Steelers",
+      "confidence": 52.4,
+      "spread": 3.0,
+      "rank": 0,
       "points": 12
     },
     "Philadelphia Eagles @ Buffalo Bills": {
-      "pick": "Buffalo Bills",
-      "confidence": 53.7,
+      "pick": "Philadelphia Eagles",
+      "confidence": 50.3,
       "spread": -1.5,
       "rank": 0,
       "points": 10
