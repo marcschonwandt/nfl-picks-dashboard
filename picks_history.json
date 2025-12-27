@@ -16,7 +16,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.208357",
+              "timestamp": "2025-12-27T15:19:55.518345",
               "week": 17,
               "spread_home": 13.5,
               "moneyline_home": 675,
@@ -39,7 +39,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.209947",
+              "timestamp": "2025-12-27T15:19:55.519922",
               "week": 17,
               "spread_home": 7.5,
               "moneyline_home": 360,
@@ -51,8 +51,8 @@
         },
         {
           "rank": 2,
-          "game": "Seattle Seahawks @ Carolina Panthers",
-          "pick": "Seattle Seahawks",
+          "game": "Arizona Cardinals @ Cincinnati Bengals",
+          "pick": "Cincinnati Bengals",
           "confidence": 50.0,
           "points": 40,
           "spread": 0.0,
@@ -62,7 +62,30 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.207019",
+              "timestamp": "2025-12-27T15:19:55.516948",
+              "week": 17,
+              "spread_home": -7.0,
+              "moneyline_home": -345,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 3,
+          "game": "Seattle Seahawks @ Carolina Panthers",
+          "pick": "Seattle Seahawks",
+          "confidence": 50.0,
+          "points": 35,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2025-12-27T15:19:55.517257",
               "week": 17,
               "spread_home": 7.0,
               "moneyline_home": 300,
@@ -73,32 +96,9 @@
           "game_time_cph": "N/A"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "game": "Jacksonville Jaguars @ Indianapolis Colts",
           "pick": "Jacksonville Jaguars",
-          "confidence": 50.0,
-          "points": 35,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2025-12-27T09:21:30.207663",
-              "week": 17,
-              "spread_home": 5.5,
-              "moneyline_home": 205,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
-          "rank": 4,
-          "game": "Tampa Bay Buccaneers @ Miami Dolphins",
-          "pick": "Tampa Bay Buccaneers",
           "confidence": 50.0,
           "points": 30,
           "spread": 0.0,
@@ -108,10 +108,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.208025",
+              "timestamp": "2025-12-27T15:19:55.517782",
               "week": 17,
-              "spread_home": 6.0,
-              "moneyline_home": 235,
+              "spread_home": 5.5,
+              "moneyline_home": 210,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -120,8 +120,8 @@
         },
         {
           "rank": 5,
-          "game": "Arizona Cardinals @ Cincinnati Bengals",
-          "pick": "Cincinnati Bengals",
+          "game": "Tampa Bay Buccaneers @ Miami Dolphins",
+          "pick": "Tampa Bay Buccaneers",
           "confidence": 50.0,
           "points": 26,
           "spread": 0.0,
@@ -131,10 +131,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.206583",
+              "timestamp": "2025-12-27T15:19:55.518043",
               "week": 17,
-              "spread_home": -7.0,
-              "moneyline_home": -355,
+              "spread_home": 5.5,
+              "moneyline_home": 235,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -154,10 +154,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.206401",
+              "timestamp": "2025-12-27T15:19:55.516775",
               "week": 17,
               "spread_home": -3.0,
-              "moneyline_home": -175,
+              "moneyline_home": -166,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -177,7 +177,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.209630",
+              "timestamp": "2025-12-27T15:19:55.519601",
               "week": 17,
               "spread_home": -3.0,
               "moneyline_home": -166,
@@ -200,10 +200,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.208677",
+              "timestamp": "2025-12-27T15:19:55.518689",
               "week": 17,
               "spread_home": 2.5,
-              "moneyline_home": 120,
+              "moneyline_home": 114,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -223,10 +223,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.208987",
+              "timestamp": "2025-12-27T15:19:55.518973",
               "week": 17,
               "spread_home": 2.5,
-              "moneyline_home": 120,
+              "moneyline_home": 130,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -246,7 +246,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.207350",
+              "timestamp": "2025-12-27T15:19:55.517527",
               "week": 17,
               "spread_home": 3.0,
               "moneyline_home": 150,
@@ -269,10 +269,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.205892",
+              "timestamp": "2025-12-27T15:19:55.516314",
               "week": 17,
               "spread_home": -1.5,
-              "moneyline_home": -125,
+              "moneyline_home": -122,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -292,10 +292,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-27T09:21:30.209306",
+              "timestamp": "2025-12-27T15:19:55.519261",
               "week": 17,
               "spread_home": -1.5,
-              "moneyline_home": -118,
+              "moneyline_home": -120,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -346,8 +346,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-27T09:21:47.021857",
-      "updated_at": "2025-12-27T09:23:19.090139",
+      "created_at": "2025-12-27T15:20:22.576914",
+      "updated_at": "2025-12-27T15:21:47.145936",
       "accuracy": 0,
       "correct": 0,
       "total": 0,

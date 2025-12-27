@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T09:21:47.023604",
+  "timestamp": "2025-12-27T15:20:22.578751",
   "picks": {
     "New England Patriots @ New York Jets": {
       "pick": "New England Patriots",
@@ -15,31 +15,31 @@
       "rank": 0,
       "points": 75
     },
+    "Arizona Cardinals @ Cincinnati Bengals": {
+      "pick": "Cincinnati Bengals",
+      "confidence": 66.8,
+      "spread": -7.0,
+      "rank": 0,
+      "points": 60
+    },
     "Seattle Seahawks @ Carolina Panthers": {
       "pick": "Seattle Seahawks",
       "confidence": 66.8,
       "spread": 7.0,
       "rank": 0,
-      "points": 60
+      "points": 50
     },
     "Jacksonville Jaguars @ Indianapolis Colts": {
       "pick": "Jacksonville Jaguars",
       "confidence": 66.4,
       "spread": 5.5,
       "rank": 0,
-      "points": 50
+      "points": 40
     },
     "Tampa Bay Buccaneers @ Miami Dolphins": {
       "pick": "Tampa Bay Buccaneers",
-      "confidence": 64.6,
-      "spread": 6.0,
-      "rank": 0,
-      "points": 40
-    },
-    "Arizona Cardinals @ Cincinnati Bengals": {
-      "pick": "Cincinnati Bengals",
-      "confidence": 62.8,
-      "spread": -7.0,
+      "confidence": 63.4,
+      "spread": 5.5,
       "rank": 0,
       "points": 35
     },
@@ -100,7 +100,7 @@
     "Seattle Seahawks@Carolina Panthers": 7.0,
     "Pittsburgh Steelers@Cleveland Browns": 3.0,
     "Jacksonville Jaguars@Indianapolis Colts": 5.5,
-    "Tampa Bay Buccaneers@Miami Dolphins": 6.0,
+    "Tampa Bay Buccaneers@Miami Dolphins": 5.5,
     "New England Patriots@New York Jets": 13.5,
     "New Orleans Saints@Tennessee Titans": 2.5,
     "New York Giants@Las Vegas Raiders": 2.5,
