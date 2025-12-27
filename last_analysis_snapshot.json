@@ -1,80 +1,80 @@
 {
-  "timestamp": "2025-12-27T21:18:36.495378",
+  "timestamp": "2025-12-27T22:32:58.865493",
   "picks": {
+    "Houston Texans @ Los Angeles Chargers": {
+      "pick": "Houston Texans",
+      "confidence": 65.7,
+      "spread": 6.5,
+      "rank": 0,
+      "points": 100
+    },
     "New England Patriots @ New York Jets": {
       "pick": "New England Patriots",
       "confidence": 80.4,
       "spread": 13.5,
       "rank": 0,
-      "points": 100
+      "points": 75
     },
     "Los Angeles Rams @ Atlanta Falcons": {
       "pick": "Los Angeles Rams",
       "confidence": 67.9,
       "spread": 7.5,
       "rank": 0,
-      "points": 75
+      "points": 60
     },
     "Arizona Cardinals @ Cincinnati Bengals": {
       "pick": "Cincinnati Bengals",
       "confidence": 66.8,
       "spread": -7.0,
       "rank": 0,
-      "points": 60
+      "points": 50
     },
     "Seattle Seahawks @ Carolina Panthers": {
       "pick": "Seattle Seahawks",
       "confidence": 66.8,
       "spread": 7.0,
       "rank": 0,
-      "points": 50
+      "points": 40
     },
     "Jacksonville Jaguars @ Indianapolis Colts": {
       "pick": "Jacksonville Jaguars",
       "confidence": 66.4,
       "spread": 5.5,
       "rank": 0,
-      "points": 40
+      "points": 35
     },
     "Tampa Bay Buccaneers @ Miami Dolphins": {
       "pick": "Tampa Bay Buccaneers",
       "confidence": 63.4,
       "spread": 5.5,
       "rank": 0,
-      "points": 35
+      "points": 30
     },
     "Chicago Bears @ San Francisco 49ers": {
       "pick": "San Francisco 49ers",
       "confidence": 57.4,
       "spread": -3.0,
       "rank": 0,
-      "points": 30
+      "points": 26
     },
     "New Orleans Saints @ Tennessee Titans": {
       "pick": "New Orleans Saints",
       "confidence": 56.2,
       "spread": 2.5,
       "rank": 0,
-      "points": 26
+      "points": 22
     },
     "New York Giants @ Las Vegas Raiders": {
       "pick": "New York Giants",
       "confidence": 56.2,
       "spread": 2.5,
       "rank": 0,
-      "points": 22
+      "points": 18
     },
     "Pittsburgh Steelers @ Cleveland Browns": {
       "pick": "Pittsburgh Steelers",
       "confidence": 55.4,
       "spread": 3.0,
-      "rank": 0,
-      "points": 18
-    },
-    "Houston Texans @ Los Angeles Chargers": {
-      "pick": "Los Angeles Chargers",
-      "confidence": 53.7,
-      "spread": -1.5,
       "rank": 0,
       "points": 14
     },
@@ -94,7 +94,7 @@
     }
   },
   "spreads": {
-    "Houston Texans@Los Angeles Chargers": -1.5,
+    "Houston Texans@Los Angeles Chargers": 6.5,
     "Baltimore Ravens@Green Bay Packers": -2.5,
     "Arizona Cardinals@Cincinnati Bengals": -7.0,
     "Seattle Seahawks@Carolina Panthers": 7.0,
