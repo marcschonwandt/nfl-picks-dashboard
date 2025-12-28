@@ -219,8 +219,8 @@
     "rank": 12,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -236,9 +236,10 @@
     "rank": 13,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 17213,
@@ -340,9 +341,10 @@
     "rank": 3,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 29626,
@@ -357,8 +359,8 @@
     "rank": 4,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -718,9 +720,10 @@
     "rank": 9,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 26337,
@@ -735,8 +738,8 @@
     "rank": 10,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -976,8 +979,8 @@
     "rank": 8,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -1095,9 +1098,10 @@
     "rank": 15,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 29597,
@@ -1198,8 +1202,8 @@
     "rank": 5,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -1353,9 +1357,10 @@
     "rank": 14,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 29597,
@@ -1508,9 +1513,10 @@
     "rank": 7,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 18004,
@@ -1559,8 +1565,8 @@
     "rank": 10,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -1783,9 +1789,10 @@
     "rank": 7,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 29606,
@@ -1800,8 +1807,8 @@
     "rank": 8,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -2040,9 +2047,10 @@
     "rank": 6,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 29763,
@@ -2057,8 +2065,8 @@
     "rank": 7,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -2368,8 +2376,8 @@
     "rank": 9,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 0,
-    "away_score": 0,
+    "home_score": 7,
+    "away_score": 14,
     "is_final": false
   },
   {
@@ -2436,9 +2444,10 @@
     "rank": 13,
     "timestamp": 1766871000,
     "game_date": "27/12 22:30",
-    "home_score": 0,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 16,
+    "away_score": 20,
+    "is_final": true,
+    "winner": "HOU"
   },
   {
     "user_id": 36286,
