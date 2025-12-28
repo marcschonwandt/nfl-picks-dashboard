@@ -16,10 +16,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.148708",
+              "timestamp": "2025-12-28T17:16:21.252462",
               "week": 17,
               "spread_home": 13.5,
-              "moneyline_home": 675,
+              "moneyline_home": 650,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -39,10 +39,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.151401",
+              "timestamp": "2025-12-28T17:16:21.253802",
               "week": 17,
               "spread_home": 7.5,
-              "moneyline_home": 340,
+              "moneyline_home": 330,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -62,10 +62,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.146518",
+              "timestamp": "2025-12-28T17:16:21.250972",
               "week": 17,
               "spread_home": -7.0,
-              "moneyline_home": -355,
+              "moneyline_home": -345,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -74,8 +74,8 @@
         },
         {
           "rank": 3,
-          "game": "Seattle Seahawks @ Carolina Panthers",
-          "pick": "Seattle Seahawks",
+          "game": "Jacksonville Jaguars @ Indianapolis Colts",
+          "pick": "Jacksonville Jaguars",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -85,10 +85,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.146959",
+              "timestamp": "2025-12-28T17:16:21.251943",
               "week": 17,
-              "spread_home": 7.0,
-              "moneyline_home": 280,
+              "spread_home": 3.5,
+              "moneyline_home": 185,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -97,8 +97,8 @@
         },
         {
           "rank": 4,
-          "game": "Jacksonville Jaguars @ Indianapolis Colts",
-          "pick": "Jacksonville Jaguars",
+          "game": "Seattle Seahawks @ Carolina Panthers",
+          "pick": "Seattle Seahawks",
           "confidence": 50.0,
           "points": 30,
           "spread": 0.0,
@@ -108,10 +108,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.147722",
+              "timestamp": "2025-12-28T17:16:21.251475",
               "week": 17,
-              "spread_home": 5.5,
-              "moneyline_home": 210,
+              "spread_home": 6.5,
+              "moneyline_home": 245,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -131,10 +131,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.148215",
+              "timestamp": "2025-12-28T17:16:21.252219",
               "week": 17,
               "spread_home": 5.5,
-              "moneyline_home": 215,
+              "moneyline_home": 205,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -154,7 +154,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.147149",
+              "timestamp": "2025-12-28T17:16:21.251647",
               "week": 17,
               "spread_home": 4.5,
               "moneyline_home": 180,
@@ -177,7 +177,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.150878",
+              "timestamp": "2025-12-28T17:16:21.253536",
               "week": 17,
               "spread_home": -3.5,
               "moneyline_home": -192,
@@ -200,10 +200,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.149945",
+              "timestamp": "2025-12-28T17:16:21.252974",
               "week": 17,
-              "spread_home": 2.5,
-              "moneyline_home": 136,
+              "spread_home": 3.0,
+              "moneyline_home": 140,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -212,8 +212,8 @@
         },
         {
           "rank": 9,
-          "game": "New Orleans Saints @ Tennessee Titans",
-          "pick": "New Orleans Saints",
+          "game": "Philadelphia Eagles @ Buffalo Bills",
+          "pick": "Buffalo Bills",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -223,10 +223,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.149382",
+              "timestamp": "2025-12-28T17:16:21.253264",
               "week": 17,
-              "spread_home": 1.5,
-              "moneyline_home": 100,
+              "spread_home": -3.0,
+              "moneyline_home": -162,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -235,8 +235,8 @@
         },
         {
           "rank": 10,
-          "game": "Philadelphia Eagles @ Buffalo Bills",
-          "pick": "Philadelphia Eagles",
+          "game": "New Orleans Saints @ Tennessee Titans",
+          "pick": "New Orleans Saints",
           "confidence": 50.0,
           "points": 6,
           "spread": 0.0,
@@ -246,10 +246,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2025-12-28T15:17:43.150487",
+              "timestamp": "2025-12-28T17:16:21.252715",
               "week": 17,
-              "spread_home": -2.5,
-              "moneyline_home": -142,
+              "spread_home": 1.5,
+              "moneyline_home": 102,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -328,8 +328,8 @@
         }
       ],
       "results": [],
-      "created_at": "2025-12-28T15:17:49.510513",
-      "updated_at": "2025-12-28T15:19:18.054008",
+      "created_at": "2025-12-28T17:16:25.627048",
+      "updated_at": "2025-12-28T17:17:51.547556",
       "accuracy": 0,
       "correct": 0,
       "total": 0,
