@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T11:15:44.452123",
+  "timestamp": "2025-12-28T13:28:32.860586",
   "picks": {
     "New England Patriots @ New York Jets": {
       "pick": "New England Patriots",
@@ -8,17 +8,17 @@
       "rank": 0,
       "points": 100
     },
-    "Jacksonville Jaguars @ Indianapolis Colts": {
-      "pick": "Jacksonville Jaguars",
-      "confidence": 70.4,
-      "spread": 5.5,
-      "rank": 0,
-      "points": 75
-    },
     "Los Angeles Rams @ Atlanta Falcons": {
       "pick": "Los Angeles Rams",
       "confidence": 68.9,
       "spread": 7.5,
+      "rank": 0,
+      "points": 75
+    },
+    "Arizona Cardinals @ Cincinnati Bengals": {
+      "pick": "Cincinnati Bengals",
+      "confidence": 66.8,
+      "spread": -7.0,
       "rank": 0,
       "points": 60
     },
@@ -29,17 +29,17 @@
       "rank": 0,
       "points": 50
     },
+    "Jacksonville Jaguars @ Indianapolis Colts": {
+      "pick": "Jacksonville Jaguars",
+      "confidence": 66.4,
+      "spread": 5.5,
+      "rank": 0,
+      "points": 40
+    },
     "Tampa Bay Buccaneers @ Miami Dolphins": {
       "pick": "Tampa Bay Buccaneers",
       "confidence": 64.6,
       "spread": 6.0,
-      "rank": 0,
-      "points": 40
-    },
-    "Arizona Cardinals @ Cincinnati Bengals": {
-      "pick": "Cincinnati Bengals",
-      "confidence": 63.8,
-      "spread": -7.0,
       "rank": 0,
       "points": 35
     },
@@ -73,7 +73,7 @@
     },
     "Philadelphia Eagles @ Buffalo Bills": {
       "pick": "Philadelphia Eagles",
-      "confidence": 50.3,
+      "confidence": 53.3,
       "spread": -1.5,
       "rank": 0,
       "points": 14
