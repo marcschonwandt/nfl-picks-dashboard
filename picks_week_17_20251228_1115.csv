@@ -1,0 +1,68 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points
+1,New England Patriots @ New York Jets,New England Patriots,80.4,13.5,20.6%,19.6%,"-0.9°C, 3.5mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread +13.5 → 21% win probability for New York Jets
+
+🌤️ Weather adjustments:
+   • Kulde (-1°C) påvirker boldhåndtering
+
+✅ FINAL: 80% confidence → Pick New England Patriots",False,100
+2,Jacksonville Jaguars @ Indianapolis Colts,Jacksonville Jaguars,70.4,5.5,36.6%,29.6%,"17.5°C, 17.3mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread +5.5 → 37% win probability for Indianapolis Colts
+
+🌤️ Weather adjustments:
+   • Høj vind (17 mph) påvirker passing game negativt (-3%)
+   • Nedbør (0.4 inch) påvirker passing negativt (-4%)
+
+✅ FINAL: 70% confidence → Pick Jacksonville Jaguars",False,75
+3,Los Angeles Rams @ Atlanta Falcons,Los Angeles Rams,68.9,7.5,32.1%,31.1%,"-0.3°C, 14.8mph",Tuesday 30/12 02:15,30/12 02:15,"Tuesday, December 30 at 02:15",1767057300.0,"📊 Odds baseline: Spread +7.5 → 32% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Kulde (-0°C) påvirker boldhåndtering
+
+✅ FINAL: 69% confidence → Pick Los Angeles Rams",False,60
+4,Seattle Seahawks @ Carolina Panthers,Seattle Seahawks,66.8,7.0,33.2%,33.2%,"10.6°C, 3.9mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread +7.0 → 33% win probability for Carolina Panthers
+
+🌤️ Weather adjustments:
+   • Gode forhold (11°C, 4 mph vind)
+
+✅ FINAL: 67% confidence → Pick Seattle Seahawks",False,50
+5,Tampa Bay Buccaneers @ Miami Dolphins,Tampa Bay Buccaneers,64.6,6.0,35.4%,35.4%,"22.8°C, 5.0mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread +6.0 → 35% win probability for Miami Dolphins
+
+🌤️ Weather adjustments:
+   • Gode forhold (23°C, 5 mph vind)
+
+✅ FINAL: 65% confidence → Pick Tampa Bay Buccaneers",False,40
+6,Arizona Cardinals @ Cincinnati Bengals,Cincinnati Bengals,63.8,-7.0,66.8%,63.8%,"17.7°C, 15.5mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread -7.0 → 67% win probability for Cincinnati Bengals
+
+🌤️ Weather adjustments:
+   • Høj vind (16 mph) påvirker passing game negativt (-3%)
+
+✅ FINAL: 64% confidence → Pick Cincinnati Bengals",False,35
+7,Chicago Bears @ San Francisco 49ers,San Francisco 49ers,58.7,-3.5,58.7%,58.7%,"7.0°C, 1.8mph",Monday 29/12 02:20,29/12 02:20,"Monday, December 29 at 02:20",1766971200.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for San Francisco 49ers
+
+🌤️ Weather adjustments:
+   • Gode forhold (7°C, 2 mph vind)
+
+✅ FINAL: 59% confidence → Pick San Francisco 49ers",False,30
+8,Pittsburgh Steelers @ Cleveland Browns,Pittsburgh Steelers,56.7,3.5,41.3%,43.3%,"15.9°C, 19.3mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Cleveland Browns
+
+🌤️ Weather adjustments:
+   • Høj vind (19 mph) favoriserer rushing game (+2%)
+
+✅ FINAL: 57% confidence → Pick Pittsburgh Steelers",False,26
+9,New York Giants @ Las Vegas Raiders,New York Giants,56.2,2.5,43.8%,43.8%,"10.3°C, 9.1mph",Sunday 28/12 22:05,28/12 22:05,"Sunday, December 28 at 22:05",1766955900.0,"📊 Odds baseline: Spread +2.5 → 44% win probability for Las Vegas Raiders
+
+🌤️ Weather adjustments:
+   • Gode forhold (10°C, 9 mph vind)
+
+✅ FINAL: 56% confidence → Pick New York Giants",False,22
+10,New Orleans Saints @ Tennessee Titans,New Orleans Saints,53.7,1.5,46.3%,46.3%,"20.7°C, 14.3mph",Sunday 28/12 19:00,28/12 19:00,"Sunday, December 28 at 19:00",1766944800.0,"📊 Odds baseline: Spread +1.5 → 46% win probability for Tennessee Titans
+
+🌤️ Weather adjustments:
+   • Gode forhold (21°C, 14 mph vind)
+
+✅ FINAL: 54% confidence → Pick New Orleans Saints",False,18
+11,Philadelphia Eagles @ Buffalo Bills,Philadelphia Eagles,50.3,-1.5,53.7%,49.7%,"10.6°C, 15.0mph",Sunday 28/12 22:25,28/12 22:25,"Sunday, December 28 at 22:25",1766957100.0,"📊 Odds baseline: Spread -1.5 → 54% win probability for Buffalo Bills
+
+🌤️ Weather adjustments:
+   • Nedbør (3.2 inch) påvirker passing negativt (-4%)
+
+✅ FINAL: 50% confidence → Pick Philadelphia Eagles",False,14

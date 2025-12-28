@@ -219,9 +219,10 @@
     "rank": 12,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 17213,
@@ -359,9 +360,10 @@
     "rank": 4,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 29626,
@@ -738,9 +740,10 @@
     "rank": 10,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 26337,
@@ -979,9 +982,10 @@
     "rank": 8,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 34641,
@@ -1202,9 +1206,10 @@
     "rank": 5,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 29597,
@@ -1565,9 +1570,10 @@
     "rank": 10,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 18004,
@@ -1807,9 +1813,10 @@
     "rank": 8,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 29606,
@@ -2065,9 +2072,10 @@
     "rank": 7,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 29763,
@@ -2376,9 +2384,10 @@
     "rank": 9,
     "timestamp": 1766883600,
     "game_date": "28/12 02:00",
-    "home_score": 7,
-    "away_score": 14,
-    "is_final": false
+    "home_score": 24,
+    "away_score": 41,
+    "is_final": true,
+    "winner": "BAL"
   },
   {
     "user_id": 36286,
