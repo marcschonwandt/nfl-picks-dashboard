@@ -1,107 +1,107 @@
 {
   "Arizona Cardinals@Cincinnati Bengals": [
     {
-      "timestamp": "2025-12-28T17:16:21.250972",
+      "timestamp": "2025-12-28T19:14:31.046170",
       "week": 17,
-      "spread_home": -7.0,
-      "moneyline_home": -345,
+      "spread_home": -15.5,
+      "moneyline_home": -2800,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Seattle Seahawks@Carolina Panthers": [
     {
-      "timestamp": "2025-12-28T17:16:21.251475",
-      "week": 17,
-      "spread_home": 6.5,
-      "moneyline_home": 245,
-      "moneyline_away": 0,
-      "total_over_under": 0
-    }
-  ],
-  "Pittsburgh Steelers@Cleveland Browns": [
-    {
-      "timestamp": "2025-12-28T17:16:21.251647",
-      "week": 17,
-      "spread_home": 4.5,
-      "moneyline_home": 180,
-      "moneyline_away": 0,
-      "total_over_under": 0
-    }
-  ],
-  "Jacksonville Jaguars@Indianapolis Colts": [
-    {
-      "timestamp": "2025-12-28T17:16:21.251943",
-      "week": 17,
-      "spread_home": 3.5,
-      "moneyline_home": 185,
-      "moneyline_away": 0,
-      "total_over_under": 0
-    }
-  ],
-  "Tampa Bay Buccaneers@Miami Dolphins": [
-    {
-      "timestamp": "2025-12-28T17:16:21.252219",
+      "timestamp": "2025-12-28T19:14:31.046582",
       "week": 17,
       "spread_home": 5.5,
-      "moneyline_home": 205,
+      "moneyline_home": 270,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "New England Patriots@New York Jets": [
     {
-      "timestamp": "2025-12-28T17:16:21.252462",
+      "timestamp": "2025-12-28T19:14:31.046754",
       "week": 17,
-      "spread_home": 13.5,
-      "moneyline_home": 650,
+      "spread_home": 30.5,
+      "moneyline_home": -110,
+      "moneyline_away": 0,
+      "total_over_under": 0
+    }
+  ],
+  "Tampa Bay Buccaneers@Miami Dolphins": [
+    {
+      "timestamp": "2025-12-28T19:14:31.047616",
+      "week": 17,
+      "spread_home": -2.5,
+      "moneyline_home": -180,
+      "moneyline_away": 0,
+      "total_over_under": 0
+    }
+  ],
+  "Jacksonville Jaguars@Indianapolis Colts": [
+    {
+      "timestamp": "2025-12-28T19:14:31.047982",
+      "week": 17,
+      "spread_home": 3.5,
+      "moneyline_home": 165,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "New Orleans Saints@Tennessee Titans": [
     {
-      "timestamp": "2025-12-28T17:16:21.252715",
+      "timestamp": "2025-12-28T19:14:31.048246",
       "week": 17,
-      "spread_home": 1.5,
-      "moneyline_home": 102,
+      "spread_home": -2.5,
+      "moneyline_home": -154,
+      "moneyline_away": 0,
+      "total_over_under": 0
+    }
+  ],
+  "Pittsburgh Steelers@Cleveland Browns": [
+    {
+      "timestamp": "2025-12-28T19:14:31.048510",
+      "week": 17,
+      "spread_home": -3.5,
+      "moneyline_home": -188,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "New York Giants@Las Vegas Raiders": [
     {
-      "timestamp": "2025-12-28T17:16:21.252974",
+      "timestamp": "2025-12-28T19:14:31.048777",
       "week": 17,
       "spread_home": 3.0,
-      "moneyline_home": 140,
+      "moneyline_home": 145,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Philadelphia Eagles@Buffalo Bills": [
     {
-      "timestamp": "2025-12-28T17:16:21.253264",
+      "timestamp": "2025-12-28T19:14:31.049054",
       "week": 17,
       "spread_home": -3.0,
-      "moneyline_home": -162,
+      "moneyline_home": -170,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Chicago Bears@San Francisco 49ers": [
     {
-      "timestamp": "2025-12-28T17:16:21.253536",
+      "timestamp": "2025-12-28T19:14:31.049327",
       "week": 17,
       "spread_home": -3.5,
-      "moneyline_home": -192,
+      "moneyline_home": -185,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Los Angeles Rams@Atlanta Falcons": [
     {
-      "timestamp": "2025-12-28T17:16:21.253802",
+      "timestamp": "2025-12-28T19:14:31.049603",
       "week": 17,
       "spread_home": 7.5,
       "moneyline_home": 330,
