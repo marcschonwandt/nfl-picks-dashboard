@@ -1,0 +1,31 @@
+{
+  "week": 17,
+  "generated_at": "2025-12-29T17:08:26.592473",
+  "games_analyzed": 1,
+  "official_games": 16,
+  "picks": [
+    {
+      "home_team": "Atlanta Falcons",
+      "away_team": "Los Angeles Rams",
+      "spread": 7.0,
+      "base_prob": 0.3318,
+      "commence_time": "2025-12-30T01:15Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": -2.0,
+        "wind_speed": 15.8,
+        "precipitation": 0.0,
+        "conditions": "breezy"
+      },
+      "weather_adjustments": [
+        "   • Høj vind (16 mph) påvirker passing game negativt (-3%)",
+        "   • Kulde (-2°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.2918,
+      "pick": "Los Angeles Rams",
+      "confidence": 70.8,
+      "reasoning": "📊 Odds baseline: Spread +7.0 → 33% win probability for Atlanta Falcons\n\n🌤️ Weather adjustments:\n   • Høj vind (16 mph) påvirker passing game negativt (-3%)\n   • Kulde (-2°C) påvirker boldhåndtering\n\n✅ FINAL: 71% confidence → Pick Los Angeles Rams"
+    }
+  ]
+}

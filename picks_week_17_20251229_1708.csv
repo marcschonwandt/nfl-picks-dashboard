@@ -1,0 +1,8 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points
+1,Los Angeles Rams @ Atlanta Falcons,Los Angeles Rams,70.8,7.0,33.2%,29.2%,"-2.0°C, 15.8mph",Tuesday 30/12 02:15,30/12 02:15,"Tuesday, December 30 at 02:15",1767057300.0,"📊 Odds baseline: Spread +7.0 → 33% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Høj vind (16 mph) påvirker passing game negativt (-3%)
+   • Kulde (-2°C) påvirker boldhåndtering
+
+✅ FINAL: 71% confidence → Pick Los Angeles Rams",False,100
