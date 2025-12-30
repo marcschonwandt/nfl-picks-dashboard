@@ -210,9 +210,10 @@
     "rank": 11,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 17213,
@@ -569,9 +570,10 @@
     "rank": 15,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 26337,
@@ -658,9 +660,10 @@
     "rank": 4,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 26337,
@@ -891,9 +894,10 @@
     "rank": 1,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 34641,
@@ -1340,9 +1344,10 @@
     "rank": 10,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 29597,
@@ -1465,9 +1470,10 @@
     "rank": 1,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 18004,
@@ -1824,9 +1830,10 @@
     "rank": 5,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 29606,
@@ -2111,9 +2118,10 @@
     "rank": 5,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 29763,
@@ -2380,9 +2388,10 @@
     "rank": 4,
     "timestamp": 1767057300,
     "game_date": "30/12 02:15",
-    "home_score": 0,
-    "away_score": 0,
-    "is_final": false
+    "home_score": 27,
+    "away_score": 24,
+    "is_final": true,
+    "winner": "ATL"
   },
   {
     "user_id": 36286,
