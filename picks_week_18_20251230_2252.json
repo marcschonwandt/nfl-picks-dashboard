@@ -1,0 +1,367 @@
+{
+  "week": 18,
+  "generated_at": "2025-12-30T22:52:34.747640",
+  "games_analyzed": 16,
+  "official_games": 16,
+  "picks": [
+    {
+      "home_team": "Tampa Bay Buccaneers",
+      "away_team": "Carolina Panthers",
+      "spread": -2.5,
+      "base_prob": 0.5622,
+      "commence_time": "2026-01-03T21:30Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 20.6,
+        "wind_speed": 10.6,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (21°C, 11 mph vind)"
+      ],
+      "final_prob": 0.5622,
+      "pick": "Tampa Bay Buccaneers",
+      "confidence": 56.2,
+      "reasoning": "📊 Odds baseline: Spread -2.5 → 56% win probability for Tampa Bay Buccaneers\n\n🌤️ Weather adjustments:\n   • Gode forhold (21°C, 11 mph vind)\n\n✅ FINAL: 56% confidence → Pick Tampa Bay Buccaneers"
+    },
+    {
+      "home_team": "San Francisco 49ers",
+      "away_team": "Seattle Seahawks",
+      "spread": 1.5,
+      "base_prob": 0.4626,
+      "commence_time": "2026-01-04T01:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 13.0,
+        "wind_speed": 5.2,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (13°C, 5 mph vind)"
+      ],
+      "final_prob": 0.4626,
+      "pick": "Seattle Seahawks",
+      "confidence": 53.7,
+      "reasoning": "📊 Odds baseline: Spread +1.5 → 46% win probability for San Francisco 49ers\n\n🌤️ Weather adjustments:\n   • Gode forhold (13°C, 5 mph vind)\n\n✅ FINAL: 54% confidence → Pick Seattle Seahawks"
+    },
+    {
+      "home_team": "Atlanta Falcons",
+      "away_team": "New Orleans Saints",
+      "spread": -3.5,
+      "base_prob": 0.5866,
+      "commence_time": "2026-01-04T18:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 12.8,
+        "wind_speed": 5.3,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (13°C, 5 mph vind)"
+      ],
+      "final_prob": 0.5866,
+      "pick": "Atlanta Falcons",
+      "confidence": 58.7,
+      "reasoning": "📊 Odds baseline: Spread -3.5 → 59% win probability for Atlanta Falcons\n\n🌤️ Weather adjustments:\n   • Gode forhold (13°C, 5 mph vind)\n\n✅ FINAL: 59% confidence → Pick Atlanta Falcons"
+    },
+    {
+      "home_team": "Cincinnati Bengals",
+      "away_team": "Cleveland Browns",
+      "spread": -7.5,
+      "base_prob": 0.6792,
+      "commence_time": "2026-01-04T18:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 0.0,
+        "wind_speed": 0.6,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (0°C, 1 mph vind)"
+      ],
+      "final_prob": 0.6792,
+      "pick": "Cincinnati Bengals",
+      "confidence": 67.9,
+      "reasoning": "📊 Odds baseline: Spread -7.5 → 68% win probability for Cincinnati Bengals\n\n🌤️ Weather adjustments:\n   • Gode forhold (0°C, 1 mph vind)\n\n✅ FINAL: 68% confidence → Pick Cincinnati Bengals"
+    },
+    {
+      "home_team": "Minnesota Vikings",
+      "away_team": "Green Bay Packers",
+      "spread": -6.5,
+      "base_prob": 0.657,
+      "commence_time": "2026-01-04T18:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": -6.0,
+        "wind_speed": 4.9,
+        "precipitation": 0.3,
+        "conditions": "rain"
+      },
+      "weather_adjustments": [
+        "   • Nedbør (0.3 inch) påvirker passing negativt (-4%)",
+        "   • Kulde (-6°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.607,
+      "pick": "Minnesota Vikings",
+      "confidence": 60.7,
+      "reasoning": "📊 Odds baseline: Spread -6.5 → 66% win probability for Minnesota Vikings\n\n🌤️ Weather adjustments:\n   • Nedbør (0.3 inch) påvirker passing negativt (-4%)\n   • Kulde (-6°C) påvirker boldhåndtering\n\n✅ FINAL: 61% confidence → Pick Minnesota Vikings"
+    },
+    {
+      "home_team": "New York Giants",
+      "away_team": "Dallas Cowboys",
+      "spread": 3.5,
+      "base_prob": 0.4134,
+      "commence_time": "2026-01-04T18:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": -0.2,
+        "wind_speed": 2.1,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Kulde (-0°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.4034,
+      "pick": "Dallas Cowboys",
+      "confidence": 59.7,
+      "reasoning": "📊 Odds baseline: Spread +3.5 → 41% win probability for New York Giants\n\n🌤️ Weather adjustments:\n   • Kulde (-0°C) påvirker boldhåndtering\n\n✅ FINAL: 60% confidence → Pick Dallas Cowboys"
+    },
+    {
+      "home_team": "Jacksonville Jaguars",
+      "away_team": "Tennessee Titans",
+      "spread": -12.5,
+      "base_prob": 0.7773,
+      "commence_time": "2026-01-04T18:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 15.5,
+        "wind_speed": 6.3,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (16°C, 6 mph vind)"
+      ],
+      "final_prob": 0.7773,
+      "pick": "Jacksonville Jaguars",
+      "confidence": 77.7,
+      "reasoning": "📊 Odds baseline: Spread -12.5 → 78% win probability for Jacksonville Jaguars\n\n🌤️ Weather adjustments:\n   • Gode forhold (16°C, 6 mph vind)\n\n✅ FINAL: 78% confidence → Pick Jacksonville Jaguars"
+    },
+    {
+      "home_team": "Houston Texans",
+      "away_team": "Indianapolis Colts",
+      "spread": -10.5,
+      "base_prob": 0.7408,
+      "commence_time": "2026-01-04T18:00Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 20.0,
+        "wind_speed": 8.9,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (20°C, 9 mph vind)"
+      ],
+      "final_prob": 0.7408,
+      "pick": "Houston Texans",
+      "confidence": 74.1,
+      "reasoning": "📊 Odds baseline: Spread -10.5 → 74% win probability for Houston Texans\n\n🌤️ Weather adjustments:\n   • Gode forhold (20°C, 9 mph vind)\n\n✅ FINAL: 74% confidence → Pick Houston Texans"
+    },
+    {
+      "home_team": "Buffalo Bills",
+      "away_team": "New York Jets",
+      "spread": -7.0,
+      "base_prob": 0.6682,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": -5.7,
+        "wind_speed": 11.0,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Kulde (-6°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.6582,
+      "pick": "Buffalo Bills",
+      "confidence": 65.8,
+      "reasoning": "📊 Odds baseline: Spread -7.0 → 67% win probability for Buffalo Bills\n\n🌤️ Weather adjustments:\n   • Kulde (-6°C) påvirker boldhåndtering\n\n✅ FINAL: 66% confidence → Pick Buffalo Bills"
+    },
+    {
+      "home_team": "Chicago Bears",
+      "away_team": "Detroit Lions",
+      "spread": -3.0,
+      "base_prob": 0.5744,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [
+        "   • Detroit Lions injuries help Chicago Bears",
+        "   • Example DE (DE) - Out: stor impact (-5.0%)"
+      ],
+      "weather": {
+        "temp": -1.5,
+        "wind_speed": 1.0,
+        "precipitation": 0.0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Kulde (-2°C) påvirker boldhåndtering"
+      ],
+      "final_prob": 0.6144000000000001,
+      "pick": "Chicago Bears",
+      "confidence": 61.4,
+      "reasoning": "📊 Odds baseline: Spread -3.0 → 57% win probability for Chicago Bears\n\n⚕️ Injury adjustments:\n   • Detroit Lions injuries help Chicago Bears\n   • Example DE (DE) - Out: stor impact (-5.0%)\n\n🌤️ Weather adjustments:\n   • Kulde (-2°C) påvirker boldhåndtering\n\n✅ FINAL: 61% confidence → Pick Chicago Bears"
+    },
+    {
+      "home_team": "Denver Broncos",
+      "away_team": "Los Angeles Chargers",
+      "spread": -12.5,
+      "base_prob": 0.7773,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°C, 10 mph vind)"
+      ],
+      "final_prob": 0.7773,
+      "pick": "Denver Broncos",
+      "confidence": 77.7,
+      "reasoning": "📊 Odds baseline: Spread -12.5 → 78% win probability for Denver Broncos\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 78% confidence → Pick Denver Broncos"
+    },
+    {
+      "home_team": "Las Vegas Raiders",
+      "away_team": "Kansas City Chiefs",
+      "spread": 5.5,
+      "base_prob": 0.3659,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [
+        "   • Kansas City Chiefs injuries help Las Vegas Raiders",
+        "   • Example Player (DT) - Questionable: lille impact (-1.0%)"
+      ],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°C, 10 mph vind)"
+      ],
+      "final_prob": 0.3759,
+      "pick": "Kansas City Chiefs",
+      "confidence": 62.4,
+      "reasoning": "📊 Odds baseline: Spread +5.5 → 37% win probability for Las Vegas Raiders\n\n⚕️ Injury adjustments:\n   • Kansas City Chiefs injuries help Las Vegas Raiders\n   • Example Player (DT) - Questionable: lille impact (-1.0%)\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 62% confidence → Pick Kansas City Chiefs"
+    },
+    {
+      "home_team": "Los Angeles Rams",
+      "away_team": "Arizona Cardinals",
+      "spread": -7.5,
+      "base_prob": 0.6792,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°C, 10 mph vind)"
+      ],
+      "final_prob": 0.6792,
+      "pick": "Los Angeles Rams",
+      "confidence": 67.9,
+      "reasoning": "📊 Odds baseline: Spread -7.5 → 68% win probability for Los Angeles Rams\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 68% confidence → Pick Los Angeles Rams"
+    },
+    {
+      "home_team": "New England Patriots",
+      "away_team": "Miami Dolphins",
+      "spread": -10.5,
+      "base_prob": 0.7408,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°C, 10 mph vind)"
+      ],
+      "final_prob": 0.7408,
+      "pick": "New England Patriots",
+      "confidence": 74.1,
+      "reasoning": "📊 Odds baseline: Spread -10.5 → 74% win probability for New England Patriots\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 74% confidence → Pick New England Patriots"
+    },
+    {
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Washington Commanders",
+      "spread": -7.0,
+      "base_prob": 0.6682,
+      "commence_time": "2026-01-04T21:25Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°C, 10 mph vind)"
+      ],
+      "final_prob": 0.6682,
+      "pick": "Philadelphia Eagles",
+      "confidence": 66.8,
+      "reasoning": "📊 Odds baseline: Spread -7.0 → 67% win probability for Philadelphia Eagles\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 67% confidence → Pick Philadelphia Eagles"
+    },
+    {
+      "home_team": "Pittsburgh Steelers",
+      "away_team": "Baltimore Ravens",
+      "spread": 3.5,
+      "base_prob": 0.4134,
+      "commence_time": "2026-01-05T01:20Z",
+      "adjustments": [],
+      "injury_adjustments": [],
+      "weather": {
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
+        "conditions": "clear"
+      },
+      "weather_adjustments": [
+        "   • Gode forhold (65°C, 10 mph vind)"
+      ],
+      "final_prob": 0.4134,
+      "pick": "Baltimore Ravens",
+      "confidence": 58.7,
+      "reasoning": "📊 Odds baseline: Spread +3.5 → 41% win probability for Pittsburgh Steelers\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 59% confidence → Pick Baltimore Ravens"
+    }
+  ]
+}
