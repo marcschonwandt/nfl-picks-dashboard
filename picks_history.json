@@ -16,10 +16,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.329903",
+              "timestamp": "2026-01-01T19:18:15.420216",
               "week": 18,
-              "spread_home": -12.5,
-              "moneyline_home": -850,
+              "spread_home": -13.5,
+              "moneyline_home": -900,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -39,10 +39,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.331187",
+              "timestamp": "2026-01-01T19:18:15.421714",
               "week": 18,
               "spread_home": -12.5,
-              "moneyline_home": -850,
+              "moneyline_home": -900,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -62,7 +62,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.329602",
+              "timestamp": "2026-01-01T19:18:15.419690",
               "week": 18,
               "spread_home": -10.5,
               "moneyline_home": -625,
@@ -85,7 +85,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.331918",
+              "timestamp": "2026-01-01T19:18:15.422450",
               "week": 18,
               "spread_home": -10.5,
               "moneyline_home": -625,
@@ -108,7 +108,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.328611",
+              "timestamp": "2026-01-01T19:18:15.418667",
               "week": 18,
               "spread_home": -7.5,
               "moneyline_home": -375,
@@ -120,8 +120,8 @@
         },
         {
           "rank": 5,
-          "game": "New York Jets @ Buffalo Bills",
-          "pick": "Buffalo Bills",
+          "game": "Arizona Cardinals @ Los Angeles Rams",
+          "pick": "Los Angeles Rams",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -131,53 +131,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.330498",
-              "week": 18,
-              "spread_home": -7.0,
-              "moneyline_home": -325,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
-          "rank": 6,
-          "game": "Kansas City Chiefs @ Las Vegas Raiders",
-          "pick": "Kansas City Chiefs",
-          "confidence": 50.0,
-          "points": 30,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-01T16:42:31.331577",
-              "week": 18,
-              "spread_home": 5.5,
-              "moneyline_home": 225,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
-          "game_time_cph": "N/A"
-        },
-        {
-          "rank": 7,
-          "game": "Arizona Cardinals @ Los Angeles Rams",
-          "pick": "Los Angeles Rams",
-          "confidence": 50.0,
-          "points": 26,
-          "spread": 0.0,
-          "weather": "N/A",
-          "reasoning": "Fetched from Picks.dk",
-          "base_prob": "N/A",
-          "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-01T16:42:31.330180",
+              "timestamp": "2026-01-01T19:18:15.420501",
               "week": 18,
               "spread_home": -7.5,
               "moneyline_home": -345,
@@ -188,9 +142,55 @@
           "game_time_cph": "N/A"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "game": "Green Bay Packers @ Minnesota Vikings",
           "pick": "Minnesota Vikings",
+          "confidence": 50.0,
+          "points": 30,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2026-01-01T19:18:15.419388",
+              "week": 18,
+              "spread_home": -7.5,
+              "moneyline_home": -395,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 7,
+          "game": "New York Jets @ Buffalo Bills",
+          "pick": "Buffalo Bills",
+          "confidence": 50.0,
+          "points": 26,
+          "spread": 0.0,
+          "weather": "N/A",
+          "reasoning": "Fetched from Picks.dk",
+          "base_prob": "N/A",
+          "final_prob": "N/A",
+          "odds_history": [
+            {
+              "timestamp": "2026-01-01T19:18:15.420894",
+              "week": 18,
+              "spread_home": -7.0,
+              "moneyline_home": -325,
+              "moneyline_away": 0,
+              "total_over_under": 0
+            }
+          ],
+          "game_time_cph": "N/A"
+        },
+        {
+          "rank": 8,
+          "game": "Kansas City Chiefs @ Las Vegas Raiders",
+          "pick": "Kansas City Chiefs",
           "confidence": 50.0,
           "points": 22,
           "spread": 0.0,
@@ -200,10 +200,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.329219",
+              "timestamp": "2026-01-01T19:18:15.422125",
               "week": 18,
-              "spread_home": -7.0,
-              "moneyline_home": -340,
+              "spread_home": 5.5,
+              "moneyline_home": 230,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -223,7 +223,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.330791",
+              "timestamp": "2026-01-01T19:18:15.421224",
               "week": 18,
               "spread_home": -3.0,
               "moneyline_home": -148,
@@ -246,7 +246,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.332267",
+              "timestamp": "2026-01-01T19:18:15.422918",
               "week": 18,
               "spread_home": -4.5,
               "moneyline_home": -198,
@@ -269,7 +269,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.328915",
+              "timestamp": "2026-01-01T19:18:15.419123",
               "week": 18,
               "spread_home": 3.5,
               "moneyline_home": 164,
@@ -281,8 +281,8 @@
         },
         {
           "rank": 12,
-          "game": "New Orleans Saints @ Atlanta Falcons",
-          "pick": "Atlanta Falcons",
+          "game": "Baltimore Ravens @ Pittsburgh Steelers",
+          "pick": "Baltimore Ravens",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -292,10 +292,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.328270",
+              "timestamp": "2026-01-01T19:18:15.423297",
               "week": 18,
-              "spread_home": -3.5,
-              "moneyline_home": -185,
+              "spread_home": 3.5,
+              "moneyline_home": 154,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -304,8 +304,8 @@
         },
         {
           "rank": 13,
-          "game": "Baltimore Ravens @ Pittsburgh Steelers",
-          "pick": "Baltimore Ravens",
+          "game": "New Orleans Saints @ Atlanta Falcons",
+          "pick": "Atlanta Falcons",
           "confidence": 50.0,
           "points": 8,
           "spread": 0.0,
@@ -315,10 +315,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.332627",
+              "timestamp": "2026-01-01T19:18:15.418199",
               "week": 18,
-              "spread_home": 3.5,
-              "moneyline_home": 154,
+              "spread_home": -3.5,
+              "moneyline_home": -185,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -338,10 +338,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.327666",
+              "timestamp": "2026-01-01T19:18:15.417679",
               "week": 18,
               "spread_home": -3.0,
-              "moneyline_home": -148,
+              "moneyline_home": -155,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -361,7 +361,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-01T16:42:31.328099",
+              "timestamp": "2026-01-01T19:18:15.418045",
               "week": 18,
               "spread_home": 1.5,
               "moneyline_home": 100,
@@ -373,8 +373,8 @@
         }
       ],
       "results": [],
-      "created_at": "2026-01-01T16:42:57.880930",
-      "updated_at": "2026-01-01T16:44:27.835808",
+      "created_at": "2026-01-01T19:18:21.608809",
+      "updated_at": "2026-01-01T19:19:51.244572",
       "accuracy": 0,
       "correct": 0,
       "total": 0,

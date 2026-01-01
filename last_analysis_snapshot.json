@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-01-01T16:42:57.886584",
+  "timestamp": "2026-01-01T19:18:21.611503",
   "picks": {
     "Tennessee Titans @ Jacksonville Jaguars": {
       "pick": "Jacksonville Jaguars",
-      "confidence": 77.7,
-      "spread": -12.5,
+      "confidence": 79.4,
+      "spread": -13.5,
       "rank": 0,
       "points": 100
     },
@@ -36,31 +36,31 @@
       "rank": 0,
       "points": 40
     },
+    "Arizona Cardinals @ Los Angeles Rams": {
+      "pick": "Los Angeles Rams",
+      "confidence": 67.9,
+      "spread": -7.5,
+      "rank": 0,
+      "points": 35
+    },
+    "Green Bay Packers @ Minnesota Vikings": {
+      "pick": "Minnesota Vikings",
+      "confidence": 66.9,
+      "spread": -7.5,
+      "rank": 0,
+      "points": 30
+    },
     "New York Jets @ Buffalo Bills": {
       "pick": "Buffalo Bills",
       "confidence": 65.8,
       "spread": -7.0,
       "rank": 0,
-      "points": 35
+      "points": 26
     },
     "Kansas City Chiefs @ Las Vegas Raiders": {
       "pick": "Kansas City Chiefs",
-      "confidence": 65.4,
+      "confidence": 62.4,
       "spread": 5.5,
-      "rank": 0,
-      "points": 30
-    },
-    "Arizona Cardinals @ Los Angeles Rams": {
-      "pick": "Los Angeles Rams",
-      "confidence": 63.9,
-      "spread": -7.5,
-      "rank": 0,
-      "points": 26
-    },
-    "Green Bay Packers @ Minnesota Vikings": {
-      "pick": "Minnesota Vikings",
-      "confidence": 61.8,
-      "spread": -7.0,
       "rank": 0,
       "points": 22
     },
@@ -73,7 +73,7 @@
     },
     "Washington Commanders @ Philadelphia Eagles": {
       "pick": "Philadelphia Eagles",
-      "confidence": 61.1,
+      "confidence": 60.1,
       "spread": -4.5,
       "rank": 0,
       "points": 14
@@ -85,17 +85,17 @@
       "rank": 0,
       "points": 12
     },
+    "Baltimore Ravens @ Pittsburgh Steelers": {
+      "pick": "Baltimore Ravens",
+      "confidence": 59.7,
+      "spread": 3.5,
+      "rank": 0,
+      "points": 10
+    },
     "New Orleans Saints @ Atlanta Falcons": {
       "pick": "Atlanta Falcons",
       "confidence": 58.7,
       "spread": -3.5,
-      "rank": 0,
-      "points": 10
-    },
-    "Baltimore Ravens @ Pittsburgh Steelers": {
-      "pick": "Baltimore Ravens",
-      "confidence": 58.7,
-      "spread": 3.5,
       "rank": 0,
       "points": 8
     },
@@ -120,9 +120,9 @@
     "New Orleans Saints@Atlanta Falcons": -3.5,
     "Cleveland Browns@Cincinnati Bengals": -7.5,
     "Dallas Cowboys@New York Giants": 3.5,
-    "Green Bay Packers@Minnesota Vikings": -7.0,
+    "Green Bay Packers@Minnesota Vikings": -7.5,
     "Indianapolis Colts@Houston Texans": -10.5,
-    "Tennessee Titans@Jacksonville Jaguars": -12.5,
+    "Tennessee Titans@Jacksonville Jaguars": -13.5,
     "Arizona Cardinals@Los Angeles Rams": -7.5,
     "New York Jets@Buffalo Bills": -7.0,
     "Detroit Lions@Chicago Bears": -3.0,

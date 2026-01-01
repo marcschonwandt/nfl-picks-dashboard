@@ -1,0 +1,105 @@
+Rank,Game,Pick,Confidence,Spread,Base_Prob,Final_Prob,Weather,Game_Time,Game_Time_CPH,Game_Time_Full,Game_Timestamp,Reasoning,Has_Started,Points
+1,Tennessee Titans @ Jacksonville Jaguars,Jacksonville Jaguars,79.4,-13.5,79.4%,79.4%,"13.2°C, 8.5mph",Sunday 04/01 19:00,04/01 19:00,"Sunday, January 04 at 19:00",1767549600.0,"📊 Odds baseline: Spread -13.5 → 79% win probability for Jacksonville Jaguars
+
+🌤️ Weather adjustments:
+   • Gode forhold (13°C, 8 mph vind)
+
+✅ FINAL: 79% confidence → Pick Jacksonville Jaguars",False,100
+2,Los Angeles Chargers @ Denver Broncos,Denver Broncos,77.7,-12.5,77.7%,77.7%,"10.5°C, 3.6mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread -12.5 → 78% win probability for Denver Broncos
+
+🌤️ Weather adjustments:
+   • Gode forhold (10°C, 4 mph vind)
+
+✅ FINAL: 78% confidence → Pick Denver Broncos",False,75
+3,Indianapolis Colts @ Houston Texans,Houston Texans,74.1,-10.5,74.1%,74.1%,"19.9°C, 7.3mph",Sunday 04/01 19:00,04/01 19:00,"Sunday, January 04 at 19:00",1767549600.0,"📊 Odds baseline: Spread -10.5 → 74% win probability for Houston Texans
+
+🌤️ Weather adjustments:
+   • Gode forhold (20°C, 7 mph vind)
+
+✅ FINAL: 74% confidence → Pick Houston Texans",False,60
+4,Miami Dolphins @ New England Patriots,New England Patriots,73.1,-10.5,74.1%,73.1%,"-4.8°C, 8.3mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread -10.5 → 74% win probability for New England Patriots
+
+🌤️ Weather adjustments:
+   • Kulde (-5°C) påvirker boldhåndtering
+
+✅ FINAL: 73% confidence → Pick New England Patriots",False,50
+5,Cleveland Browns @ Cincinnati Bengals,Cincinnati Bengals,67.9,-7.5,67.9%,67.9%,"0.2°C, 2.2mph",Sunday 04/01 19:00,04/01 19:00,"Sunday, January 04 at 19:00",1767549600.0,"📊 Odds baseline: Spread -7.5 → 68% win probability for Cincinnati Bengals
+
+🌤️ Weather adjustments:
+   • Gode forhold (0°C, 2 mph vind)
+
+✅ FINAL: 68% confidence → Pick Cincinnati Bengals",False,40
+6,Arizona Cardinals @ Los Angeles Rams,Los Angeles Rams,67.9,-7.5,67.9%,67.9%,"17.1°C, 4.1mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread -7.5 → 68% win probability for Los Angeles Rams
+
+🌤️ Weather adjustments:
+   • Gode forhold (17°C, 4 mph vind)
+
+✅ FINAL: 68% confidence → Pick Los Angeles Rams",False,35
+7,Green Bay Packers @ Minnesota Vikings,Minnesota Vikings,66.9,-7.5,67.9%,66.9%,"-4.7°C, 10.5mph",Sunday 04/01 19:00,04/01 19:00,"Sunday, January 04 at 19:00",1767549600.0,"📊 Odds baseline: Spread -7.5 → 68% win probability for Minnesota Vikings
+
+🌤️ Weather adjustments:
+   • Kulde (-5°C) påvirker boldhåndtering
+
+✅ FINAL: 67% confidence → Pick Minnesota Vikings",False,30
+8,New York Jets @ Buffalo Bills,Buffalo Bills,65.8,-7.0,66.8%,65.8%,"-13.2°C, 3.4mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread -7.0 → 67% win probability for Buffalo Bills
+
+🌤️ Weather adjustments:
+   • Kulde (-13°C) påvirker boldhåndtering
+
+✅ FINAL: 66% confidence → Pick Buffalo Bills",False,26
+9,Kansas City Chiefs @ Las Vegas Raiders,Kansas City Chiefs,62.4,5.5,36.6%,37.6%,"14.6°C, 10.5mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread +5.5 → 37% win probability for Las Vegas Raiders
+
+⚕️ Injury adjustments:
+   • Kansas City Chiefs injuries help Las Vegas Raiders
+   • Example Player (DT) - Questionable: lille impact (-1.0%)
+
+🌤️ Weather adjustments:
+   • Gode forhold (15°C, 10 mph vind)
+
+✅ FINAL: 62% confidence → Pick Kansas City Chiefs",False,22
+10,Detroit Lions @ Chicago Bears,Chicago Bears,61.4,-3.0,57.4%,61.4%,"-1.4°C, 6.8mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Chicago Bears
+
+⚕️ Injury adjustments:
+   • Detroit Lions injuries help Chicago Bears
+   • Example DE (DE) - Out: stor impact (-5.0%)
+
+🌤️ Weather adjustments:
+   • Kulde (-1°C) påvirker boldhåndtering
+
+✅ FINAL: 61% confidence → Pick Chicago Bears",False,18
+11,Washington Commanders @ Philadelphia Eagles,Philadelphia Eagles,60.1,-4.5,61.1%,60.1%,"-0.6°C, 6.3mph",Sunday 04/01 22:25,04/01 22:25,"Sunday, January 04 at 22:25",1767561900.0,"📊 Odds baseline: Spread -4.5 → 61% win probability for Philadelphia Eagles
+
+🌤️ Weather adjustments:
+   • Kulde (-1°C) påvirker boldhåndtering
+
+✅ FINAL: 60% confidence → Pick Philadelphia Eagles",False,14
+12,Dallas Cowboys @ New York Giants,Dallas Cowboys,59.7,3.5,41.3%,40.3%,"-0.6°C, 8.1mph",Sunday 04/01 19:00,04/01 19:00,"Sunday, January 04 at 19:00",1767549600.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for New York Giants
+
+🌤️ Weather adjustments:
+   • Kulde (-1°C) påvirker boldhåndtering
+
+✅ FINAL: 60% confidence → Pick Dallas Cowboys",False,12
+13,Baltimore Ravens @ Pittsburgh Steelers,Baltimore Ravens,59.7,3.5,41.3%,40.3%,"-5.1°C, 2.1mph",Monday 05/01 02:20,05/01 02:20,"Monday, January 05 at 02:20",1767576000.0,"📊 Odds baseline: Spread +3.5 → 41% win probability for Pittsburgh Steelers
+
+🌤️ Weather adjustments:
+   • Kulde (-5°C) påvirker boldhåndtering
+
+✅ FINAL: 60% confidence → Pick Baltimore Ravens",False,10
+14,New Orleans Saints @ Atlanta Falcons,Atlanta Falcons,58.7,-3.5,58.7%,58.7%,"12.3°C, 2.8mph",Sunday 04/01 19:00,04/01 19:00,"Sunday, January 04 at 19:00",1767549600.0,"📊 Odds baseline: Spread -3.5 → 59% win probability for Atlanta Falcons
+
+🌤️ Weather adjustments:
+   • Gode forhold (12°C, 3 mph vind)
+
+✅ FINAL: 59% confidence → Pick Atlanta Falcons",False,8
+15,Carolina Panthers @ Tampa Bay Buccaneers,Tampa Bay Buccaneers,57.4,-3.0,57.4%,57.4%,"20.5°C, 13.4mph",Saturday 03/01 22:30,03/01 22:30,"Saturday, January 03 at 22:30",1767475800.0,"📊 Odds baseline: Spread -3.0 → 57% win probability for Tampa Bay Buccaneers
+
+🌤️ Weather adjustments:
+   • Gode forhold (20°C, 13 mph vind)
+
+✅ FINAL: 57% confidence → Pick Tampa Bay Buccaneers",False,6
+16,Seattle Seahawks @ San Francisco 49ers,Seattle Seahawks,53.7,1.5,46.3%,46.3%,"12.4°C, 8.1mph",Sunday 04/01 02:00,04/01 02:00,"Sunday, January 04 at 02:00",1767488400.0,"📊 Odds baseline: Spread +1.5 → 46% win probability for San Francisco 49ers
+
+🌤️ Weather adjustments:
+   • Gode forhold (12°C, 8 mph vind)
+
+✅ FINAL: 54% confidence → Pick Seattle Seahawks",False,6
