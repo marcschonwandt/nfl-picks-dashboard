@@ -16,7 +16,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.489670",
+              "timestamp": "2026-01-02T15:28:04.553456",
               "week": 18,
               "spread_home": -13.5,
               "moneyline_home": -900,
@@ -39,7 +39,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.490927",
+              "timestamp": "2026-01-02T15:28:04.554730",
               "week": 18,
               "spread_home": -12.5,
               "moneyline_home": -1000,
@@ -62,7 +62,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.489298",
+              "timestamp": "2026-01-02T15:28:04.553158",
               "week": 18,
               "spread_home": -10.5,
               "moneyline_home": -625,
@@ -85,7 +85,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.491606",
+              "timestamp": "2026-01-02T15:28:04.555401",
               "week": 18,
               "spread_home": -10.5,
               "moneyline_home": -625,
@@ -97,8 +97,8 @@
         },
         {
           "rank": 4,
-          "game": "Arizona Cardinals @ Los Angeles Rams",
-          "pick": "Los Angeles Rams",
+          "game": "Cleveland Browns @ Cincinnati Bengals",
+          "pick": "Cincinnati Bengals",
           "confidence": 50.0,
           "points": 40,
           "spread": 0.0,
@@ -108,10 +108,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.489978",
+              "timestamp": "2026-01-02T15:28:04.552297",
               "week": 18,
               "spread_home": -7.5,
-              "moneyline_home": -360,
+              "moneyline_home": -380,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -120,8 +120,8 @@
         },
         {
           "rank": 5,
-          "game": "Cleveland Browns @ Cincinnati Bengals",
-          "pick": "Cincinnati Bengals",
+          "game": "Green Bay Packers @ Minnesota Vikings",
+          "pick": "Minnesota Vikings",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -131,7 +131,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.488387",
+              "timestamp": "2026-01-02T15:28:04.552859",
               "week": 18,
               "spread_home": -7.5,
               "moneyline_home": -380,
@@ -143,8 +143,8 @@
         },
         {
           "rank": 6,
-          "game": "Green Bay Packers @ Minnesota Vikings",
-          "pick": "Minnesota Vikings",
+          "game": "New York Jets @ Buffalo Bills",
+          "pick": "Buffalo Bills",
           "confidence": 50.0,
           "points": 30,
           "spread": 0.0,
@@ -154,10 +154,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.488978",
+              "timestamp": "2026-01-02T15:28:04.554085",
               "week": 18,
-              "spread_home": -7.5,
-              "moneyline_home": -380,
+              "spread_home": -7.0,
+              "moneyline_home": -345,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -166,8 +166,8 @@
         },
         {
           "rank": 7,
-          "game": "New York Jets @ Buffalo Bills",
-          "pick": "Buffalo Bills",
+          "game": "Arizona Cardinals @ Los Angeles Rams",
+          "pick": "Los Angeles Rams",
           "confidence": 50.0,
           "points": 26,
           "spread": 0.0,
@@ -177,10 +177,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.490287",
+              "timestamp": "2026-01-02T15:28:04.553742",
               "week": 18,
-              "spread_home": -6.5,
-              "moneyline_home": -290,
+              "spread_home": -7.5,
+              "moneyline_home": -360,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -200,7 +200,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.491268",
+              "timestamp": "2026-01-02T15:28:04.555076",
               "week": 18,
               "spread_home": 5.5,
               "moneyline_home": 230,
@@ -223,7 +223,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.490597",
+              "timestamp": "2026-01-02T15:28:04.554423",
               "week": 18,
               "spread_home": -3.0,
               "moneyline_home": -148,
@@ -246,7 +246,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.491934",
+              "timestamp": "2026-01-02T15:28:04.555744",
               "week": 18,
               "spread_home": -4.5,
               "moneyline_home": -198,
@@ -269,7 +269,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.488716",
+              "timestamp": "2026-01-02T15:28:04.552595",
               "week": 18,
               "spread_home": 3.5,
               "moneyline_home": 160,
@@ -281,8 +281,8 @@
         },
         {
           "rank": 12,
-          "game": "New Orleans Saints @ Atlanta Falcons",
-          "pick": "Atlanta Falcons",
+          "game": "Baltimore Ravens @ Pittsburgh Steelers",
+          "pick": "Baltimore Ravens",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -292,10 +292,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.488055",
+              "timestamp": "2026-01-02T15:28:04.556098",
               "week": 18,
-              "spread_home": -3.5,
-              "moneyline_home": -185,
+              "spread_home": 3.5,
+              "moneyline_home": 154,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -304,8 +304,8 @@
         },
         {
           "rank": 13,
-          "game": "Baltimore Ravens @ Pittsburgh Steelers",
-          "pick": "Baltimore Ravens",
+          "game": "New Orleans Saints @ Atlanta Falcons",
+          "pick": "Atlanta Falcons",
           "confidence": 50.0,
           "points": 8,
           "spread": 0.0,
@@ -315,10 +315,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.492291",
+              "timestamp": "2026-01-02T15:28:04.551962",
               "week": 18,
-              "spread_home": 3.5,
-              "moneyline_home": 154,
+              "spread_home": -3.5,
+              "moneyline_home": -185,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -338,7 +338,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.487520",
+              "timestamp": "2026-01-02T15:28:04.551373",
               "week": 18,
               "spread_home": -3.0,
               "moneyline_home": -155,
@@ -361,10 +361,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-02T09:30:36.487898",
+              "timestamp": "2026-01-02T15:28:04.551800",
               "week": 18,
               "spread_home": 1.5,
-              "moneyline_home": 100,
+              "moneyline_home": 105,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -373,8 +373,8 @@
         }
       ],
       "results": [],
-      "created_at": "2026-01-02T09:31:23.903776",
-      "updated_at": "2026-01-02T09:32:53.149594",
+      "created_at": "2026-01-02T15:28:10.651287",
+      "updated_at": "2026-01-02T15:29:40.854563",
       "accuracy": 0,
       "correct": 0,
       "total": 0,
