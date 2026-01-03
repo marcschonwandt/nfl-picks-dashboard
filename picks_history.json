@@ -16,7 +16,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.535558",
+              "timestamp": "2026-01-03T15:20:49.745357",
               "week": 18,
               "spread_home": -13.5,
               "moneyline_home": -800,
@@ -39,7 +39,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.536751",
+              "timestamp": "2026-01-03T15:20:49.746773",
               "week": 18,
               "spread_home": -13.5,
               "moneyline_home": -1200,
@@ -62,7 +62,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.537394",
+              "timestamp": "2026-01-03T15:20:49.747422",
               "week": 18,
               "spread_home": -11.5,
               "moneyline_home": -675,
@@ -85,7 +85,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.535253",
+              "timestamp": "2026-01-03T15:20:49.745040",
               "week": 18,
               "spread_home": -10.0,
               "moneyline_home": -535,
@@ -108,7 +108,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.534995",
+              "timestamp": "2026-01-03T15:20:49.744740",
               "week": 18,
               "spread_home": -9.5,
               "moneyline_home": -470,
@@ -131,7 +131,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.535888",
+              "timestamp": "2026-01-03T15:20:49.745641",
               "week": 18,
               "spread_home": -8.5,
               "moneyline_home": -425,
@@ -154,7 +154,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.534484",
+              "timestamp": "2026-01-03T15:20:49.744183",
               "week": 18,
               "spread_home": -7.5,
               "moneyline_home": -410,
@@ -177,10 +177,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.536184",
+              "timestamp": "2026-01-03T15:20:49.745927",
               "week": 18,
               "spread_home": -7.5,
-              "moneyline_home": -425,
+              "moneyline_home": -410,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -200,7 +200,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.537084",
+              "timestamp": "2026-01-03T15:20:49.747100",
               "week": 18,
               "spread_home": 5.5,
               "moneyline_home": 225,
@@ -223,7 +223,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.536466",
+              "timestamp": "2026-01-03T15:20:49.746234",
               "week": 18,
               "spread_home": -3.0,
               "moneyline_home": -162,
@@ -246,7 +246,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.537710",
+              "timestamp": "2026-01-03T15:20:49.747783",
               "week": 18,
               "spread_home": -4.5,
               "moneyline_home": -225,
@@ -258,8 +258,8 @@
         },
         {
           "rank": 11,
-          "game": "Baltimore Ravens @ Pittsburgh Steelers",
-          "pick": "Baltimore Ravens",
+          "game": "Dallas Cowboys @ New York Giants",
+          "pick": "Dallas Cowboys",
           "confidence": 50.0,
           "points": 12,
           "spread": 0.0,
@@ -269,10 +269,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.538061",
+              "timestamp": "2026-01-03T15:20:49.744458",
               "week": 18,
-              "spread_home": 4.5,
-              "moneyline_home": 170,
+              "spread_home": 3.5,
+              "moneyline_home": 150,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -281,8 +281,8 @@
         },
         {
           "rank": 12,
-          "game": "Dallas Cowboys @ New York Giants",
-          "pick": "Dallas Cowboys",
+          "game": "New Orleans Saints @ Atlanta Falcons",
+          "pick": "Atlanta Falcons",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -292,10 +292,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.534743",
+              "timestamp": "2026-01-03T15:20:49.743856",
               "week": 18,
-              "spread_home": 3.5,
-              "moneyline_home": 154,
+              "spread_home": -3.5,
+              "moneyline_home": -198,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -304,8 +304,8 @@
         },
         {
           "rank": 13,
-          "game": "New Orleans Saints @ Atlanta Falcons",
-          "pick": "Atlanta Falcons",
+          "game": "Baltimore Ravens @ Pittsburgh Steelers",
+          "pick": "Baltimore Ravens",
           "confidence": 50.0,
           "points": 8,
           "spread": 0.0,
@@ -315,10 +315,10 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.534177",
+              "timestamp": "2026-01-03T15:20:49.748121",
               "week": 18,
-              "spread_home": -3.5,
-              "moneyline_home": -198,
+              "spread_home": 3.5,
+              "moneyline_home": 170,
               "moneyline_away": 0,
               "total_over_under": 0
             }
@@ -338,7 +338,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.533997",
+              "timestamp": "2026-01-03T15:20:49.743684",
               "week": 18,
               "spread_home": 2.5,
               "moneyline_home": 124,
@@ -361,7 +361,7 @@
           "final_prob": "N/A",
           "odds_history": [
             {
-              "timestamp": "2026-01-03T09:21:25.533594",
+              "timestamp": "2026-01-03T15:20:49.743225",
               "week": 18,
               "spread_home": -3.0,
               "moneyline_home": -148,
@@ -373,8 +373,8 @@
         }
       ],
       "results": [],
-      "created_at": "2026-01-03T09:22:12.800542",
-      "updated_at": "2026-01-03T09:23:45.052594",
+      "created_at": "2026-01-03T15:21:16.255495",
+      "updated_at": "2026-01-03T15:22:43.937071",
       "accuracy": 0,
       "correct": 0,
       "total": 0,

@@ -1,7 +1,7 @@
 {
   "Carolina Panthers@Tampa Bay Buccaneers": [
     {
-      "timestamp": "2026-01-03T09:21:25.533594",
+      "timestamp": "2026-01-03T15:20:49.743225",
       "week": 18,
       "spread_home": -3.0,
       "moneyline_home": -148,
@@ -11,7 +11,7 @@
   ],
   "Seattle Seahawks@San Francisco 49ers": [
     {
-      "timestamp": "2026-01-03T09:21:25.533997",
+      "timestamp": "2026-01-03T15:20:49.743684",
       "week": 18,
       "spread_home": 2.5,
       "moneyline_home": 124,
@@ -21,7 +21,7 @@
   ],
   "New Orleans Saints@Atlanta Falcons": [
     {
-      "timestamp": "2026-01-03T09:21:25.534177",
+      "timestamp": "2026-01-03T15:20:49.743856",
       "week": 18,
       "spread_home": -3.5,
       "moneyline_home": -198,
@@ -31,7 +31,7 @@
   ],
   "Cleveland Browns@Cincinnati Bengals": [
     {
-      "timestamp": "2026-01-03T09:21:25.534484",
+      "timestamp": "2026-01-03T15:20:49.744183",
       "week": 18,
       "spread_home": -7.5,
       "moneyline_home": -410,
@@ -41,17 +41,17 @@
   ],
   "Dallas Cowboys@New York Giants": [
     {
-      "timestamp": "2026-01-03T09:21:25.534743",
+      "timestamp": "2026-01-03T15:20:49.744458",
       "week": 18,
       "spread_home": 3.5,
-      "moneyline_home": 154,
+      "moneyline_home": 150,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Green Bay Packers@Minnesota Vikings": [
     {
-      "timestamp": "2026-01-03T09:21:25.534995",
+      "timestamp": "2026-01-03T15:20:49.744740",
       "week": 18,
       "spread_home": -9.5,
       "moneyline_home": -470,
@@ -61,7 +61,7 @@
   ],
   "Indianapolis Colts@Houston Texans": [
     {
-      "timestamp": "2026-01-03T09:21:25.535253",
+      "timestamp": "2026-01-03T15:20:49.745040",
       "week": 18,
       "spread_home": -10.0,
       "moneyline_home": -535,
@@ -71,7 +71,7 @@
   ],
   "Tennessee Titans@Jacksonville Jaguars": [
     {
-      "timestamp": "2026-01-03T09:21:25.535558",
+      "timestamp": "2026-01-03T15:20:49.745357",
       "week": 18,
       "spread_home": -13.5,
       "moneyline_home": -800,
@@ -81,7 +81,7 @@
   ],
   "Arizona Cardinals@Los Angeles Rams": [
     {
-      "timestamp": "2026-01-03T09:21:25.535888",
+      "timestamp": "2026-01-03T15:20:49.745641",
       "week": 18,
       "spread_home": -8.5,
       "moneyline_home": -425,
@@ -91,17 +91,17 @@
   ],
   "New York Jets@Buffalo Bills": [
     {
-      "timestamp": "2026-01-03T09:21:25.536184",
+      "timestamp": "2026-01-03T15:20:49.745927",
       "week": 18,
       "spread_home": -7.5,
-      "moneyline_home": -425,
+      "moneyline_home": -410,
       "moneyline_away": 0,
       "total_over_under": 0
     }
   ],
   "Detroit Lions@Chicago Bears": [
     {
-      "timestamp": "2026-01-03T09:21:25.536466",
+      "timestamp": "2026-01-03T15:20:49.746234",
       "week": 18,
       "spread_home": -3.0,
       "moneyline_home": -162,
@@ -111,7 +111,7 @@
   ],
   "Los Angeles Chargers@Denver Broncos": [
     {
-      "timestamp": "2026-01-03T09:21:25.536751",
+      "timestamp": "2026-01-03T15:20:49.746773",
       "week": 18,
       "spread_home": -13.5,
       "moneyline_home": -1200,
@@ -121,7 +121,7 @@
   ],
   "Kansas City Chiefs@Las Vegas Raiders": [
     {
-      "timestamp": "2026-01-03T09:21:25.537084",
+      "timestamp": "2026-01-03T15:20:49.747100",
       "week": 18,
       "spread_home": 5.5,
       "moneyline_home": 225,
@@ -131,7 +131,7 @@
   ],
   "Miami Dolphins@New England Patriots": [
     {
-      "timestamp": "2026-01-03T09:21:25.537394",
+      "timestamp": "2026-01-03T15:20:49.747422",
       "week": 18,
       "spread_home": -11.5,
       "moneyline_home": -675,
@@ -141,7 +141,7 @@
   ],
   "Washington Commanders@Philadelphia Eagles": [
     {
-      "timestamp": "2026-01-03T09:21:25.537710",
+      "timestamp": "2026-01-03T15:20:49.747783",
       "week": 18,
       "spread_home": -4.5,
       "moneyline_home": -225,
@@ -151,9 +151,9 @@
   ],
   "Baltimore Ravens@Pittsburgh Steelers": [
     {
-      "timestamp": "2026-01-03T09:21:25.538061",
+      "timestamp": "2026-01-03T15:20:49.748121",
       "week": 18,
-      "spread_home": 4.5,
+      "spread_home": 3.5,
       "moneyline_home": 170,
       "moneyline_away": 0,
       "total_over_under": 0

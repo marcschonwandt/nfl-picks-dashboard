@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-03T09:22:12.803263",
+  "timestamp": "2026-01-03T15:21:16.261666",
   "picks": {
     "Tennessee Titans @ Jacksonville Jaguars": {
       "pick": "Jacksonville Jaguars",
@@ -17,7 +17,7 @@
     },
     "Miami Dolphins @ New England Patriots": {
       "pick": "New England Patriots",
-      "confidence": 75.9,
+      "confidence": 74.9,
       "spread": -11.5,
       "rank": 0,
       "points": 60
@@ -78,24 +78,24 @@
       "rank": 0,
       "points": 14
     },
-    "Baltimore Ravens @ Pittsburgh Steelers": {
-      "pick": "Baltimore Ravens",
-      "confidence": 61.1,
-      "spread": 4.5,
-      "rank": 0,
-      "points": 12
-    },
     "Dallas Cowboys @ New York Giants": {
       "pick": "Dallas Cowboys",
       "confidence": 59.7,
       "spread": 3.5,
       "rank": 0,
-      "points": 10
+      "points": 12
     },
     "New Orleans Saints @ Atlanta Falcons": {
       "pick": "Atlanta Falcons",
       "confidence": 58.7,
       "spread": -3.5,
+      "rank": 0,
+      "points": 10
+    },
+    "Baltimore Ravens @ Pittsburgh Steelers": {
+      "pick": "Baltimore Ravens",
+      "confidence": 58.7,
+      "spread": 3.5,
       "rank": 0,
       "points": 8
     },
@@ -130,6 +130,6 @@
     "Kansas City Chiefs@Las Vegas Raiders": 5.5,
     "Miami Dolphins@New England Patriots": -11.5,
     "Washington Commanders@Philadelphia Eagles": -4.5,
-    "Baltimore Ravens@Pittsburgh Steelers": 4.5
+    "Baltimore Ravens@Pittsburgh Steelers": 3.5
   }
 }
