@@ -5,8 +5,8 @@
       "picks": [
         {
           "rank": 0,
-          "game": "Tennessee Titans @ Jacksonville Jaguars",
-          "pick": "Jacksonville Jaguars",
+          "game": "Detroit Lions @ Chicago Bears",
+          "pick": "Chicago Bears",
           "confidence": 50.0,
           "points": 100,
           "spread": 0.0,
@@ -14,22 +14,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.745357",
-              "week": 18,
-              "spread_home": -13.5,
-              "moneyline_home": -800,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 1,
-          "game": "Los Angeles Chargers @ Denver Broncos",
-          "pick": "Denver Broncos",
+          "game": "Green Bay Packers @ Minnesota Vikings",
+          "pick": "Green Bay Packers",
           "confidence": 50.0,
           "points": 75,
           "spread": 0.0,
@@ -37,22 +28,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.746773",
-              "week": 18,
-              "spread_home": -13.5,
-              "moneyline_home": -1200,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 2,
-          "game": "Miami Dolphins @ New England Patriots",
-          "pick": "New England Patriots",
+          "game": "Dallas Cowboys @ New York Giants",
+          "pick": "Dallas Cowboys",
           "confidence": 50.0,
           "points": 60,
           "spread": 0.0,
@@ -60,22 +42,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.747422",
-              "week": 18,
-              "spread_home": -11.5,
-              "moneyline_home": -675,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 3,
-          "game": "Indianapolis Colts @ Houston Texans",
-          "pick": "Houston Texans",
+          "game": "New York Jets @ Buffalo Bills",
+          "pick": "New York Jets",
           "confidence": 50.0,
           "points": 50,
           "spread": 0.0,
@@ -83,22 +56,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.745040",
-              "week": 18,
-              "spread_home": -10.0,
-              "moneyline_home": -535,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 4,
-          "game": "Green Bay Packers @ Minnesota Vikings",
-          "pick": "Minnesota Vikings",
+          "game": "Kansas City Chiefs @ Las Vegas Raiders",
+          "pick": "Las Vegas Raiders",
           "confidence": 50.0,
           "points": 40,
           "spread": 0.0,
@@ -106,22 +70,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.744740",
-              "week": 18,
-              "spread_home": -9.5,
-              "moneyline_home": -470,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 5,
-          "game": "Arizona Cardinals @ Los Angeles Rams",
-          "pick": "Los Angeles Rams",
+          "game": "Carolina Panthers @ Tampa Bay Buccaneers",
+          "pick": "Carolina Panthers",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -129,22 +84,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.745641",
-              "week": 18,
-              "spread_home": -8.5,
-              "moneyline_home": -425,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 6,
-          "game": "Cleveland Browns @ Cincinnati Bengals",
-          "pick": "Cincinnati Bengals",
+          "game": "Seattle Seahawks @ San Francisco 49ers",
+          "pick": "Seattle Seahawks",
           "confidence": 50.0,
           "points": 30,
           "spread": 0.0,
@@ -152,22 +98,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.744183",
-              "week": 18,
-              "spread_home": -7.5,
-              "moneyline_home": -410,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 7,
-          "game": "New York Jets @ Buffalo Bills",
-          "pick": "Buffalo Bills",
+          "game": "New Orleans Saints @ Atlanta Falcons",
+          "pick": "New Orleans Saints",
           "confidence": 50.0,
           "points": 26,
           "spread": 0.0,
@@ -175,22 +112,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.745927",
-              "week": 18,
-              "spread_home": -7.5,
-              "moneyline_home": -410,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 8,
-          "game": "Kansas City Chiefs @ Las Vegas Raiders",
-          "pick": "Kansas City Chiefs",
+          "game": "Cleveland Browns @ Cincinnati Bengals",
+          "pick": "Cleveland Browns",
           "confidence": 50.0,
           "points": 22,
           "spread": 0.0,
@@ -198,22 +126,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.747100",
-              "week": 18,
-              "spread_home": 5.5,
-              "moneyline_home": 225,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 9,
-          "game": "Detroit Lions @ Chicago Bears",
-          "pick": "Chicago Bears",
+          "game": "Tennessee Titans @ Jacksonville Jaguars",
+          "pick": "Tennessee Titans",
           "confidence": 50.0,
           "points": 18,
           "spread": 0.0,
@@ -221,22 +140,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.746234",
-              "week": 18,
-              "spread_home": -3.0,
-              "moneyline_home": -162,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 10,
-          "game": "Washington Commanders @ Philadelphia Eagles",
-          "pick": "Philadelphia Eagles",
+          "game": "Indianapolis Colts @ Houston Texans",
+          "pick": "Indianapolis Colts",
           "confidence": 50.0,
           "points": 14,
           "spread": 0.0,
@@ -244,22 +154,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.747783",
-              "week": 18,
-              "spread_home": -4.5,
-              "moneyline_home": -225,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 11,
-          "game": "Dallas Cowboys @ New York Giants",
-          "pick": "Dallas Cowboys",
+          "game": "Los Angeles Chargers @ Denver Broncos",
+          "pick": "Los Angeles Chargers",
           "confidence": 50.0,
           "points": 12,
           "spread": 0.0,
@@ -267,22 +168,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.744458",
-              "week": 18,
-              "spread_home": 3.5,
-              "moneyline_home": 150,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 12,
-          "game": "New Orleans Saints @ Atlanta Falcons",
-          "pick": "Atlanta Falcons",
+          "game": "Arizona Cardinals @ Los Angeles Rams",
+          "pick": "Arizona Cardinals",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -290,22 +182,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.743856",
-              "week": 18,
-              "spread_home": -3.5,
-              "moneyline_home": -198,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 13,
-          "game": "Baltimore Ravens @ Pittsburgh Steelers",
-          "pick": "Baltimore Ravens",
+          "game": "Miami Dolphins @ New England Patriots",
+          "pick": "Miami Dolphins",
           "confidence": 50.0,
           "points": 8,
           "spread": 0.0,
@@ -313,22 +196,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.748121",
-              "week": 18,
-              "spread_home": 3.5,
-              "moneyline_home": 170,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 14,
-          "game": "Seattle Seahawks @ San Francisco 49ers",
-          "pick": "Seattle Seahawks",
+          "game": "Washington Commanders @ Philadelphia Eagles",
+          "pick": "Washington Commanders",
           "confidence": 50.0,
           "points": 6,
           "spread": 0.0,
@@ -336,22 +210,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.743684",
-              "week": 18,
-              "spread_home": 2.5,
-              "moneyline_home": 124,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         },
         {
           "rank": 15,
-          "game": "Carolina Panthers @ Tampa Bay Buccaneers",
-          "pick": "Tampa Bay Buccaneers",
+          "game": "Baltimore Ravens @ Pittsburgh Steelers",
+          "pick": "Baltimore Ravens",
           "confidence": 50.0,
           "points": 5,
           "spread": 0.0,
@@ -359,22 +224,13 @@
           "reasoning": "Fetched from Picks.dk",
           "base_prob": "N/A",
           "final_prob": "N/A",
-          "odds_history": [
-            {
-              "timestamp": "2026-01-03T15:20:49.743225",
-              "week": 18,
-              "spread_home": -3.0,
-              "moneyline_home": -148,
-              "moneyline_away": 0,
-              "total_over_under": 0
-            }
-          ],
+          "odds_history": [],
           "game_time_cph": "N/A"
         }
       ],
       "results": [],
-      "created_at": "2026-01-03T15:21:16.255495",
-      "updated_at": "2026-01-03T15:22:43.937071",
+      "created_at": "2026-01-03T21:19:58.814882",
+      "updated_at": "2026-01-03T21:22:28.010319",
       "accuracy": 0,
       "correct": 0,
       "total": 0,
