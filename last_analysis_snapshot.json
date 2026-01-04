@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T11:15:48.834265",
+  "timestamp": "2026-01-04T13:28:43.175775",
   "picks": {
     "Detroit Lions @ Chicago Bears": {
       "pick": "Chicago Bears",
@@ -36,57 +36,57 @@
       "rank": 0,
       "points": 40
     },
+    "Miami Dolphins @ New England Patriots": {
+      "pick": "Miami Dolphins",
+      "confidence": 51.0,
+      "spread": 0,
+      "rank": 0,
+      "points": 35
+    },
+    "Washington Commanders @ Philadelphia Eagles": {
+      "pick": "Washington Commanders",
+      "confidence": 51.0,
+      "spread": 0,
+      "rank": 0,
+      "points": 30
+    },
     "New Orleans Saints @ Atlanta Falcons": {
       "pick": "New Orleans Saints",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 35
+      "points": 26
     },
     "Cleveland Browns @ Cincinnati Bengals": {
       "pick": "Cleveland Browns",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 30
+      "points": 22
     },
     "Tennessee Titans @ Jacksonville Jaguars": {
       "pick": "Tennessee Titans",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 26
+      "points": 18
     },
     "Indianapolis Colts @ Houston Texans": {
       "pick": "Indianapolis Colts",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 22
+      "points": 14
     },
     "Los Angeles Chargers @ Denver Broncos": {
       "pick": "Los Angeles Chargers",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 18
+      "points": 12
     },
     "Arizona Cardinals @ Los Angeles Rams": {
       "pick": "Arizona Cardinals",
-      "confidence": 50.0,
-      "spread": 0,
-      "rank": 0,
-      "points": 14
-    },
-    "Miami Dolphins @ New England Patriots": {
-      "pick": "Miami Dolphins",
-      "confidence": 50.0,
-      "spread": 0,
-      "rank": 0,
-      "points": 12
-    },
-    "Washington Commanders @ Philadelphia Eagles": {
-      "pick": "Washington Commanders",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
