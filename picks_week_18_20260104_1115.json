@@ -1,6 +1,6 @@
 {
   "week": 18,
-  "generated_at": "2026-01-04T11:15:19.985458",
+  "generated_at": "2026-01-04T11:15:48.834721",
   "games_analyzed": 14,
   "official_games": 16,
   "picks": [
@@ -261,18 +261,18 @@
       "adjustments": [],
       "injury_adjustments": [],
       "weather": {
-        "temp": -4.2,
-        "wind_speed": 4.8,
-        "precipitation": 0.0,
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
         "conditions": "clear"
       },
       "weather_adjustments": [
-        "   • Kulde (-4°C) påvirker boldhåndtering"
+        "   • Gode forhold (65°C, 10 mph vind)"
       ],
-      "final_prob": 0.49,
+      "final_prob": 0.5,
       "pick": "Miami Dolphins",
-      "confidence": 51.0,
-      "reasoning": "📊 Odds baseline: Spread +0.0 → 50% win probability for New England Patriots\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 51% confidence → Pick Miami Dolphins"
+      "confidence": 50.0,
+      "reasoning": "📊 Odds baseline: Spread +0.0 → 50% win probability for New England Patriots\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 50% confidence → Pick Miami Dolphins"
     },
     {
       "home_team": "Philadelphia Eagles",
@@ -283,18 +283,18 @@
       "adjustments": [],
       "injury_adjustments": [],
       "weather": {
-        "temp": -3.7,
-        "wind_speed": 4.8,
-        "precipitation": 0.0,
+        "temp": 65,
+        "wind_speed": 10,
+        "precipitation": 0,
         "conditions": "clear"
       },
       "weather_adjustments": [
-        "   • Kulde (-4°C) påvirker boldhåndtering"
+        "   • Gode forhold (65°C, 10 mph vind)"
       ],
-      "final_prob": 0.49,
+      "final_prob": 0.5,
       "pick": "Washington Commanders",
-      "confidence": 51.0,
-      "reasoning": "📊 Odds baseline: Spread +0.0 → 50% win probability for Philadelphia Eagles\n\n🌤️ Weather adjustments:\n   • Kulde (-4°C) påvirker boldhåndtering\n\n✅ FINAL: 51% confidence → Pick Washington Commanders"
+      "confidence": 50.0,
+      "reasoning": "📊 Odds baseline: Spread +0.0 → 50% win probability for Philadelphia Eagles\n\n🌤️ Weather adjustments:\n   • Gode forhold (65°C, 10 mph vind)\n\n✅ FINAL: 50% confidence → Pick Washington Commanders"
     },
     {
       "home_team": "Pittsburgh Steelers",
