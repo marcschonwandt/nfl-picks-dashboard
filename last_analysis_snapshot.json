@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T15:17:18.177417",
+  "timestamp": "2026-01-04T17:16:13.783946",
   "picks": {
     "Detroit Lions @ Chicago Bears": {
       "pick": "Chicago Bears",
@@ -8,92 +8,92 @@
       "rank": 0,
       "points": 100
     },
-    "Arizona Cardinals @ Los Angeles Rams": {
-      "pick": "Arizona Cardinals",
-      "confidence": 54.0,
-      "spread": 0,
-      "rank": 0,
-      "points": 75
-    },
     "Green Bay Packers @ Minnesota Vikings": {
       "pick": "Green Bay Packers",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 60
+      "points": 75
     },
     "Dallas Cowboys @ New York Giants": {
       "pick": "Dallas Cowboys",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 50
+      "points": 60
     },
     "New York Jets @ Buffalo Bills": {
       "pick": "New York Jets",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 40
+      "points": 50
     },
     "Kansas City Chiefs @ Las Vegas Raiders": {
       "pick": "Las Vegas Raiders",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 35
+      "points": 40
     },
     "Miami Dolphins @ New England Patriots": {
       "pick": "Miami Dolphins",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 30
+      "points": 35
     },
     "Washington Commanders @ Philadelphia Eagles": {
       "pick": "Washington Commanders",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 26
+      "points": 30
     },
     "Baltimore Ravens @ Pittsburgh Steelers": {
       "pick": "Baltimore Ravens",
       "confidence": 51.0,
       "spread": 0,
       "rank": 0,
-      "points": 22
+      "points": 26
     },
     "New Orleans Saints @ Atlanta Falcons": {
       "pick": "New Orleans Saints",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 18
+      "points": 22
     },
     "Cleveland Browns @ Cincinnati Bengals": {
       "pick": "Cleveland Browns",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 14
+      "points": 18
     },
     "Tennessee Titans @ Jacksonville Jaguars": {
       "pick": "Tennessee Titans",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 12
+      "points": 14
     },
     "Indianapolis Colts @ Houston Texans": {
       "pick": "Indianapolis Colts",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
-      "points": 10
+      "points": 12
     },
     "Los Angeles Chargers @ Denver Broncos": {
       "pick": "Los Angeles Chargers",
+      "confidence": 50.0,
+      "spread": 0,
+      "rank": 0,
+      "points": 10
+    },
+    "Arizona Cardinals @ Los Angeles Rams": {
+      "pick": "Arizona Cardinals",
       "confidence": 50.0,
       "spread": 0,
       "rank": 0,
