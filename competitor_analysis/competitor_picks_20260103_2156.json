@@ -12,10 +12,9 @@
     "rank": 0,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -30,10 +29,9 @@
     "rank": 1,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -48,10 +46,9 @@
     "rank": 2,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -66,10 +63,9 @@
     "rank": 3,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -84,10 +80,9 @@
     "rank": 4,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -102,10 +97,9 @@
     "rank": 5,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -120,10 +114,9 @@
     "rank": 6,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -138,10 +131,9 @@
     "rank": 7,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -156,10 +148,9 @@
     "rank": 8,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -174,10 +165,9 @@
     "rank": 9,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -192,10 +182,9 @@
     "rank": 10,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -210,10 +199,9 @@
     "rank": 11,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -228,10 +216,9 @@
     "rank": 12,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 17213,
@@ -282,10 +269,9 @@
     "rank": 15,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -300,10 +286,9 @@
     "rank": 0,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -318,10 +303,9 @@
     "rank": 1,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -336,10 +320,9 @@
     "rank": 2,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -354,10 +337,9 @@
     "rank": 3,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -372,10 +354,9 @@
     "rank": 4,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -390,10 +371,9 @@
     "rank": 5,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -408,10 +388,9 @@
     "rank": 6,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -426,10 +405,9 @@
     "rank": 7,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -444,10 +422,9 @@
     "rank": 8,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -462,10 +439,9 @@
     "rank": 9,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -480,10 +456,9 @@
     "rank": 10,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -498,10 +473,9 @@
     "rank": 11,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -516,10 +490,9 @@
     "rank": 12,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29626,
@@ -570,10 +543,9 @@
     "rank": 15,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -588,10 +560,9 @@
     "rank": 0,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -606,10 +577,9 @@
     "rank": 1,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -624,10 +594,9 @@
     "rank": 2,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -642,10 +611,9 @@
     "rank": 3,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -660,10 +628,9 @@
     "rank": 4,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -678,10 +645,9 @@
     "rank": 5,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -696,10 +662,9 @@
     "rank": 6,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -714,10 +679,9 @@
     "rank": 7,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -732,10 +696,9 @@
     "rank": 8,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -750,10 +713,9 @@
     "rank": 9,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -768,10 +730,9 @@
     "rank": 10,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -786,10 +747,9 @@
     "rank": 11,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -804,10 +764,9 @@
     "rank": 12,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -822,10 +781,9 @@
     "rank": 13,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 16981,
@@ -876,10 +834,9 @@
     "rank": 0,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -894,10 +851,9 @@
     "rank": 1,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -912,10 +868,9 @@
     "rank": 2,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -930,10 +885,9 @@
     "rank": 3,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -948,10 +902,9 @@
     "rank": 4,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -966,10 +919,9 @@
     "rank": 5,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -984,10 +936,9 @@
     "rank": 6,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1002,10 +953,9 @@
     "rank": 7,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1020,10 +970,9 @@
     "rank": 8,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1038,10 +987,9 @@
     "rank": 9,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1056,10 +1004,9 @@
     "rank": 10,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1074,10 +1021,9 @@
     "rank": 11,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1092,10 +1038,9 @@
     "rank": 12,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1110,10 +1055,9 @@
     "rank": 13,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 34641,
@@ -1164,10 +1108,9 @@
     "rank": 0,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1182,10 +1125,9 @@
     "rank": 1,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1200,10 +1142,9 @@
     "rank": 2,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1218,10 +1159,9 @@
     "rank": 3,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1236,10 +1176,9 @@
     "rank": 4,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1254,10 +1193,9 @@
     "rank": 5,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1272,10 +1210,9 @@
     "rank": 6,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1290,10 +1227,9 @@
     "rank": 7,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1308,10 +1244,9 @@
     "rank": 8,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1326,10 +1261,9 @@
     "rank": 9,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1344,10 +1278,9 @@
     "rank": 10,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1362,10 +1295,9 @@
     "rank": 11,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1380,10 +1312,9 @@
     "rank": 12,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1398,10 +1329,9 @@
     "rank": 13,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29597,
@@ -1488,10 +1418,9 @@
     "rank": 2,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1506,10 +1435,9 @@
     "rank": 3,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1524,10 +1452,9 @@
     "rank": 4,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1542,10 +1469,9 @@
     "rank": 5,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1560,10 +1486,9 @@
     "rank": 6,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1578,10 +1503,9 @@
     "rank": 7,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1596,10 +1520,9 @@
     "rank": 8,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1614,10 +1537,9 @@
     "rank": 9,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1632,10 +1554,9 @@
     "rank": 10,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1650,10 +1571,9 @@
     "rank": 11,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1668,10 +1588,9 @@
     "rank": 12,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1686,10 +1605,9 @@
     "rank": 13,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1704,10 +1622,9 @@
     "rank": 14,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29606,
@@ -1722,10 +1639,9 @@
     "rank": 15,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1740,10 +1656,9 @@
     "rank": 0,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1758,10 +1673,9 @@
     "rank": 1,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1776,10 +1690,9 @@
     "rank": 2,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1794,10 +1707,9 @@
     "rank": 3,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1812,10 +1724,9 @@
     "rank": 4,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1830,10 +1741,9 @@
     "rank": 5,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1848,10 +1758,9 @@
     "rank": 6,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1866,10 +1775,9 @@
     "rank": 7,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1884,10 +1792,9 @@
     "rank": 8,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1902,10 +1809,9 @@
     "rank": 9,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1920,10 +1826,9 @@
     "rank": 10,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1938,10 +1843,9 @@
     "rank": 11,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -1974,10 +1878,9 @@
     "rank": 13,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 29763,
@@ -2010,10 +1913,9 @@
     "rank": 15,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2028,10 +1930,9 @@
     "rank": 0,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2046,10 +1947,9 @@
     "rank": 1,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2064,10 +1964,9 @@
     "rank": 2,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2082,10 +1981,9 @@
     "rank": 3,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2100,10 +1998,9 @@
     "rank": 4,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2118,10 +2015,9 @@
     "rank": 5,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2136,10 +2032,9 @@
     "rank": 6,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2154,10 +2049,9 @@
     "rank": 7,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2172,10 +2066,9 @@
     "rank": 8,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2190,10 +2083,9 @@
     "rank": 9,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 16,
-    "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2208,10 +2100,9 @@
     "rank": 10,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2226,10 +2117,9 @@
     "rank": 11,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 34,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2244,10 +2134,9 @@
     "rank": 12,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
@@ -2262,10 +2151,9 @@
     "rank": 13,
     "timestamp": 1767576000,
     "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "home_score": 0,
+    "away_score": 0,
+    "is_final": false
   },
   {
     "user_id": 36286,
