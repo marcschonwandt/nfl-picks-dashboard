@@ -1,12 +1,12 @@
 {
   "weeks": [
     {
-      "week": 1,
+      "week": 18,
       "picks": [
         {
           "rank": 0,
-          "game": "Dallas Cowboys @ Philadelphia Eagles",
-          "pick": "Philadelphia Eagles",
+          "game": "Detroit Lions @ Chicago Bears",
+          "pick": "Chicago Bears",
           "confidence": 50.0,
           "points": 100,
           "spread": 0.0,
@@ -19,8 +19,8 @@
         },
         {
           "rank": 1,
-          "game": "Kansas City Chiefs @ Los Angeles Chargers",
-          "pick": "Kansas City Chiefs",
+          "game": "Green Bay Packers @ Minnesota Vikings",
+          "pick": "Green Bay Packers",
           "confidence": 50.0,
           "points": 75,
           "spread": 0.0,
@@ -33,8 +33,8 @@
         },
         {
           "rank": 2,
-          "game": "Cincinnati Bengals @ Cleveland Browns",
-          "pick": "Cincinnati Bengals",
+          "game": "Dallas Cowboys @ New York Giants",
+          "pick": "Dallas Cowboys",
           "confidence": 50.0,
           "points": 60,
           "spread": 0.0,
@@ -47,8 +47,8 @@
         },
         {
           "rank": 3,
-          "game": "Tennessee Titans @ Denver Broncos",
-          "pick": "Denver Broncos",
+          "game": "New York Jets @ Buffalo Bills",
+          "pick": "New York Jets",
           "confidence": 50.0,
           "points": 50,
           "spread": 0.0,
@@ -61,8 +61,8 @@
         },
         {
           "rank": 4,
-          "game": "Tampa Bay Buccaneers @ Atlanta Falcons",
-          "pick": "Tampa Bay Buccaneers",
+          "game": "Kansas City Chiefs @ Las Vegas Raiders",
+          "pick": "Las Vegas Raiders",
           "confidence": 50.0,
           "points": 40,
           "spread": 0.0,
@@ -75,8 +75,8 @@
         },
         {
           "rank": 5,
-          "game": "Miami Dolphins @ Indianapolis Colts",
-          "pick": "Miami Dolphins",
+          "game": "Carolina Panthers @ Tampa Bay Buccaneers",
+          "pick": "Carolina Panthers",
           "confidence": 50.0,
           "points": 35,
           "spread": 0.0,
@@ -89,8 +89,8 @@
         },
         {
           "rank": 6,
-          "game": "Arizona Cardinals @ New Orleans Saints",
-          "pick": "New Orleans Saints",
+          "game": "Seattle Seahawks @ San Francisco 49ers",
+          "pick": "Seattle Seahawks",
           "confidence": 50.0,
           "points": 30,
           "spread": 0.0,
@@ -103,8 +103,8 @@
         },
         {
           "rank": 7,
-          "game": "Carolina Panthers @ Jacksonville Jaguars",
-          "pick": "Carolina Panthers",
+          "game": "Miami Dolphins @ New England Patriots",
+          "pick": "Miami Dolphins",
           "confidence": 50.0,
           "points": 26,
           "spread": 0.0,
@@ -117,8 +117,8 @@
         },
         {
           "rank": 8,
-          "game": "San Francisco 49ers @ Seattle Seahawks",
-          "pick": "San Francisco 49ers",
+          "game": "Washington Commanders @ Philadelphia Eagles",
+          "pick": "Washington Commanders",
           "confidence": 50.0,
           "points": 22,
           "spread": 0.0,
@@ -131,8 +131,8 @@
         },
         {
           "rank": 9,
-          "game": "Minnesota Vikings @ Chicago Bears",
-          "pick": "Minnesota Vikings",
+          "game": "Los Angeles Chargers @ Denver Broncos",
+          "pick": "Los Angeles Chargers",
           "confidence": 50.0,
           "points": 18,
           "spread": 0.0,
@@ -145,8 +145,8 @@
         },
         {
           "rank": 10,
-          "game": "Las Vegas Raiders @ New England Patriots",
-          "pick": "Las Vegas Raiders",
+          "game": "New Orleans Saints @ Atlanta Falcons",
+          "pick": "New Orleans Saints",
           "confidence": 50.0,
           "points": 14,
           "spread": 0.0,
@@ -159,8 +159,8 @@
         },
         {
           "rank": 11,
-          "game": "Houston Texans @ Los Angeles Rams",
-          "pick": "Los Angeles Rams",
+          "game": "Cleveland Browns @ Cincinnati Bengals",
+          "pick": "Cleveland Browns",
           "confidence": 50.0,
           "points": 12,
           "spread": 0.0,
@@ -173,8 +173,8 @@
         },
         {
           "rank": 12,
-          "game": "New York Giants @ Washington Commanders",
-          "pick": "Washington Commanders",
+          "game": "Tennessee Titans @ Jacksonville Jaguars",
+          "pick": "Tennessee Titans",
           "confidence": 50.0,
           "points": 10,
           "spread": 0.0,
@@ -187,8 +187,8 @@
         },
         {
           "rank": 13,
-          "game": "Detroit Lions @ Green Bay Packers",
-          "pick": "Detroit Lions",
+          "game": "Indianapolis Colts @ Houston Texans",
+          "pick": "Indianapolis Colts",
           "confidence": 50.0,
           "points": 8,
           "spread": 0.0,
@@ -201,8 +201,8 @@
         },
         {
           "rank": 14,
-          "game": "Baltimore Ravens @ Buffalo Bills",
-          "pick": "Baltimore Ravens",
+          "game": "Arizona Cardinals @ Los Angeles Rams",
+          "pick": "Arizona Cardinals",
           "confidence": 50.0,
           "points": 6,
           "spread": 0.0,
@@ -215,8 +215,8 @@
         },
         {
           "rank": 15,
-          "game": "Pittsburgh Steelers @ New York Jets",
-          "pick": "New York Jets",
+          "game": "Baltimore Ravens @ Pittsburgh Steelers",
+          "pick": "Baltimore Ravens",
           "confidence": 50.0,
           "points": 5,
           "spread": 0.0,
@@ -230,143 +230,143 @@
       ],
       "results": [
         {
-          "game": "Dallas Cowboys @ Philadelphia Eagles",
-          "pick": "Philadelphia Eagles",
+          "game": "Detroit Lions @ Chicago Bears",
+          "pick": "Chicago Bears",
           "points": 100,
-          "winner": "Philadelphia Eagles",
+          "winner": "Detroit Lions",
           "score": "N/A",
-          "correct": true,
+          "correct": false,
           "confidence": 50.0
         },
         {
-          "game": "Kansas City Chiefs @ Los Angeles Chargers",
-          "pick": "Kansas City Chiefs",
+          "game": "Green Bay Packers @ Minnesota Vikings",
+          "pick": "Green Bay Packers",
           "points": 75,
-          "winner": "Los Angeles Chargers",
-          "score": "N/A",
-          "correct": false,
-          "confidence": 50.0
-        },
-        {
-          "game": "Cincinnati Bengals @ Cleveland Browns",
-          "pick": "Cincinnati Bengals",
-          "points": 60,
-          "winner": "Cincinnati Bengals",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "Tennessee Titans @ Denver Broncos",
-          "pick": "Denver Broncos",
-          "points": 50,
-          "winner": "Denver Broncos",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "Tampa Bay Buccaneers @ Atlanta Falcons",
-          "pick": "Tampa Bay Buccaneers",
-          "points": 40,
-          "winner": "Tampa Bay Buccaneers",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "Miami Dolphins @ Indianapolis Colts",
-          "pick": "Miami Dolphins",
-          "points": 35,
-          "winner": "Indianapolis Colts",
-          "score": "N/A",
-          "correct": false,
-          "confidence": 50.0
-        },
-        {
-          "game": "Arizona Cardinals @ New Orleans Saints",
-          "pick": "New Orleans Saints",
-          "points": 30,
-          "winner": "Arizona Cardinals",
-          "score": "N/A",
-          "correct": false,
-          "confidence": 50.0
-        },
-        {
-          "game": "Carolina Panthers @ Jacksonville Jaguars",
-          "pick": "Carolina Panthers",
-          "points": 26,
-          "winner": "Jacksonville Jaguars",
-          "score": "N/A",
-          "correct": false,
-          "confidence": 50.0
-        },
-        {
-          "game": "San Francisco 49ers @ Seattle Seahawks",
-          "pick": "San Francisco 49ers",
-          "points": 22,
-          "winner": "San Francisco 49ers",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "Minnesota Vikings @ Chicago Bears",
-          "pick": "Minnesota Vikings",
-          "points": 18,
           "winner": "Minnesota Vikings",
           "score": "N/A",
-          "correct": true,
+          "correct": false,
           "confidence": 50.0
         },
         {
-          "game": "Las Vegas Raiders @ New England Patriots",
-          "pick": "Las Vegas Raiders",
-          "points": 14,
-          "winner": "Las Vegas Raiders",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "Houston Texans @ Los Angeles Rams",
-          "pick": "Los Angeles Rams",
-          "points": 12,
-          "winner": "Los Angeles Rams",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "New York Giants @ Washington Commanders",
-          "pick": "Washington Commanders",
-          "points": 10,
-          "winner": "Washington Commanders",
-          "score": "N/A",
-          "correct": true,
-          "confidence": 50.0
-        },
-        {
-          "game": "Detroit Lions @ Green Bay Packers",
-          "pick": "Detroit Lions",
-          "points": 8,
-          "winner": "Green Bay Packers",
+          "game": "Dallas Cowboys @ New York Giants",
+          "pick": "Dallas Cowboys",
+          "points": 60,
+          "winner": "New York Giants",
           "score": "N/A",
           "correct": false,
           "confidence": 50.0
         },
         {
-          "game": "Baltimore Ravens @ Buffalo Bills",
-          "pick": "Baltimore Ravens",
-          "points": 6,
+          "game": "New York Jets @ Buffalo Bills",
+          "pick": "New York Jets",
+          "points": 50,
           "winner": "Buffalo Bills",
           "score": "N/A",
           "correct": false,
           "confidence": 50.0
         },
         {
-          "game": "Pittsburgh Steelers @ New York Jets",
-          "pick": "New York Jets",
+          "game": "Kansas City Chiefs @ Las Vegas Raiders",
+          "pick": "Las Vegas Raiders",
+          "points": 40,
+          "winner": "Las Vegas Raiders",
+          "score": "N/A",
+          "correct": true,
+          "confidence": 50.0
+        },
+        {
+          "game": "Carolina Panthers @ Tampa Bay Buccaneers",
+          "pick": "Carolina Panthers",
+          "points": 35,
+          "winner": "Tampa Bay Buccaneers",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "Seattle Seahawks @ San Francisco 49ers",
+          "pick": "Seattle Seahawks",
+          "points": 30,
+          "winner": "Seattle Seahawks",
+          "score": "N/A",
+          "correct": true,
+          "confidence": 50.0
+        },
+        {
+          "game": "Miami Dolphins @ New England Patriots",
+          "pick": "Miami Dolphins",
+          "points": 26,
+          "winner": "New England Patriots",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "Washington Commanders @ Philadelphia Eagles",
+          "pick": "Washington Commanders",
+          "points": 22,
+          "winner": "Washington Commanders",
+          "score": "N/A",
+          "correct": true,
+          "confidence": 50.0
+        },
+        {
+          "game": "Los Angeles Chargers @ Denver Broncos",
+          "pick": "Los Angeles Chargers",
+          "points": 18,
+          "winner": "Denver Broncos",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "New Orleans Saints @ Atlanta Falcons",
+          "pick": "New Orleans Saints",
+          "points": 14,
+          "winner": "Atlanta Falcons",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "Cleveland Browns @ Cincinnati Bengals",
+          "pick": "Cleveland Browns",
+          "points": 12,
+          "winner": "Cleveland Browns",
+          "score": "N/A",
+          "correct": true,
+          "confidence": 50.0
+        },
+        {
+          "game": "Tennessee Titans @ Jacksonville Jaguars",
+          "pick": "Tennessee Titans",
+          "points": 10,
+          "winner": "Jacksonville Jaguars",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "Indianapolis Colts @ Houston Texans",
+          "pick": "Indianapolis Colts",
+          "points": 8,
+          "winner": "Houston Texans",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "Arizona Cardinals @ Los Angeles Rams",
+          "pick": "Arizona Cardinals",
+          "points": 6,
+          "winner": "Los Angeles Rams",
+          "score": "N/A",
+          "correct": false,
+          "confidence": 50.0
+        },
+        {
+          "game": "Baltimore Ravens @ Pittsburgh Steelers",
+          "pick": "Baltimore Ravens",
           "points": 5,
           "winner": "Pittsburgh Steelers",
           "score": "N/A",
@@ -374,13 +374,13 @@
           "confidence": 50.0
         }
       ],
-      "accuracy": 56.25,
-      "correct": 9,
+      "accuracy": 25.0,
+      "correct": 4,
       "total": 16,
-      "points_earned": 326,
+      "points_earned": 104,
       "points_possible": 511,
-      "created_at": "2026-01-11T13:29:31.924161",
-      "updated_at": "2026-01-11T13:29:31.924167"
+      "created_at": "2026-01-11T14:21:29.501649",
+      "updated_at": "2026-01-11T14:21:29.501655"
     }
   ]
 }

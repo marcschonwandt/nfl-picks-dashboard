@@ -1,7 +1,7 @@
 [
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4413,
     "home_team": "JAX",
@@ -14,12 +14,11 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4414,
     "home_team": "HOU",
@@ -32,12 +31,11 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4402,
     "home_team": "BUF",
@@ -50,12 +48,11 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4411,
     "home_team": "PHI",
@@ -68,12 +65,11 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4407,
     "home_team": "LA",
@@ -86,12 +82,11 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4409,
     "home_team": "NE",
@@ -104,12 +99,11 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4405,
     "home_team": "DEN",
@@ -122,12 +116,11 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4404,
     "home_team": "CIN",
@@ -140,12 +133,11 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4406,
     "home_team": "LV",
@@ -158,12 +150,11 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4408,
     "home_team": "MIN",
@@ -176,12 +167,11 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4403,
     "home_team": "CHI",
@@ -194,12 +184,11 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4401,
     "home_team": "ATL",
@@ -212,12 +201,11 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4410,
     "home_team": "NYG",
@@ -230,12 +218,11 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4400,
     "home_team": "TB",
@@ -248,12 +235,11 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4412,
     "home_team": "SF",
@@ -266,12 +252,11 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 17213,
-    "user_name": "Per Schønwandt",
+    "user_name": "Per Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4415,
     "home_team": "PIT",
@@ -284,8 +269,7 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -302,8 +286,7 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -320,8 +303,7 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -338,8 +320,7 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -356,8 +337,7 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -374,8 +354,7 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -392,8 +371,7 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -410,8 +388,7 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -428,8 +405,7 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -446,8 +422,7 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -464,8 +439,7 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -482,8 +456,7 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -500,8 +473,7 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -518,8 +490,7 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -536,8 +507,7 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -554,8 +524,7 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 29626,
@@ -572,8 +541,279 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4405,
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "matchup": "LAC @ DEN",
+    "selected_team": "DEN",
+    "points": 100,
+    "rank": 0,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 19,
+    "away_score": 3,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4409,
+    "home_team": "NE",
+    "away_team": "MIA",
+    "matchup": "MIA @ NE",
+    "selected_team": "NE",
+    "points": 75,
+    "rank": 1,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 38,
+    "away_score": 10,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4413,
+    "home_team": "JAX",
+    "away_team": "TEN",
+    "matchup": "TEN @ JAX",
+    "selected_team": "JAX",
+    "points": 60,
+    "rank": 2,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 41,
+    "away_score": 7,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4414,
+    "home_team": "HOU",
+    "away_team": "IND",
+    "matchup": "IND @ HOU",
+    "selected_team": "HOU",
+    "points": 50,
+    "rank": 3,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 38,
+    "away_score": 30,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4404,
+    "home_team": "CIN",
+    "away_team": "CLE",
+    "matchup": "CLE @ CIN",
+    "selected_team": "CIN",
+    "points": 40,
+    "rank": 4,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 18,
+    "away_score": 20,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4402,
+    "home_team": "BUF",
+    "away_team": "NYJ",
+    "matchup": "NYJ @ BUF",
+    "selected_team": "BUF",
+    "points": 35,
+    "rank": 5,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 35,
+    "away_score": 8,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4401,
+    "home_team": "ATL",
+    "away_team": "NO",
+    "matchup": "NO @ ATL",
+    "selected_team": "ATL",
+    "points": 30,
+    "rank": 6,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 19,
+    "away_score": 17,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4407,
+    "home_team": "LA",
+    "away_team": "ARI",
+    "matchup": "ARI @ LA",
+    "selected_team": "LA",
+    "points": 26,
+    "rank": 7,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 37,
+    "away_score": 20,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4400,
+    "home_team": "TB",
+    "away_team": "CAR",
+    "matchup": "CAR @ TB",
+    "selected_team": "TB",
+    "points": 22,
+    "rank": 8,
+    "timestamp": 1767475800,
+    "game_date": "03/01 22:30",
+    "home_score": 16,
+    "away_score": 14,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4408,
+    "home_team": "MIN",
+    "away_team": "GB",
+    "matchup": "GB @ MIN",
+    "selected_team": "MIN",
+    "points": 18,
+    "rank": 9,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 16,
+    "away_score": 3,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4412,
+    "home_team": "SF",
+    "away_team": "SEA",
+    "matchup": "SEA @ SF",
+    "selected_team": "SEA",
+    "points": 14,
+    "rank": 10,
+    "timestamp": 1767488400,
+    "game_date": "04/01 02:00",
+    "home_score": 3,
+    "away_score": 13,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4410,
+    "home_team": "NYG",
+    "away_team": "DAL",
+    "matchup": "DAL @ NYG",
+    "selected_team": "DAL",
+    "points": 12,
+    "rank": 11,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 34,
+    "away_score": 17,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4403,
+    "home_team": "CHI",
+    "away_team": "DET",
+    "matchup": "DET @ CHI",
+    "selected_team": "CHI",
+    "points": 10,
+    "rank": 12,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 16,
+    "away_score": 19,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4406,
+    "home_team": "LV",
+    "away_team": "KC",
+    "matchup": "KC @ LV",
+    "selected_team": "KC",
+    "points": 8,
+    "rank": 13,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 14,
+    "away_score": 12,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4415,
+    "home_team": "PIT",
+    "away_team": "BAL",
+    "matchup": "BAL @ PIT",
+    "selected_team": "BAL",
+    "points": 6,
+    "rank": 14,
+    "timestamp": 1767576000,
+    "game_date": "05/01 02:20",
+    "home_score": 26,
+    "away_score": 24,
+    "is_final": true
+  },
+  {
+    "user_id": 26337,
+    "user_name": "Anne sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4411,
+    "home_team": "PHI",
+    "away_team": "WAS",
+    "matchup": "WAS @ PHI",
+    "selected_team": "PHI",
+    "points": 5,
+    "rank": 15,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 17,
+    "away_score": 24,
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -590,8 +830,7 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -608,8 +847,7 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -626,8 +864,7 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -644,8 +881,7 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -662,8 +898,7 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -680,8 +915,7 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -698,8 +932,7 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -716,8 +949,7 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -734,8 +966,7 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -752,8 +983,7 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -770,8 +1000,7 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -788,8 +1017,7 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -806,8 +1034,7 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -824,8 +1051,7 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -842,8 +1068,7 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 16981,
@@ -860,8 +1085,7 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -878,8 +1102,7 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -896,8 +1119,7 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -914,8 +1136,7 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -932,8 +1153,7 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -950,8 +1170,7 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -968,8 +1187,7 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -986,8 +1204,7 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1004,8 +1221,7 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1022,8 +1238,7 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1040,8 +1255,7 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1058,8 +1272,7 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1076,8 +1289,7 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1094,8 +1306,7 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1112,8 +1323,7 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1130,8 +1340,7 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 34641,
@@ -1148,8 +1357,7 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1166,8 +1374,7 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1184,8 +1391,7 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1202,8 +1408,7 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1220,8 +1425,7 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1238,8 +1442,7 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1256,8 +1459,7 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1274,8 +1476,7 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1292,8 +1493,7 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1310,8 +1510,7 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1328,8 +1527,7 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1346,8 +1544,7 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1364,8 +1561,7 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1382,8 +1578,7 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1400,8 +1595,7 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1418,8 +1612,7 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 29597,
@@ -1436,8 +1629,7 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1454,8 +1646,7 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1472,8 +1663,7 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1490,8 +1680,7 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1508,8 +1697,7 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1526,8 +1714,7 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1544,8 +1731,7 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1562,8 +1748,7 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1580,8 +1765,7 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1598,8 +1782,7 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1616,8 +1799,7 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1634,8 +1816,7 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1652,8 +1833,7 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1670,8 +1850,7 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1688,8 +1867,7 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1706,8 +1884,7 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 29606,
@@ -1724,12 +1901,11 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4413,
     "home_team": "JAX",
@@ -1742,12 +1918,11 @@
     "game_date": "04/01 19:00",
     "home_score": 41,
     "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4414,
     "home_team": "HOU",
@@ -1760,12 +1935,11 @@
     "game_date": "04/01 19:00",
     "home_score": 38,
     "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4402,
     "home_team": "BUF",
@@ -1778,12 +1952,11 @@
     "game_date": "04/01 22:25",
     "home_score": 35,
     "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4411,
     "home_team": "PHI",
@@ -1796,12 +1969,11 @@
     "game_date": "04/01 22:25",
     "home_score": 17,
     "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4407,
     "home_team": "LA",
@@ -1814,12 +1986,11 @@
     "game_date": "04/01 22:25",
     "home_score": 37,
     "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4409,
     "home_team": "NE",
@@ -1832,12 +2003,11 @@
     "game_date": "04/01 22:25",
     "home_score": 38,
     "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4405,
     "home_team": "DEN",
@@ -1850,12 +2020,11 @@
     "game_date": "04/01 22:25",
     "home_score": 19,
     "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4404,
     "home_team": "CIN",
@@ -1868,12 +2037,11 @@
     "game_date": "04/01 19:00",
     "home_score": 18,
     "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4406,
     "home_team": "LV",
@@ -1886,12 +2054,11 @@
     "game_date": "04/01 22:25",
     "home_score": 14,
     "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4408,
     "home_team": "MIN",
@@ -1904,12 +2071,11 @@
     "game_date": "04/01 19:00",
     "home_score": 16,
     "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4403,
     "home_team": "CHI",
@@ -1922,12 +2088,11 @@
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4401,
     "home_team": "ATL",
@@ -1940,12 +2105,11 @@
     "game_date": "04/01 19:00",
     "home_score": 19,
     "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4400,
     "home_team": "TB",
@@ -1958,12 +2122,11 @@
     "game_date": "03/01 22:30",
     "home_score": 16,
     "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4410,
     "home_team": "NYG",
@@ -1976,12 +2139,11 @@
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4412,
     "home_team": "SF",
@@ -1994,12 +2156,11 @@
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 29763,
-    "user_name": "Vibeke Schønwandt",
+    "user_name": "Vibeke Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4415,
     "home_team": "PIT",
@@ -2012,295 +2173,278 @@
     "game_date": "05/01 02:20",
     "home_score": 26,
     "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4413,
-    "home_team": "JAX",
-    "away_team": "TEN",
-    "matchup": "TEN @ JAX",
-    "selected_team": "JAX",
-    "points": 100,
-    "rank": 0,
-    "timestamp": 1767549600,
-    "game_date": "04/01 19:00",
-    "home_score": 41,
-    "away_score": 7,
-    "is_final": true,
-    "winner": "JAX"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4405,
-    "home_team": "DEN",
-    "away_team": "LAC",
-    "matchup": "LAC @ DEN",
-    "selected_team": "DEN",
-    "points": 75,
-    "rank": 1,
-    "timestamp": 1767561900,
-    "game_date": "04/01 22:25",
-    "home_score": 19,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "DEN"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4409,
-    "home_team": "NE",
-    "away_team": "MIA",
-    "matchup": "MIA @ NE",
-    "selected_team": "NE",
-    "points": 60,
-    "rank": 2,
-    "timestamp": 1767561900,
-    "game_date": "04/01 22:25",
-    "home_score": 38,
-    "away_score": 10,
-    "is_final": true,
-    "winner": "NE"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4414,
-    "home_team": "HOU",
-    "away_team": "IND",
-    "matchup": "IND @ HOU",
-    "selected_team": "HOU",
-    "points": 50,
-    "rank": 3,
-    "timestamp": 1767549600,
-    "game_date": "04/01 19:00",
-    "home_score": 38,
-    "away_score": 30,
-    "is_final": true,
-    "winner": "HOU"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4408,
-    "home_team": "MIN",
-    "away_team": "GB",
-    "matchup": "GB @ MIN",
-    "selected_team": "MIN",
-    "points": 40,
-    "rank": 4,
-    "timestamp": 1767549600,
-    "game_date": "04/01 19:00",
-    "home_score": 16,
-    "away_score": 3,
-    "is_final": true,
-    "winner": "MIN"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4407,
-    "home_team": "LA",
-    "away_team": "ARI",
-    "matchup": "ARI @ LA",
-    "selected_team": "LA",
-    "points": 35,
-    "rank": 5,
-    "timestamp": 1767561900,
-    "game_date": "04/01 22:25",
-    "home_score": 37,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "LA"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4404,
-    "home_team": "CIN",
-    "away_team": "CLE",
-    "matchup": "CLE @ CIN",
-    "selected_team": "CIN",
-    "points": 30,
-    "rank": 6,
-    "timestamp": 1767549600,
-    "game_date": "04/01 19:00",
-    "home_score": 18,
-    "away_score": 20,
-    "is_final": true,
-    "winner": "CLE"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4402,
-    "home_team": "BUF",
-    "away_team": "NYJ",
-    "matchup": "NYJ @ BUF",
-    "selected_team": "BUF",
-    "points": 26,
-    "rank": 7,
-    "timestamp": 1767561900,
-    "game_date": "04/01 22:25",
-    "home_score": 35,
-    "away_score": 8,
-    "is_final": true,
-    "winner": "BUF"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
-    "week": 18,
-    "game_id": 4406,
-    "home_team": "LV",
-    "away_team": "KC",
-    "matchup": "KC @ LV",
-    "selected_team": "KC",
-    "points": 22,
-    "rank": 8,
-    "timestamp": 1767561900,
-    "game_date": "04/01 22:25",
-    "home_score": 14,
-    "away_score": 12,
-    "is_final": true,
-    "winner": "LV"
-  },
-  {
-    "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4403,
     "home_team": "CHI",
     "away_team": "DET",
     "matchup": "DET @ CHI",
     "selected_team": "CHI",
-    "points": 18,
-    "rank": 9,
+    "points": 100,
+    "rank": 0,
     "timestamp": 1767561900,
     "game_date": "04/01 22:25",
     "home_score": 16,
     "away_score": 19,
-    "is_final": true,
-    "winner": "DET"
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
-    "game_id": 4411,
-    "home_team": "PHI",
-    "away_team": "WAS",
-    "matchup": "WAS @ PHI",
-    "selected_team": "PHI",
-    "points": 14,
-    "rank": 10,
-    "timestamp": 1767561900,
-    "game_date": "04/01 22:25",
-    "home_score": 17,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "WAS"
+    "game_id": 4408,
+    "home_team": "MIN",
+    "away_team": "GB",
+    "matchup": "GB @ MIN",
+    "selected_team": "GB",
+    "points": 75,
+    "rank": 1,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 16,
+    "away_score": 3,
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4410,
     "home_team": "NYG",
     "away_team": "DAL",
     "matchup": "DAL @ NYG",
     "selected_team": "DAL",
-    "points": 12,
-    "rank": 11,
+    "points": 60,
+    "rank": 2,
     "timestamp": 1767549600,
     "game_date": "04/01 19:00",
     "home_score": 34,
     "away_score": 17,
-    "is_final": true,
-    "winner": "NYG"
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
-    "game_id": 4401,
-    "home_team": "ATL",
-    "away_team": "NO",
-    "matchup": "NO @ ATL",
-    "selected_team": "ATL",
-    "points": 10,
-    "rank": 12,
-    "timestamp": 1767549600,
-    "game_date": "04/01 19:00",
-    "home_score": 19,
-    "away_score": 17,
-    "is_final": true,
-    "winner": "ATL"
+    "game_id": 4402,
+    "home_team": "BUF",
+    "away_team": "NYJ",
+    "matchup": "NYJ @ BUF",
+    "selected_team": "NYJ",
+    "points": 50,
+    "rank": 3,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 35,
+    "away_score": 8,
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
-    "game_id": 4415,
-    "home_team": "PIT",
-    "away_team": "BAL",
-    "matchup": "BAL @ PIT",
-    "selected_team": "BAL",
-    "points": 8,
-    "rank": 13,
-    "timestamp": 1767576000,
-    "game_date": "05/01 02:20",
-    "home_score": 26,
-    "away_score": 24,
-    "is_final": true,
-    "winner": "PIT"
+    "game_id": 4406,
+    "home_team": "LV",
+    "away_team": "KC",
+    "matchup": "KC @ LV",
+    "selected_team": "LV",
+    "points": 40,
+    "rank": 4,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 14,
+    "away_score": 12,
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4400,
+    "home_team": "TB",
+    "away_team": "CAR",
+    "matchup": "CAR @ TB",
+    "selected_team": "CAR",
+    "points": 35,
+    "rank": 5,
+    "timestamp": 1767475800,
+    "game_date": "03/01 22:30",
+    "home_score": 16,
+    "away_score": 14,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
     "game_id": 4412,
     "home_team": "SF",
     "away_team": "SEA",
     "matchup": "SEA @ SF",
     "selected_team": "SEA",
-    "points": 6,
-    "rank": 14,
+    "points": 30,
+    "rank": 6,
     "timestamp": 1767488400,
     "game_date": "04/01 02:00",
     "home_score": 3,
     "away_score": 13,
-    "is_final": true,
-    "winner": "SEA"
+    "is_final": true
   },
   {
     "user_id": 36286,
-    "user_name": "Marc Schønwandt",
+    "user_name": "Marc Sch\u00f8nwandt",
     "week": 18,
-    "game_id": 4400,
-    "home_team": "TB",
-    "away_team": "CAR",
-    "matchup": "CAR @ TB",
-    "selected_team": "TB",
+    "game_id": 4409,
+    "home_team": "NE",
+    "away_team": "MIA",
+    "matchup": "MIA @ NE",
+    "selected_team": "MIA",
+    "points": 26,
+    "rank": 7,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 38,
+    "away_score": 10,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4411,
+    "home_team": "PHI",
+    "away_team": "WAS",
+    "matchup": "WAS @ PHI",
+    "selected_team": "WAS",
+    "points": 22,
+    "rank": 8,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 17,
+    "away_score": 24,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4405,
+    "home_team": "DEN",
+    "away_team": "LAC",
+    "matchup": "LAC @ DEN",
+    "selected_team": "LAC",
+    "points": 18,
+    "rank": 9,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 19,
+    "away_score": 3,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4401,
+    "home_team": "ATL",
+    "away_team": "NO",
+    "matchup": "NO @ ATL",
+    "selected_team": "NO",
+    "points": 14,
+    "rank": 10,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 19,
+    "away_score": 17,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4404,
+    "home_team": "CIN",
+    "away_team": "CLE",
+    "matchup": "CLE @ CIN",
+    "selected_team": "CLE",
+    "points": 12,
+    "rank": 11,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 18,
+    "away_score": 20,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4413,
+    "home_team": "JAX",
+    "away_team": "TEN",
+    "matchup": "TEN @ JAX",
+    "selected_team": "TEN",
+    "points": 10,
+    "rank": 12,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 41,
+    "away_score": 7,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4414,
+    "home_team": "HOU",
+    "away_team": "IND",
+    "matchup": "IND @ HOU",
+    "selected_team": "IND",
+    "points": 8,
+    "rank": 13,
+    "timestamp": 1767549600,
+    "game_date": "04/01 19:00",
+    "home_score": 38,
+    "away_score": 30,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4407,
+    "home_team": "LA",
+    "away_team": "ARI",
+    "matchup": "ARI @ LA",
+    "selected_team": "ARI",
+    "points": 6,
+    "rank": 14,
+    "timestamp": 1767561900,
+    "game_date": "04/01 22:25",
+    "home_score": 37,
+    "away_score": 20,
+    "is_final": true
+  },
+  {
+    "user_id": 36286,
+    "user_name": "Marc Sch\u00f8nwandt",
+    "week": 18,
+    "game_id": 4415,
+    "home_team": "PIT",
+    "away_team": "BAL",
+    "matchup": "BAL @ PIT",
+    "selected_team": "BAL",
     "points": 5,
     "rank": 15,
-    "timestamp": 1767475800,
-    "game_date": "03/01 22:30",
-    "home_score": 16,
-    "away_score": 14,
-    "is_final": true,
-    "winner": "TB"
+    "timestamp": 1767576000,
+    "game_date": "05/01 02:20",
+    "home_score": 26,
+    "away_score": 24,
+    "is_final": true
   }
 ]
